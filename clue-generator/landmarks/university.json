@@ -1,0 +1,461 @@
+[
+  {
+    "name": "Brighton Metropolitan College",
+    "type": "university",
+    "lat": 50.82911360000001,
+    "lon": -0.136965,
+    "address": "1A Pelham Street, Brighton",
+    "rating": 3.5,
+    "side": "north-central"
+  },
+  {
+    "name": "A4e",
+    "type": "university",
+    "lat": 50.82686289999999,
+    "lon": -0.1420932,
+    "address": "Maxx House, 49 Queens Road, Brighton",
+    "rating": null,
+    "side": "central-central"
+  },
+  {
+    "name": "The Military Preparation College",
+    "type": "university",
+    "lat": 50.83788149999999,
+    "lon": -0.1535996,
+    "address": "198 Dyke Road, Brighton",
+    "rating": 1,
+    "side": "north-west"
+  },
+  {
+    "name": "SEO COLLEGE",
+    "type": "university",
+    "lat": 50.82406229999999,
+    "lon": -0.1555446,
+    "address": "19 Norfolk Square, Brighton",
+    "rating": null,
+    "side": "central-west"
+  },
+  {
+    "name": "Grand Parade main building",
+    "type": "university",
+    "lat": 50.8242956,
+    "lon": -0.1355047,
+    "address": "University of Brighton, 58–67 Grand Parade, Brighton",
+    "rating": 5,
+    "side": "central-central"
+  },
+  {
+    "name": "Edward Street, University of Brighton",
+    "type": "university",
+    "lat": 50.8221511,
+    "lon": -0.1327107,
+    "address": "154-155 Edward Street, Brighton",
+    "rating": 3.5,
+    "side": "central-east"
+  },
+  {
+    "name": "University of Brighton, Dorset Place",
+    "type": "university",
+    "lat": 50.8220085,
+    "lon": -0.1326289,
+    "address": "3 Dorset Place, Brighton",
+    "rating": 5,
+    "side": "central-east"
+  },
+  {
+    "name": "I U P 2",
+    "type": "university",
+    "lat": 50.8257317,
+    "lon": -0.1360802,
+    "address": "1 Gloucester Place, Brighton",
+    "rating": null,
+    "side": "central-central"
+  },
+  {
+    "name": "Kings Brighton",
+    "type": "university",
+    "lat": 50.8303787,
+    "lon": -0.134867,
+    "address": "27-33 Ditchling Road, Brighton",
+    "rating": 4.2,
+    "side": "north-east"
+  },
+  {
+    "name": "The Workers Educational Association",
+    "type": "university",
+    "lat": 50.8279144,
+    "lon": -0.1688121,
+    "address": "1st Floor Rear, North Room D, 10 The Drive, Hove",
+    "rating": null,
+    "side": "north-west"
+  },
+  {
+    "name": "Kitchen Academy",
+    "type": "university",
+    "lat": 50.8445084,
+    "lon": -0.1472687,
+    "address": "11 Harrington Villas, Brighton",
+    "rating": 1,
+    "side": "north-west"
+  },
+  {
+    "name": "Brighton Metropolitan College, East Campus",
+    "type": "university",
+    "lat": 50.8234068,
+    "lon": -0.098716,
+    "address": "Stanley Deason Leisure Center, 107 Wilson Avenue, Brighton",
+    "rating": 4,
+    "side": "central-east"
+  },
+  {
+    "name": "Cockcroft Building, University of Brighton",
+    "type": "university",
+    "lat": 50.8453274,
+    "lon": -0.1182932,
+    "address": "Lewes Road, Brighton",
+    "rating": 4.2,
+    "side": "north-east"
+  },
+  {
+    "name": "KTP Centre at the University of Brighton",
+    "type": "university",
+    "lat": 50.8453993,
+    "lon": -0.1180093,
+    "address": "Cockcroft Building, Brighton",
+    "rating": null,
+    "side": "north-east"
+  },
+  {
+    "name": "Brighton & Hove Boxing Gym",
+    "type": "university",
+    "lat": 50.8245263,
+    "lon": -0.1781706,
+    "address": "Brighton & Hove Boxing Gym, King's Esplanade, Hove",
+    "rating": 4.9,
+    "side": "central-west"
+  },
+  {
+    "name": "University of Brighton Gallery",
+    "type": "university",
+    "lat": 50.82417909999999,
+    "lon": -0.1354673,
+    "address": "58-67 Grand Parade, Brighton",
+    "rating": 5,
+    "side": "central-central"
+  },
+  {
+    "name": "University of Brighton Student Union",
+    "type": "university",
+    "lat": 50.8243514,
+    "lon": -0.1354832,
+    "address": "58-67 Grand Parade, Brighton",
+    "rating": null,
+    "side": "central-central"
+  },
+  {
+    "name": "Bartholomews Tutorial College",
+    "type": "university",
+    "lat": 50.8209811,
+    "lon": -0.139819,
+    "address": "Bartholomews Tutorial College, Prince Albert Street, Brighton",
+    "rating": 4.9,
+    "side": "south-central"
+  },
+  {
+    "name": "BIMM Group",
+    "type": "university",
+    "lat": 50.8206821,
+    "lon": -0.1382666,
+    "address": "48A Old Steine, Brighton",
+    "rating": 4.4,
+    "side": "south-central"
+  },
+  {
+    "name": "St. John's College",
+    "type": "university",
+    "lat": 50.82074300000001,
+    "lon": -0.1175821,
+    "address": "17 Walpole Road, Brighton",
+    "rating": 3.9,
+    "side": "south-east"
+  },
+  {
+    "name": "University of Brighton International College",
+    "type": "university",
+    "lat": 50.844319,
+    "lon": -0.1190519,
+    "address": "Watts Building, Lewes Road, Brighton",
+    "rating": 4.1,
+    "side": "north-east"
+  },
+  {
+    "name": "South Downs Psychotherapy",
+    "type": "university",
+    "lat": 50.8239224,
+    "lon": -0.1390514,
+    "address": "28 New Road, Brighton",
+    "rating": null,
+    "side": "central-central"
+  },
+  {
+    "name": "University of Brighton City Campus",
+    "type": "university",
+    "lat": 50.8243229,
+    "lon": -0.1354966,
+    "address": "58-67 Grand Parade, Brighton",
+    "rating": 3.4,
+    "side": "central-central"
+  },
+  {
+    "name": "Maplewood Variety",
+    "type": "university",
+    "lat": 50.8222084,
+    "lon": -0.1323339,
+    "address": "Edward Street, Kemptown, Brighton and Hove, Brighton",
+    "rating": null,
+    "side": "central-east"
+  },
+  {
+    "name": "SABC Tech Traning and Repair",
+    "type": "university",
+    "lat": 50.82318610000002,
+    "lon": -0.1419747,
+    "address": "44 North Street, Brighton and Hove, Brighton",
+    "rating": null,
+    "side": "central-central"
+  },
+  {
+    "name": "Carousels",
+    "type": "university",
+    "lat": 50.82018950000001,
+    "lon": -0.142882,
+    "address": "216-225 Kings Road, Brighton",
+    "rating": 2.7,
+    "side": "south-central"
+  },
+  {
+    "name": "The Brighton Academy - Brighton Campus",
+    "type": "university",
+    "lat": 50.82652539999999,
+    "lon": -0.1340158,
+    "address": "12 Richmond Parade, Brighton",
+    "rating": 5,
+    "side": "central-east"
+  },
+  {
+    "name": "Act Drama School",
+    "type": "university",
+    "lat": 50.8202649,
+    "lon": -0.1306821,
+    "address": "77 Saint James's Street, Brighton",
+    "rating": 4.8,
+    "side": "south-east"
+  },
+  {
+    "name": "StrongLiving Personal Training Lewes / Online",
+    "type": "university",
+    "lat": 50.8299134,
+    "lon": -0.1375618,
+    "address": "10 New England Street Unit 4 Cobblers Thumb",
+    "rating": 5,
+    "side": "north-central"
+  },
+  {
+    "name": "Brighton College Montague Place",
+    "type": "university",
+    "lat": 50.8195789,
+    "lon": -0.1245222,
+    "address": "20 Saint George's Terrace, Brighton",
+    "rating": 5,
+    "side": "south-east"
+  },
+  {
+    "name": "Oxford International English School, Brighton",
+    "type": "university",
+    "lat": 50.8252496,
+    "lon": -0.154601,
+    "address": "International, Oxford, 52 Norfolk Square, Brighton and Hove, Brighton",
+    "rating": null,
+    "side": "central-west"
+  },
+  {
+    "name": "Team Domenica",
+    "type": "university",
+    "lat": 50.83376749999999,
+    "lon": -0.1395115,
+    "address": "5 - 7 Preston Road, Brighton",
+    "rating": null,
+    "side": "north-central"
+  },
+  {
+    "name": "The Brighton Academy (TBA) London Road Campus",
+    "type": "university",
+    "lat": 50.8366824,
+    "lon": -0.1360253,
+    "address": "19a Shaftesbury Place, Brighton",
+    "rating": 5,
+    "side": "north-central"
+  },
+  {
+    "name": "BIMM North",
+    "type": "university",
+    "lat": 50.8262693,
+    "lon": -0.161065,
+    "address": "6 Lansdowne Street, Hove",
+    "rating": null,
+    "side": "central-west"
+  },
+  {
+    "name": "Brighton Alexander Technique College",
+    "type": "university",
+    "lat": 50.827128,
+    "lon": -0.164612,
+    "address": "Cornerstone Community Center, 39 Church Road, Brighton",
+    "rating": 5,
+    "side": "north-west"
+  },
+  {
+    "name": "supajam",
+    "type": "university",
+    "lat": 50.83262440000001,
+    "lon": -0.1625911,
+    "address": "47 Cromwell Road, Brighton and Hove, Hove",
+    "rating": null,
+    "side": "north-west"
+  },
+  {
+    "name": "Purple Turtle Therapy",
+    "type": "university",
+    "lat": 50.82753049999999,
+    "lon": -0.1673066,
+    "address": "Room 2, Somatic Therapies Centre, Purple Turtle Therapy, Wellbeing and Academy, 81 Church Road, Brighton and Hove",
+    "rating": 5,
+    "side": "north-west"
+  },
+  {
+    "name": "University of Brighton Admissions & Enquiries",
+    "type": "university",
+    "lat": 50.8421164,
+    "lon": -0.1193649,
+    "address": "Mithras House, Lewes Road, Brighton",
+    "rating": 5,
+    "side": "north-east"
+  },
+  {
+    "name": "Preston Halls of Residence",
+    "type": "university",
+    "lat": 50.8417975,
+    "lon": -0.1204717,
+    "address": "RVRH+VX",
+    "rating": null,
+    "side": "north-east"
+  },
+  {
+    "name": "Mithras Halls, University of Brighton",
+    "type": "university",
+    "lat": 50.8422879,
+    "lon": -0.1199685,
+    "address": "Mithras Halls of Residence, Lewes Road, Brighton",
+    "rating": 4.5,
+    "side": "north-east"
+  },
+  {
+    "name": "Goldstone House, Mithras Halls, University of Brighton",
+    "type": "university",
+    "lat": 50.8425447,
+    "lon": -0.1198786,
+    "address": "Lewes Road, Brighton",
+    "rating": 4.2,
+    "side": "north-east"
+  },
+  {
+    "name": "Brunswick hall",
+    "type": "university",
+    "lat": 50.84281900000001,
+    "lon": -0.1195206,
+    "address": "Lewes Road, Brighton",
+    "rating": null,
+    "side": "north-east"
+  },
+  {
+    "name": "Elm House, University of Brighton",
+    "type": "university",
+    "lat": 50.8438037,
+    "lon": -0.1196953,
+    "address": "Lewes Road, Brighton",
+    "rating": 5,
+    "side": "north-east"
+  },
+  {
+    "name": "Watts Building, University of Brighton",
+    "type": "university",
+    "lat": 50.8444093,
+    "lon": -0.1194842,
+    "address": "Lewes Road, Brighton",
+    "rating": 4.7,
+    "side": "north-east"
+  },
+  {
+    "name": "Academy of Creative Training Hove",
+    "type": "university",
+    "lat": 50.8282767,
+    "lon": -0.1763232,
+    "address": "170A Church Road, Hove",
+    "rating": null,
+    "side": "north-west"
+  },
+  {
+    "name": "Brighton University Motorsport Team",
+    "type": "university",
+    "lat": 50.84477699999999,
+    "lon": -0.1182307,
+    "address": "70a Lewes Road, Brighton",
+    "rating": 5,
+    "side": "north-east"
+  },
+  {
+    "name": "EF Student House Brighton",
+    "type": "university",
+    "lat": 50.82684039999999,
+    "lon": -0.1768657,
+    "address": "36-38 Saint Aubyns, Hove",
+    "rating": 4,
+    "side": "central-west"
+  },
+  {
+    "name": "Heavy Engineering Building",
+    "type": "university",
+    "lat": 50.8455288,
+    "lon": -0.1192594,
+    "address": "University of, Lewes Road, Brighton and Hove, Brighton",
+    "rating": null,
+    "side": "north-east"
+  },
+  {
+    "name": "Design Technology Tutor",
+    "type": "university",
+    "lat": 50.8259449,
+    "lon": -0.1774852,
+    "address": "Saint Aubyns, Hove",
+    "rating": 5,
+    "side": "central-west"
+  },
+  {
+    "name": "Huxley Building, University of Brighton",
+    "type": "university",
+    "lat": 50.8459249,
+    "lon": -0.1187665,
+    "address": "University of, Campus, Lewes Road, Moulsecoomb, Brighton",
+    "rating": 4,
+    "side": "north-east"
+  },
+  {
+    "name": "MetStudios Brighton",
+    "type": "university",
+    "lat": 50.83275019999999,
+    "lon": -0.1374371,
+    "address": "84-86 London Road, Brighton",
+    "rating": null,
+    "side": "north-central"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Brighton Police Station",
+    "type": "police",
+    "lat": 50.8236319,
+    "lon": -0.1337615,
+    "address": "John Street, Brighton",
+    "rating": null,
+    "side": "central-east"
+  },
+  {
+    "name": "Hove Police Contact Point",
+    "type": "police",
+    "lat": 50.8286575,
+    "lon": -0.1702603,
+    "address": "Norton Road, Hove",
+    "rating": null,
+    "side": "north-west"
+  },
+  {
+    "name": "Fixed Penalty Office Sussex Police",
+    "type": "police",
+    "lat": 50.8221703,
+    "lon": -0.1321803,
+    "address": "152 Edward Street, Brighton",
+    "rating": null,
+    "side": "central-east"
+  },
+  {
+    "name": "FieldOps",
+    "type": "police",
+    "lat": 50.8279417,
+    "lon": -0.1339424,
+    "address": "12 Albion Street, Brighton",
+    "rating": null,
+    "side": "north-east"
+  }
+]

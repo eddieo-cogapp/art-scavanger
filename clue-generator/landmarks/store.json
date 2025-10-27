@@ -1,0 +1,542 @@
+[
+  {
+    "name": "Legends Hotel",
+    "type": "store",
+    "lat": 50.81967220000001,
+    "lon": -0.1328906,
+    "address": "31-34 Marine Parade, Brighton",
+    "rating": 4.2,
+    "side": "south-east"
+  },
+  {
+    "name": "Halfords - Brighton",
+    "type": "store",
+    "lat": 50.8408492,
+    "lon": -0.1226744,
+    "address": "The Pavilion Centre, Lewes Road, Brighton",
+    "rating": 4.3,
+    "side": "north-east"
+  },
+  {
+    "name": "ODEON Brighton",
+    "type": "store",
+    "lat": 50.821079,
+    "lon": -0.1452933,
+    "address": "Kingswest, West Street, Brighton",
+    "rating": 3.7,
+    "side": "central-west"
+  },
+  {
+    "name": "Brighton Centre",
+    "type": "store",
+    "lat": 50.8212322,
+    "lon": -0.1464735,
+    "address": "Kings Road, Brighton and Hove, Brighton",
+    "rating": 4.4,
+    "side": "central-west"
+  },
+  {
+    "name": "Swarovski Brighton",
+    "type": "store",
+    "lat": 50.8230556,
+    "lon": -0.1461111,
+    "address": "42, Churchill Square Shopping Centre, Russell Road, Brighton",
+    "rating": 3.9,
+    "side": "central-west"
+  },
+  {
+    "name": "ASK Italian",
+    "type": "store",
+    "lat": 50.82202909999999,
+    "lon": -0.1414534,
+    "address": "58 Ship Street, Brighton",
+    "rating": 4.3,
+    "side": "central-central"
+  },
+  {
+    "name": "Reiss Brighton",
+    "type": "store",
+    "lat": 50.82048160000001,
+    "lon": -0.1391419,
+    "address": "67 East Street, Brighton",
+    "rating": 4.4,
+    "side": "south-central"
+  },
+  {
+    "name": "Prowler Brighton",
+    "type": "store",
+    "lat": 50.820861,
+    "lon": -0.13474,
+    "address": "112-113 Saint James's Street, Brighton",
+    "rating": 3.7,
+    "side": "south-east"
+  },
+  {
+    "name": "TGJones",
+    "type": "store",
+    "lat": 50.8315686,
+    "lon": -0.1368323,
+    "address": "37, 37A London Road, Brighton",
+    "rating": 3.7,
+    "side": "north-central"
+  },
+  {
+    "name": "Lighthouse Tattoo & Piercing",
+    "type": "store",
+    "lat": 50.8245569,
+    "lon": -0.1431918,
+    "address": "7 Queens Road, Brighton",
+    "rating": 4.7,
+    "side": "central-central"
+  },
+  {
+    "name": "Apple Churchill Square",
+    "type": "store",
+    "lat": 50.822238,
+    "lon": -0.1456064,
+    "address": "Upper Mall, Churchill Square, Brighton",
+    "rating": 3.6,
+    "side": "central-west"
+  },
+  {
+    "name": "Costa Coffee",
+    "type": "store",
+    "lat": 50.823544,
+    "lon": -0.13997,
+    "address": "32 Bond Street, Brighton",
+    "rating": 4.2,
+    "side": "central-central"
+  },
+  {
+    "name": "Southover Wines",
+    "type": "store",
+    "lat": 50.8279404,
+    "lon": -0.1285223,
+    "address": "80-81 Southover Street, Brighton and Hove, Brighton",
+    "rating": 4.5,
+    "side": "north-east"
+  },
+  {
+    "name": "Tesco Express",
+    "type": "store",
+    "lat": 50.824529,
+    "lon": -0.138976,
+    "address": "Tesco Xpress, 5 Jubilee Street, Brighton",
+    "rating": 3.3,
+    "side": "central-central"
+  },
+  {
+    "name": "Clarks",
+    "type": "store",
+    "lat": 50.8303075,
+    "lon": -0.1733582,
+    "address": "67 George Street, Hove",
+    "rating": 3.9,
+    "side": "north-west"
+  },
+  {
+    "name": "Sports Direct",
+    "type": "store",
+    "lat": 50.82351200000001,
+    "lon": -0.142352,
+    "address": "Unit 2, 134-138 North Street, Brighton",
+    "rating": 3,
+    "side": "central-central"
+  },
+  {
+    "name": "Jump The Gun",
+    "type": "store",
+    "lat": 50.82529650000001,
+    "lon": -0.1391636,
+    "address": "36 Gardner Street, Brighton",
+    "rating": 4.8,
+    "side": "central-central"
+  },
+  {
+    "name": "North Laine Hair Company - Brighton",
+    "type": "store",
+    "lat": 50.8252426,
+    "lon": -0.1392468,
+    "address": "38 Gardner Street, Brighton",
+    "rating": 4.8,
+    "side": "central-central"
+  },
+  {
+    "name": "Homesense Brighton",
+    "type": "store",
+    "lat": 50.8238484,
+    "lon": -0.1439283,
+    "address": "The Quadrant, Units 1&3 North Street, Brighton",
+    "rating": 4.5,
+    "side": "central-central"
+  },
+  {
+    "name": "ALDI",
+    "type": "store",
+    "lat": 50.8296384,
+    "lon": -0.1362335,
+    "address": "1-4 London Road, Brighton",
+    "rating": 4.3,
+    "side": "north-central"
+  },
+  {
+    "name": "Piccolo Pizza Restaurant Brighton & Hove",
+    "type": "store",
+    "lat": 50.82513489999999,
+    "lon": -0.1555573,
+    "address": "1 Western Road, Hove",
+    "rating": 4.2,
+    "side": "central-west"
+  },
+  {
+    "name": "Primark",
+    "type": "store",
+    "lat": 50.82433049999999,
+    "lon": -0.1481599,
+    "address": "169, 174 Western Road, Brighton",
+    "rating": 4.1,
+    "side": "central-west"
+  },
+  {
+    "name": "Wickes Brighton",
+    "type": "store",
+    "lat": 50.83261299999999,
+    "lon": -0.158518,
+    "address": "Peacock Industrial Estate, Davigdor Road, Hove",
+    "rating": 3.8,
+    "side": "north-west"
+  },
+  {
+    "name": "Enter Gallery",
+    "type": "store",
+    "lat": 50.8213056,
+    "lon": -0.1405529,
+    "address": "Nile House, Nile Street, Brighton",
+    "rating": 4.5,
+    "side": "central-central"
+  },
+  {
+    "name": "O2 Shop Brighton",
+    "type": "store",
+    "lat": 50.8238,
+    "lon": -0.145121,
+    "address": "203-205 Western Road, Brighton",
+    "rating": 4,
+    "side": "central-west"
+  },
+  {
+    "name": "Sainsbury's Local",
+    "type": "store",
+    "lat": 50.8237014,
+    "lon": -0.1424414,
+    "address": "134 North Street, Brighton",
+    "rating": 3,
+    "side": "central-central"
+  },
+  {
+    "name": "Resident Music",
+    "type": "store",
+    "lat": 50.8263336,
+    "lon": -0.1386082,
+    "address": "28 Kensington Gardens, Brighton",
+    "rating": 4.8,
+    "side": "central-central"
+  },
+  {
+    "name": "CeX",
+    "type": "store",
+    "lat": 50.8247569,
+    "lon": -0.1505481,
+    "address": "144 Western Road, Brighton",
+    "rating": 4.1,
+    "side": "central-west"
+  },
+  {
+    "name": "TK Maxx",
+    "type": "store",
+    "lat": 50.82293379999999,
+    "lon": -0.1411647,
+    "address": "36-37 North Street, Brighton",
+    "rating": 4.2,
+    "side": "central-central"
+  },
+  {
+    "name": "Route One Brighton",
+    "type": "store",
+    "lat": 50.8233081,
+    "lon": -0.140485,
+    "address": "3 Bond Street, Brighton",
+    "rating": 4.5,
+    "side": "central-central"
+  },
+  {
+    "name": "Vodafone",
+    "type": "store",
+    "lat": 50.8229157,
+    "lon": -0.1455268,
+    "address": "Unit 16 Churchill Square, Brighton",
+    "rating": 3.6,
+    "side": "central-west"
+  },
+  {
+    "name": "Ryman Stationery",
+    "type": "store",
+    "lat": 50.823297,
+    "lon": -0.1426503,
+    "address": "55-56 North Street, Brighton",
+    "rating": 4,
+    "side": "central-central"
+  },
+  {
+    "name": "JD Sports",
+    "type": "store",
+    "lat": 50.8234569,
+    "lon": -0.1460285,
+    "address": "Unit 4 Churchill Square, Brighton",
+    "rating": 3.6,
+    "side": "central-west"
+  },
+  {
+    "name": "Magic Tattoo",
+    "type": "store",
+    "lat": 50.8252527,
+    "lon": -0.1368854,
+    "address": "2 North Road, Brighton",
+    "rating": 4.7,
+    "side": "central-central"
+  },
+  {
+    "name": "Zizzi - Brighton",
+    "type": "store",
+    "lat": 50.8211062,
+    "lon": -0.1409948,
+    "address": "7 Prince Albert Street, Brighton",
+    "rating": 4.4,
+    "side": "central-central"
+  },
+  {
+    "name": "A Coombs Pet Centre (Brighton)",
+    "type": "store",
+    "lat": 50.8319591,
+    "lon": -0.1347883,
+    "address": "19-21 Baker Street, Brighton",
+    "rating": 4.7,
+    "side": "north-east"
+  },
+  {
+    "name": "Superdrug",
+    "type": "store",
+    "lat": 50.8242628,
+    "lon": -0.150063,
+    "address": "78 Western Road, Brighton",
+    "rating": 4,
+    "side": "central-west"
+  },
+  {
+    "name": "Gresham Blake",
+    "type": "store",
+    "lat": 50.82426299999999,
+    "lon": -0.140053,
+    "address": "20 Bond Street, Brighton",
+    "rating": 4.8,
+    "side": "central-central"
+  },
+  {
+    "name": "Powell Craft (Wholesale) Ltd",
+    "type": "store",
+    "lat": 50.8280292,
+    "lon": -0.1361154,
+    "address": "102 Trafalgar Street, Brighton",
+    "rating": 5,
+    "side": "north-central"
+  },
+  {
+    "name": "Planet India",
+    "type": "store",
+    "lat": 50.8271279,
+    "lon": -0.1336715,
+    "address": "4 Richmond Parade, Brighton",
+    "rating": 4.7,
+    "side": "north-east"
+  },
+  {
+    "name": "Diamond Computers",
+    "type": "store",
+    "lat": 50.833631,
+    "lon": -0.140917,
+    "address": "36 New England Road, Brighton",
+    "rating": 4.8,
+    "side": "north-central"
+  },
+  {
+    "name": "Blue Dragon Tattoo Studio",
+    "type": "store",
+    "lat": 50.825592,
+    "lon": -0.138028,
+    "address": "94 North Road, Brighton",
+    "rating": 4.9,
+    "side": "central-central"
+  },
+  {
+    "name": "Age UK",
+    "type": "store",
+    "lat": 50.8321509,
+    "lon": -0.1374006,
+    "address": "48 London Road, Brighton",
+    "rating": 4.4,
+    "side": "north-central"
+  },
+  {
+    "name": "Lush Cosmetics Brighton",
+    "type": "store",
+    "lat": 50.8216082,
+    "lon": -0.1390582,
+    "address": "41 East Street, Brighton",
+    "rating": 4.8,
+    "side": "central-central"
+  },
+  {
+    "name": "size?",
+    "type": "store",
+    "lat": 50.8229324,
+    "lon": -0.1410969,
+    "address": "Unit 2, 32-36 North Street, Brighton",
+    "rating": 4,
+    "side": "central-central"
+  },
+  {
+    "name": "1770 Tattoo",
+    "type": "store",
+    "lat": 50.82017010000001,
+    "lon": -0.1396633,
+    "address": "4 Little East Street, Brighton",
+    "rating": 5,
+    "side": "south-central"
+  },
+  {
+    "name": "Kamsons Pharmacy",
+    "type": "store",
+    "lat": 50.8385356,
+    "lon": -0.1477323,
+    "address": "175 Preston Road, Brighton",
+    "rating": 4.2,
+    "side": "north-west"
+  },
+  {
+    "name": "The White Company",
+    "type": "store",
+    "lat": 50.8218638,
+    "lon": -0.138811,
+    "address": "4 North Street, Brighton",
+    "rating": 3.9,
+    "side": "central-central"
+  },
+  {
+    "name": "The LEGO® Store Brighton",
+    "type": "store",
+    "lat": 50.82284970000001,
+    "lon": -0.1460336,
+    "address": "Unit 78, Churchill Square, Brighton",
+    "rating": 4.5,
+    "side": "central-west"
+  },
+  {
+    "name": "Warhammer",
+    "type": "store",
+    "lat": 50.8215955,
+    "lon": -0.1408197,
+    "address": "Unit 7, Nile Pavilions, Nile Street, Brighton",
+    "rating": 4.8,
+    "side": "central-central"
+  },
+  {
+    "name": "The Wishing Well",
+    "type": "store",
+    "lat": 50.831643,
+    "lon": -0.1360497,
+    "address": "46 Baker Street, Brighton",
+    "rating": 4,
+    "side": "north-central"
+  },
+  {
+    "name": "Clocktower Cameras",
+    "type": "store",
+    "lat": 50.8248618,
+    "lon": -0.1423101,
+    "address": "32 Church Street, Brighton",
+    "rating": 4.7,
+    "side": "central-central"
+  },
+  {
+    "name": "Sainsbury's Local",
+    "type": "store",
+    "lat": 50.8259251,
+    "lon": -0.161221,
+    "address": "55-56 Western Road, Hove",
+    "rating": 3.7,
+    "side": "central-west"
+  },
+  {
+    "name": "Kwik Fit Plus - Brighton",
+    "type": "store",
+    "lat": 50.83682880000001,
+    "lon": -0.1240924,
+    "address": "120-122 Lewes Road, Brighton",
+    "rating": 4,
+    "side": "north-east"
+  },
+  {
+    "name": "Dead Slow Co. - Tattoo Studio",
+    "type": "store",
+    "lat": 50.8194041,
+    "lon": -0.1274774,
+    "address": "34 Upper St James's Street, Brighton",
+    "rating": 5,
+    "side": "south-east"
+  },
+  {
+    "name": "Cotswold Outdoor Brighton",
+    "type": "store",
+    "lat": 50.82418719999999,
+    "lon": -0.1469203,
+    "address": "186 Western Road, Brighton",
+    "rating": 4.3,
+    "side": "central-west"
+  },
+  {
+    "name": "Mail Boxes Etc. Brighton",
+    "type": "store",
+    "lat": 50.82459899999999,
+    "lon": -0.151644,
+    "address": "91 Western Road, Brighton",
+    "rating": 3.8,
+    "side": "central-west"
+  },
+  {
+    "name": "Infinity Foods",
+    "type": "store",
+    "lat": 50.8256056,
+    "lon": -0.1390912,
+    "address": "25 North Road, Brighton",
+    "rating": 4.6,
+    "side": "central-central"
+  },
+  {
+    "name": "Holland & Barrett - Brighton",
+    "type": "store",
+    "lat": 50.8241045,
+    "lon": -0.1467885,
+    "address": "187 Western Road, Brighton",
+    "rating": 4,
+    "side": "central-west"
+  },
+  {
+    "name": "Ten Green Bottles Brighton Wine Bar and Shop",
+    "type": "store",
+    "lat": 50.825191,
+    "lon": -0.1386746,
+    "address": "9 Jubilee Street, Brighton",
+    "rating": 4.5,
+    "side": "central-central"
+  }
+]

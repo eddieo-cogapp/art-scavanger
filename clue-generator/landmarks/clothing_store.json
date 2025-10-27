@@ -1,0 +1,542 @@
+[
+  {
+    "name": "Reiss Brighton",
+    "type": "clothing_store",
+    "lat": 50.82048160000001,
+    "lon": -0.1391419,
+    "address": "67 East Street, Brighton",
+    "rating": 4.4,
+    "side": "south-central"
+  },
+  {
+    "name": "Prowler Brighton",
+    "type": "clothing_store",
+    "lat": 50.820861,
+    "lon": -0.13474,
+    "address": "112-113 Saint James's Street, Brighton",
+    "rating": 3.7,
+    "side": "south-east"
+  },
+  {
+    "name": "Sports Direct",
+    "type": "clothing_store",
+    "lat": 50.82351200000001,
+    "lon": -0.142352,
+    "address": "Unit 2, 134-138 North Street, Brighton",
+    "rating": 3,
+    "side": "central-central"
+  },
+  {
+    "name": "Jump The Gun",
+    "type": "clothing_store",
+    "lat": 50.82529650000001,
+    "lon": -0.1391636,
+    "address": "36 Gardner Street, Brighton",
+    "rating": 4.8,
+    "side": "central-central"
+  },
+  {
+    "name": "Primark",
+    "type": "clothing_store",
+    "lat": 50.82433049999999,
+    "lon": -0.1481599,
+    "address": "169, 174 Western Road, Brighton",
+    "rating": 4.1,
+    "side": "central-west"
+  },
+  {
+    "name": "Route One Brighton",
+    "type": "clothing_store",
+    "lat": 50.8233081,
+    "lon": -0.140485,
+    "address": "3 Bond Street, Brighton",
+    "rating": 4.5,
+    "side": "central-central"
+  },
+  {
+    "name": "JD Sports",
+    "type": "clothing_store",
+    "lat": 50.8234569,
+    "lon": -0.1460285,
+    "address": "Unit 4 Churchill Square, Brighton",
+    "rating": 3.6,
+    "side": "central-west"
+  },
+  {
+    "name": "Gresham Blake",
+    "type": "clothing_store",
+    "lat": 50.82426299999999,
+    "lon": -0.140053,
+    "address": "20 Bond Street, Brighton",
+    "rating": 4.8,
+    "side": "central-central"
+  },
+  {
+    "name": "Powell Craft (Wholesale) Ltd",
+    "type": "clothing_store",
+    "lat": 50.8280292,
+    "lon": -0.1361154,
+    "address": "102 Trafalgar Street, Brighton",
+    "rating": 5,
+    "side": "north-central"
+  },
+  {
+    "name": "Age UK",
+    "type": "clothing_store",
+    "lat": 50.8321509,
+    "lon": -0.1374006,
+    "address": "48 London Road, Brighton",
+    "rating": 4.4,
+    "side": "north-central"
+  },
+  {
+    "name": "Lush Cosmetics Brighton",
+    "type": "clothing_store",
+    "lat": 50.8216082,
+    "lon": -0.1390582,
+    "address": "41 East Street, Brighton",
+    "rating": 4.8,
+    "side": "central-central"
+  },
+  {
+    "name": "size?",
+    "type": "clothing_store",
+    "lat": 50.8229324,
+    "lon": -0.1410969,
+    "address": "Unit 2, 32-36 North Street, Brighton",
+    "rating": 4,
+    "side": "central-central"
+  },
+  {
+    "name": "The White Company",
+    "type": "clothing_store",
+    "lat": 50.8218638,
+    "lon": -0.138811,
+    "address": "4 North Street, Brighton",
+    "rating": 3.9,
+    "side": "central-central"
+  },
+  {
+    "name": "Cotswold Outdoor Brighton",
+    "type": "clothing_store",
+    "lat": 50.82418719999999,
+    "lon": -0.1469203,
+    "address": "186 Western Road, Brighton",
+    "rating": 4.3,
+    "side": "central-west"
+  },
+  {
+    "name": "AllSaints",
+    "type": "clothing_store",
+    "lat": 50.8207414,
+    "lon": -0.1391315,
+    "address": "62-63 East Street, Brighton",
+    "rating": 4.3,
+    "side": "south-central"
+  },
+  {
+    "name": "The Fragrance Shop",
+    "type": "clothing_store",
+    "lat": 50.8231486,
+    "lon": -0.1450702,
+    "address": "Unit 14 Russell Place, Brighton",
+    "rating": 3.7,
+    "side": "central-west"
+  },
+  {
+    "name": "Millets",
+    "type": "clothing_store",
+    "lat": 50.8241433,
+    "lon": -0.1436363,
+    "address": "Unit 3 Air Street, Brighton",
+    "rating": 4.2,
+    "side": "central-central"
+  },
+  {
+    "name": "Badger Clothing Co Ltd",
+    "type": "clothing_store",
+    "lat": 50.82389970000001,
+    "lon": -0.1398485,
+    "address": "26 Bond Street, Brighton",
+    "rating": 4.3,
+    "side": "central-central"
+  },
+  {
+    "name": "Peggs & son",
+    "type": "clothing_store",
+    "lat": 50.82281090000001,
+    "lon": -0.1423156,
+    "address": "39 Duke Street, Brighton",
+    "rating": 4.5,
+    "side": "central-central"
+  },
+  {
+    "name": "Runners Need Brighton",
+    "type": "clothing_store",
+    "lat": 50.8241855,
+    "lon": -0.1469234,
+    "address": "186 Western Road, Brighton",
+    "rating": 4.2,
+    "side": "central-west"
+  },
+  {
+    "name": "Beyond Retro - Brighton",
+    "type": "clothing_store",
+    "lat": 50.8267775,
+    "lon": -0.1380101,
+    "address": "23 Gloucester Road, Brighton",
+    "rating": 4.4,
+    "side": "central-central"
+  },
+  {
+    "name": "Shabitat",
+    "type": "clothing_store",
+    "lat": 50.8386161,
+    "lon": -0.1247839,
+    "address": "Saunders Park Depot, Lewes Road, Brighton",
+    "rating": 4.5,
+    "side": "north-east"
+  },
+  {
+    "name": "Boots",
+    "type": "clothing_store",
+    "lat": 50.8237937,
+    "lon": -0.143092,
+    "address": "129 North Street, Brighton",
+    "rating": 4.1,
+    "side": "central-central"
+  },
+  {
+    "name": "Hobbs",
+    "type": "clothing_store",
+    "lat": 50.82135599999999,
+    "lon": -0.1388252,
+    "address": "48, 49 East Street, Brighton",
+    "rating": 4.4,
+    "side": "central-central"
+  },
+  {
+    "name": "Oxfam",
+    "type": "clothing_store",
+    "lat": 50.8248804,
+    "lon": -0.1515794,
+    "address": "136a Western Road, Brighton",
+    "rating": 3.3,
+    "side": "central-west"
+  },
+  {
+    "name": "To Be Worn Again Vintage Shop",
+    "type": "clothing_store",
+    "lat": 50.82674509999999,
+    "lon": -0.1386603,
+    "address": "12 Kensington Gardens, Brighton",
+    "rating": 4.2,
+    "side": "central-central"
+  },
+  {
+    "name": "Bluebelle & Co.",
+    "type": "clothing_store",
+    "lat": 50.82833369999999,
+    "lon": -0.1383135,
+    "address": "80 Trafalgar Street, Brighton",
+    "rating": 4.8,
+    "side": "north-central"
+  },
+  {
+    "name": "Jaba Yard",
+    "type": "clothing_store",
+    "lat": 50.8241126,
+    "lon": -0.1401522,
+    "address": "18 Bond Street, Brighton",
+    "rating": 4.6,
+    "side": "central-central"
+  },
+  {
+    "name": "Starfish Vintage Clothing",
+    "type": "clothing_store",
+    "lat": 50.82541,
+    "lon": -0.139434,
+    "address": "25 Gardner Street, Brighton",
+    "rating": 4,
+    "side": "central-central"
+  },
+  {
+    "name": "Sew Rae Me",
+    "type": "clothing_store",
+    "lat": 50.8277865,
+    "lon": -0.1618227,
+    "address": "46 Rochester Gardens, Hove",
+    "rating": null,
+    "side": "north-west"
+  },
+  {
+    "name": "DESIGN LAB",
+    "type": "clothing_store",
+    "lat": 50.8229058,
+    "lon": -0.1432449,
+    "address": "17-19 Duke Street, Brighton",
+    "rating": 4.6,
+    "side": "central-central"
+  },
+  {
+    "name": "Sirene",
+    "type": "clothing_store",
+    "lat": 50.8283263,
+    "lon": -0.1393129,
+    "address": "37 Trafalgar Street, Brighton",
+    "rating": 5,
+    "side": "north-central"
+  },
+  {
+    "name": "Whistles",
+    "type": "clothing_store",
+    "lat": 50.8228424,
+    "lon": -0.1427076,
+    "address": "35 Duke Street, Brighton",
+    "rating": 4.4,
+    "side": "central-central"
+  },
+  {
+    "name": "Black Pearl",
+    "type": "clothing_store",
+    "lat": 50.8264088,
+    "lon": -0.1386082,
+    "address": "25 Kensington Gardens, Brighton",
+    "rating": 4.4,
+    "side": "central-central"
+  },
+  {
+    "name": "Jackalope",
+    "type": "clothing_store",
+    "lat": 50.82803219999999,
+    "lon": -0.1362651,
+    "address": "100 Trafalgar Court, Brighton",
+    "rating": 4.7,
+    "side": "north-central"
+  },
+  {
+    "name": "Imi Loa",
+    "type": "clothing_store",
+    "lat": 50.82551309999999,
+    "lon": -0.1583446,
+    "address": "30b Western Road, Hove",
+    "rating": 5,
+    "side": "central-west"
+  },
+  {
+    "name": "Porta",
+    "type": "clothing_store",
+    "lat": 50.82346990000001,
+    "lon": -0.1403533,
+    "address": "4 Bond Street, Brighton",
+    "rating": 5,
+    "side": "central-central"
+  },
+  {
+    "name": "Dapper Vintage",
+    "type": "clothing_store",
+    "lat": 50.82350049999999,
+    "lon": -0.1190981,
+    "address": "29 Hendon Street, Brighton",
+    "rating": null,
+    "side": "central-east"
+  },
+  {
+    "name": "Bound by Obsession",
+    "type": "clothing_store",
+    "lat": 50.83605619999999,
+    "lon": -0.1395274,
+    "address": "56 Beaconsfield Road, Brighton",
+    "rating": 5,
+    "side": "north-central"
+  },
+  {
+    "name": "Profile Fashion",
+    "type": "clothing_store",
+    "lat": 50.822169,
+    "lon": -0.1417398,
+    "address": "3 Dukes Lane, Brighton",
+    "rating": 2.6,
+    "side": "central-central"
+  },
+  {
+    "name": "Pretty Vacant",
+    "type": "clothing_store",
+    "lat": 50.82798649999999,
+    "lon": -0.1370174,
+    "address": "11-12 Trafalgar Street, Brighton",
+    "rating": 4.9,
+    "side": "north-central"
+  },
+  {
+    "name": "Sideline Screenprinting",
+    "type": "clothing_store",
+    "lat": 50.838235,
+    "lon": -0.1268282,
+    "address": "Rodhus, 16-30 Hollingdean Road, Brighton",
+    "rating": 5,
+    "side": "north-east"
+  },
+  {
+    "name": "Your Fabulous Style",
+    "type": "clothing_store",
+    "lat": 50.82718810000001,
+    "lon": -0.1420173,
+    "address": "52 Queens Road, Brighton",
+    "rating": null,
+    "side": "north-central"
+  },
+  {
+    "name": "Snoopers Attic.. Vintage and makers collective",
+    "type": "clothing_store",
+    "lat": 50.8261562,
+    "lon": -0.1385594,
+    "address": "7/8 Kensington Gardens, Brighton and Hove, Brighton",
+    "rating": 4.7,
+    "side": "central-central"
+  },
+  {
+    "name": "Krusoe Store",
+    "type": "clothing_store",
+    "lat": 50.8221861,
+    "lon": -0.1412813,
+    "address": "Union Street, Brighton",
+    "rating": 3.3,
+    "side": "central-central"
+  },
+  {
+    "name": "COS",
+    "type": "clothing_store",
+    "lat": 50.821546,
+    "lon": -0.138667,
+    "address": "45 East Street, Brighton",
+    "rating": 3.7,
+    "side": "central-central"
+  },
+  {
+    "name": "Blacks",
+    "type": "clothing_store",
+    "lat": 50.8220643,
+    "lon": -0.1392166,
+    "address": "8-9 North Street, Brighton",
+    "rating": 4.3,
+    "side": "central-central"
+  },
+  {
+    "name": "BOSS Menswear Store",
+    "type": "clothing_store",
+    "lat": 50.8212295,
+    "lon": -0.1388377,
+    "address": "52 East Street, Brighton and Hove, Brighton",
+    "rating": 4.2,
+    "side": "central-central"
+  },
+  {
+    "name": "Ayten Gasson Lingerie",
+    "type": "clothing_store",
+    "lat": 50.8207217,
+    "lon": -0.1363846,
+    "address": "Pier Werks, 21-22 Old Steine, Brighton",
+    "rating": 5,
+    "side": "south-central"
+  },
+  {
+    "name": "Jo Malone London",
+    "type": "clothing_store",
+    "lat": 50.8210485,
+    "lon": -0.13931,
+    "address": "24 East Street, Brighton",
+    "rating": 4.5,
+    "side": "central-central"
+  },
+  {
+    "name": "Pendulum Menswear",
+    "type": "clothing_store",
+    "lat": 50.8221125,
+    "lon": -0.1403751,
+    "address": "11 Brighton Square, Brighton",
+    "rating": 5,
+    "side": "central-central"
+  },
+  {
+    "name": "FAIR",
+    "type": "clothing_store",
+    "lat": 50.82251780000001,
+    "lon": -0.1404785,
+    "address": "5 Hanningtons Lane, Brighton",
+    "rating": 5,
+    "side": "central-central"
+  },
+  {
+    "name": "Warren and Tapp",
+    "type": "clothing_store",
+    "lat": 50.82360569999999,
+    "lon": -0.1406374,
+    "address": "8 Bond Street, Brighton and Hove, Brighton",
+    "rating": 5,
+    "side": "central-central"
+  },
+  {
+    "name": "Jill Corbett | The Hattic",
+    "type": "clothing_store",
+    "lat": 50.8241003,
+    "lon": -0.1401523,
+    "address": "Floor 2, 18 Jew Street, Brighton",
+    "rating": 5,
+    "side": "central-central"
+  },
+  {
+    "name": "Quadrophenia Alley",
+    "type": "clothing_store",
+    "lat": 50.8202994,
+    "lon": -0.1393331,
+    "address": "11 East Street, Quadrophenia Alley, Brighton",
+    "rating": 4.6,
+    "side": "south-central"
+  },
+  {
+    "name": "Lamb Building",
+    "type": "clothing_store",
+    "lat": 50.82193779999999,
+    "lon": -0.1417327,
+    "address": "22A Ship Street, Brighton",
+    "rating": null,
+    "side": "central-central"
+  },
+  {
+    "name": "Dukes Lane",
+    "type": "clothing_store",
+    "lat": 50.8222394,
+    "lon": -0.1422212,
+    "address": "Dukes Lane, Brighton",
+    "rating": 4.4,
+    "side": "central-central"
+  },
+  {
+    "name": "Eden Perfumes Ltd",
+    "type": "clothing_store",
+    "lat": 50.8254388,
+    "lon": -0.1393817,
+    "address": "26 Gardner Street, Brighton",
+    "rating": 4.6,
+    "side": "central-central"
+  },
+  {
+    "name": "She Said",
+    "type": "clothing_store",
+    "lat": 50.8215026,
+    "lon": -0.1424789,
+    "address": "12a Ship Street Gardens, Brighton",
+    "rating": 4.6,
+    "side": "central-central"
+  },
+  {
+    "name": "FAMILY STORE",
+    "type": "clothing_store",
+    "lat": 50.8260249,
+    "lon": -0.1386664,
+    "address": "33 Kensington Gardens, Brighton",
+    "rating": 4.7,
+    "side": "central-central"
+  }
+]

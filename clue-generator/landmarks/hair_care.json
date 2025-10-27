@@ -1,0 +1,542 @@
+[
+  {
+    "name": "North Laine Hair Company - Brighton",
+    "type": "hair_care",
+    "lat": 50.8252426,
+    "lon": -0.1392468,
+    "address": "38 Gardner Street, Brighton",
+    "rating": 4.8,
+    "side": "central-central"
+  },
+  {
+    "name": "Stage One",
+    "type": "hair_care",
+    "lat": 50.8234289,
+    "lon": -0.1402195,
+    "address": "36 Bond Street, Brighton",
+    "rating": 4.8,
+    "side": "central-central"
+  },
+  {
+    "name": "TONI&GUY Brighton",
+    "type": "hair_care",
+    "lat": 50.8203924,
+    "lon": -0.139192,
+    "address": "68 East Street, Brighton",
+    "rating": 4.5,
+    "side": "south-central"
+  },
+  {
+    "name": "sk:n Brighton Jubilee Street",
+    "type": "hair_care",
+    "lat": 50.82519440000001,
+    "lon": -0.1386759,
+    "address": "Unit 8, 9 Jubilee Street, Brighton",
+    "rating": 4.3,
+    "side": "central-central"
+  },
+  {
+    "name": "Maison Salons Hove",
+    "type": "hair_care",
+    "lat": 50.82539029999999,
+    "lon": -0.1577835,
+    "address": "26 Western Road, Hove",
+    "rating": 5,
+    "side": "central-west"
+  },
+  {
+    "name": "The Point",
+    "type": "hair_care",
+    "lat": 50.82838049999999,
+    "lon": -0.1390473,
+    "address": "71-72 Trafalgar Street, Brighton",
+    "rating": 4.9,
+    "side": "north-central"
+  },
+  {
+    "name": "Make up artist and Hair stylist Brighton",
+    "type": "hair_care",
+    "lat": 50.82441679999999,
+    "lon": -0.1566119,
+    "address": "Waterloo Street, Brighton",
+    "rating": null,
+    "side": "central-west"
+  },
+  {
+    "name": "Teddy Edwards Cutting Rooms 7 Dials",
+    "type": "hair_care",
+    "lat": 50.829579,
+    "lon": -0.147068,
+    "address": "85 Dyke Road, Brighton",
+    "rating": 4.9,
+    "side": "north-west"
+  },
+  {
+    "name": "The Secret Spa Company",
+    "type": "hair_care",
+    "lat": 50.8239875,
+    "lon": -0.1509248,
+    "address": "42 Preston Street, Brighton",
+    "rating": 2,
+    "side": "central-west"
+  },
+  {
+    "name": "Cove Hair & Beauty",
+    "type": "hair_care",
+    "lat": 50.8217163,
+    "lon": -0.1498501,
+    "address": "Kings Road, Brighton",
+    "rating": 4.7,
+    "side": "central-west"
+  },
+  {
+    "name": "Simon Webster Hair",
+    "type": "hair_care",
+    "lat": 50.8250409,
+    "lon": -0.1396258,
+    "address": "16 Gardner Street, Brighton",
+    "rating": 4.9,
+    "side": "central-central"
+  },
+  {
+    "name": "Jagwa Hair and Beauty Salon",
+    "type": "hair_care",
+    "lat": 50.83051740000001,
+    "lon": -0.1473591,
+    "address": "119 Dyke Road, Brighton",
+    "rating": 4.8,
+    "side": "north-west"
+  },
+  {
+    "name": "Afro Hair Academy",
+    "type": "hair_care",
+    "lat": 50.8270789,
+    "lon": -0.1420596,
+    "address": "50 Queens Road, Brighton",
+    "rating": 4.5,
+    "side": "north-central"
+  },
+  {
+    "name": "Masters Barbershop",
+    "type": "hair_care",
+    "lat": 50.828557,
+    "lon": -0.135619,
+    "address": "14 York Place, Brighton",
+    "rating": 4.9,
+    "side": "north-central"
+  },
+  {
+    "name": "Sergio Pascal",
+    "type": "hair_care",
+    "lat": 50.82801600000001,
+    "lon": -0.137167,
+    "address": "14 Trafalgar Street, Brighton",
+    "rating": 4.8,
+    "side": "north-central"
+  },
+  {
+    "name": "Cutter & Grinder",
+    "type": "hair_care",
+    "lat": 50.825017,
+    "lon": -0.1546867,
+    "address": "110C Western Road, Brighton",
+    "rating": 4.9,
+    "side": "central-west"
+  },
+  {
+    "name": "Gluestix Hair Extensions",
+    "type": "hair_care",
+    "lat": 50.8259559,
+    "lon": -0.1601642,
+    "address": "Western Road, Hove",
+    "rating": null,
+    "side": "central-west"
+  },
+  {
+    "name": "Perfect Kutz",
+    "type": "hair_care",
+    "lat": 50.8315013,
+    "lon": -0.1344085,
+    "address": "69A Ditchling Road, Brighton",
+    "rating": 4.4,
+    "side": "north-east"
+  },
+  {
+    "name": "H's Barber Shop",
+    "type": "hair_care",
+    "lat": 50.8275313,
+    "lon": -0.1681229,
+    "address": "Unit 2, 1 The Drive, Hove",
+    "rating": 4.8,
+    "side": "north-west"
+  },
+  {
+    "name": "Two's Company Hairdressers",
+    "type": "hair_care",
+    "lat": 50.8177235,
+    "lon": -0.1184302,
+    "address": "79 Saint George's Road, Brighton",
+    "rating": 4.8,
+    "side": "south-east"
+  },
+  {
+    "name": "enVIPer Hair Design",
+    "type": "hair_care",
+    "lat": 50.83987450000001,
+    "lon": -0.1384123,
+    "address": "44 Stanford Avenue, Brighton",
+    "rating": null,
+    "side": "north-central"
+  },
+  {
+    "name": "Sussex Extensions",
+    "type": "hair_care",
+    "lat": 50.82867459999999,
+    "lon": -0.1438408,
+    "address": "69 Buckingham Road, Brighton",
+    "rating": 5,
+    "side": "north-central"
+  },
+  {
+    "name": "Fargs (formally OS Lifestyle)",
+    "type": "hair_care",
+    "lat": 50.82128660000001,
+    "lon": -0.1379076,
+    "address": "1 Castle Square, Brighton",
+    "rating": 4.9,
+    "side": "central-central"
+  },
+  {
+    "name": "Turn Beautiful",
+    "type": "hair_care",
+    "lat": 50.8214364,
+    "lon": -0.1396116,
+    "address": "12 Market Street, Brighton",
+    "rating": 4.8,
+    "side": "central-central"
+  },
+  {
+    "name": "The Barber Club",
+    "type": "hair_care",
+    "lat": 50.8209747,
+    "lon": -0.1396689,
+    "address": "4 Bartholomews, Brighton",
+    "rating": 4.9,
+    "side": "south-central"
+  },
+  {
+    "name": "BaDu Hair",
+    "type": "hair_care",
+    "lat": 50.8212588,
+    "lon": -0.1406503,
+    "address": "3 Nile Street, Brighton",
+    "rating": 5,
+    "side": "central-central"
+  },
+  {
+    "name": "Lipstick and Gunpowder",
+    "type": "hair_care",
+    "lat": 50.819954,
+    "lon": -0.1393689,
+    "address": "7 Kings Road, Brighton",
+    "rating": 4.6,
+    "side": "south-central"
+  },
+  {
+    "name": "Save Some Brain Cells",
+    "type": "hair_care",
+    "lat": 50.82169510000001,
+    "lon": -0.1416636,
+    "address": "59A Ship Street, Brighton",
+    "rating": 4.8,
+    "side": "central-central"
+  },
+  {
+    "name": "Duke Street Hair",
+    "type": "hair_care",
+    "lat": 50.8228127,
+    "lon": -0.1426341,
+    "address": "36a Duke Street, Brighton",
+    "rating": 4.8,
+    "side": "central-central"
+  },
+  {
+    "name": "Peter Joannou Brighton Barber Shop",
+    "type": "hair_care",
+    "lat": 50.8226145,
+    "lon": -0.1426648,
+    "address": "40 Middle Street, Brighton",
+    "rating": 5,
+    "side": "central-central"
+  },
+  {
+    "name": "Brighton’s Singing Barber",
+    "type": "hair_care",
+    "lat": 50.822609,
+    "lon": -0.142691,
+    "address": "40 Middle Street, Brighton",
+    "rating": 4.8,
+    "side": "central-central"
+  },
+  {
+    "name": "Lucy's Angels Holistic Therapies",
+    "type": "hair_care",
+    "lat": 50.8259246,
+    "lon": -0.1394963,
+    "address": "40-42 Upper Gardner Street, Brighton",
+    "rating": 5,
+    "side": "central-central"
+  },
+  {
+    "name": "Benefit Cosmetics Brow Bar Counter",
+    "type": "hair_care",
+    "lat": 50.8236766,
+    "lon": -0.1431544,
+    "address": "129 North Street, Brighton",
+    "rating": 4.9,
+    "side": "central-central"
+  },
+  {
+    "name": "Brighton Beauty Bar",
+    "type": "hair_care",
+    "lat": 50.82731070000001,
+    "lon": -0.1376633,
+    "address": "39B Sydney Street, Brighton",
+    "rating": 4.7,
+    "side": "north-central"
+  },
+  {
+    "name": "The Den Barbershop",
+    "type": "hair_care",
+    "lat": 50.82610759999999,
+    "lon": -0.1426278,
+    "address": "52A North Road, Brighton",
+    "rating": 5,
+    "side": "central-central"
+  },
+  {
+    "name": "Drop Dead Gorgeous Services",
+    "type": "hair_care",
+    "lat": 50.8196417,
+    "lon": -0.1286806,
+    "address": "1 Grafton Street, Brighton",
+    "rating": null,
+    "side": "south-east"
+  },
+  {
+    "name": "House of Hair Brighton",
+    "type": "hair_care",
+    "lat": 50.81969369999999,
+    "lon": -0.1286116,
+    "address": "1 Grafton Street, Brighton",
+    "rating": 4.9,
+    "side": "south-east"
+  },
+  {
+    "name": "Zar's Barbers",
+    "type": "hair_care",
+    "lat": 50.81905149999999,
+    "lon": -0.124798,
+    "address": "12 Bristol Road, Brighton",
+    "rating": 4.9,
+    "side": "south-east"
+  },
+  {
+    "name": "Daisy's Nail Company & Spa",
+    "type": "hair_care",
+    "lat": 50.824029,
+    "lon": -0.150544,
+    "address": "59 Preston Street, Brighton",
+    "rating": 4.6,
+    "side": "central-west"
+  },
+  {
+    "name": "The Perfect Pamper",
+    "type": "hair_care",
+    "lat": 50.832747,
+    "lon": -0.1402216,
+    "address": "49 New England Street, Brighton",
+    "rating": 5,
+    "side": "north-central"
+  },
+  {
+    "name": "wedohairdo... HAIR EXTENSIONS",
+    "type": "hair_care",
+    "lat": 50.8354733,
+    "lon": -0.1402319,
+    "address": "27 Ditchling Rise, Brighton",
+    "rating": null,
+    "side": "north-central"
+  },
+  {
+    "name": "Home & Company Ltd",
+    "type": "hair_care",
+    "lat": 50.8317625,
+    "lon": -0.1476584,
+    "address": "Ground Floor, North, Pacific House, 126 Dyke Road, Brighton",
+    "rating": 4.9,
+    "side": "north-west"
+  },
+  {
+    "name": "Hair Affair Shop",
+    "type": "hair_care",
+    "lat": 50.8338753,
+    "lon": -0.1396067000000001,
+    "address": "9 Preston Road, Brighton",
+    "rating": 2,
+    "side": "north-central"
+  },
+  {
+    "name": "Brush",
+    "type": "hair_care",
+    "lat": 50.8173719,
+    "lon": -0.1202611,
+    "address": "139 Marine Parade, Brighton",
+    "rating": 4.7,
+    "side": "south-east"
+  },
+  {
+    "name": "Bodrum Barbers",
+    "type": "hair_care",
+    "lat": 50.8255008,
+    "lon": -0.1583385,
+    "address": "30a Western Road, Hove",
+    "rating": 4.3,
+    "side": "central-west"
+  },
+  {
+    "name": "No11 Barbers - Brighton & Hove",
+    "type": "hair_care",
+    "lat": 50.8257202,
+    "lon": -0.1593545,
+    "address": "101 Western Road, Brighton and Hove, Brighton",
+    "rating": 4.9,
+    "side": "central-west"
+  },
+  {
+    "name": "Celly's Hairstyle International",
+    "type": "hair_care",
+    "lat": 50.8260653,
+    "lon": -0.1606499,
+    "address": "59 Lansdowne Place, Hove",
+    "rating": 5,
+    "side": "central-west"
+  },
+  {
+    "name": "GoGo Brazilian Waxing",
+    "type": "hair_care",
+    "lat": 50.82745070000001,
+    "lon": -0.1662742,
+    "address": "65 Church Road, Hove",
+    "rating": 5,
+    "side": "north-west"
+  },
+  {
+    "name": "Milo's",
+    "type": "hair_care",
+    "lat": 50.8385337,
+    "lon": -0.1548858,
+    "address": "216 Dyke Road, Brighton",
+    "rating": 4.9,
+    "side": "north-west"
+  },
+  {
+    "name": "Little Jasmine Therapies and Spa",
+    "type": "hair_care",
+    "lat": 50.8233208,
+    "lon": -0.1397223,
+    "address": "14 New Road, Brighton",
+    "rating": 4.9,
+    "side": "central-central"
+  },
+  {
+    "name": "Grand Aesthetics Clinic",
+    "type": "hair_care",
+    "lat": 50.82720920000001,
+    "lon": -0.1677277,
+    "address": "40 Church Road, Brighton and Hove, Brighton",
+    "rating": 4.8,
+    "side": "north-west"
+  },
+  {
+    "name": "The Terrace Barbers - Coombe Terrace",
+    "type": "hair_care",
+    "lat": 50.84004849999999,
+    "lon": -0.122164,
+    "address": "12A Coombe Terrace, Brighton",
+    "rating": 4.7,
+    "side": "north-east"
+  },
+  {
+    "name": "Rush Hair Brighton",
+    "type": "hair_care",
+    "lat": 50.8226367,
+    "lon": -0.1426893,
+    "address": "7 Duke Street, Brighton",
+    "rating": 4.4,
+    "side": "central-central"
+  },
+  {
+    "name": "Chalk Hair by Val Cussell",
+    "type": "hair_care",
+    "lat": 50.843626,
+    "lon": -0.135178,
+    "address": "Fiveways, 263 Preston Drove, Brighton",
+    "rating": 4.9,
+    "side": "north-central"
+  },
+  {
+    "name": "Solution Barbers",
+    "type": "hair_care",
+    "lat": 50.8436524,
+    "lon": -0.1344453,
+    "address": "296 Ditchling Road, Brighton",
+    "rating": 4.9,
+    "side": "north-east"
+  },
+  {
+    "name": "Brighton Hairport",
+    "type": "hair_care",
+    "lat": 50.8438057,
+    "lon": -0.1308086,
+    "address": "10 Hollingbury Place, Brighton",
+    "rating": 4.8,
+    "side": "north-east"
+  },
+  {
+    "name": "Streakers Hair Studio",
+    "type": "hair_care",
+    "lat": 50.8434019,
+    "lon": -0.1355354,
+    "address": "142 Preston Drove, Brighton",
+    "rating": 5,
+    "side": "north-central"
+  },
+  {
+    "name": "Hair Loss Laser Group",
+    "type": "hair_care",
+    "lat": 50.812741,
+    "lon": -0.102685,
+    "address": "Saks Hair & Beauty, David Lloyd Club, Brighton Marina, Brighton",
+    "rating": null,
+    "side": "south-east"
+  },
+  {
+    "name": "Magic Hair",
+    "type": "hair_care",
+    "lat": 50.8308984,
+    "lon": -0.1726543,
+    "address": "98 Blatchington Road, Hove",
+    "rating": 4.5,
+    "side": "north-west"
+  },
+  {
+    "name": "Celly’s Unisex Hairdresser",
+    "type": "hair_care",
+    "lat": 50.830445,
+    "lon": -0.17333,
+    "address": "64 George Street, Hove",
+    "rating": 3.9,
+    "side": "north-west"
+  }
+]

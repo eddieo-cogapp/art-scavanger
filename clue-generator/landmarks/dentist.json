@@ -1,0 +1,434 @@
+[
+  {
+    "name": "Brighton Implant Clinic - Hove branch",
+    "type": "dentist",
+    "lat": 50.8270618,
+    "lon": -0.1662269,
+    "address": "12 Church Road",
+    "rating": 4.8,
+    "side": "north-west"
+  },
+  {
+    "name": "Dental Health Spa",
+    "type": "dentist",
+    "lat": 50.8249267,
+    "lon": -0.1430195,
+    "address": "14-15 Queens Road, Brighton",
+    "rating": 4.9,
+    "side": "central-central"
+  },
+  {
+    "name": "Church Road Dental Practice",
+    "type": "dentist",
+    "lat": 50.82752439999999,
+    "lon": -0.1675353,
+    "address": "83 Church Road, Hove",
+    "rating": 4.8,
+    "side": "north-west"
+  },
+  {
+    "name": "Norfolk Square Dental Practice, Brighton Denplan Dentist",
+    "type": "dentist",
+    "lat": 50.824663,
+    "lon": -0.154313,
+    "address": "40 Norfolk Square, Brighton",
+    "rating": 4.7,
+    "side": "central-west"
+  },
+  {
+    "name": "Zen Whitening",
+    "type": "dentist",
+    "lat": 50.824759,
+    "lon": -0.1431597,
+    "address": "12 Queens Road, Brighton",
+    "rating": null,
+    "side": "central-central"
+  },
+  {
+    "name": "Montpelier Dental Care",
+    "type": "dentist",
+    "lat": 50.82530019999999,
+    "lon": -0.1528046,
+    "address": "38 Montpelier Road, Brighton",
+    "rating": 4.5,
+    "side": "central-west"
+  },
+  {
+    "name": "Centre for Dentistry",
+    "type": "dentist",
+    "lat": 50.8371728,
+    "lon": -0.1259421,
+    "address": "Sainsbury's, Lewes Road Inside, 93 Lewes Road, Brighton",
+    "rating": 4.8,
+    "side": "north-east"
+  },
+  {
+    "name": "The Dental Hygiene Clinic",
+    "type": "dentist",
+    "lat": 50.8275392,
+    "lon": -0.1637502,
+    "address": "39a Salisbury Road, Hove",
+    "rating": 5,
+    "side": "north-west"
+  },
+  {
+    "name": "Hove Dental Clinic",
+    "type": "dentist",
+    "lat": 50.8275379,
+    "lon": -0.1637551,
+    "address": "39a Salisbury Road, Hove",
+    "rating": 4.8,
+    "side": "north-west"
+  },
+  {
+    "name": "mydentist, Bristol Gardens, Brighton",
+    "type": "dentist",
+    "lat": 50.8181851,
+    "lon": -0.10962,
+    "address": "St Faith Clinic, 17 Bristol Gardens, Brighton",
+    "rating": 2.9,
+    "side": "south-east"
+  },
+  {
+    "name": "Bupa Dental Care Brighton",
+    "type": "dentist",
+    "lat": 50.8431512,
+    "lon": -0.1343047,
+    "address": "288 Ditchling Road, Brighton",
+    "rating": 4.6,
+    "side": "north-east"
+  },
+  {
+    "name": "SmileWorks Dental & Orthodontic Clinic - Brighton",
+    "type": "dentist",
+    "lat": 50.840529,
+    "lon": -0.1567935,
+    "address": "250 Dyke Road, Brighton",
+    "rating": 4.8,
+    "side": "north-west"
+  },
+  {
+    "name": "Duke Street Dental Centre",
+    "type": "dentist",
+    "lat": 50.822936,
+    "lon": -0.143337,
+    "address": "28 - 29 Duke Street, Brighton",
+    "rating": 4.9,
+    "side": "central-central"
+  },
+  {
+    "name": "Teeth Whitening - ProWhiteSmile",
+    "type": "dentist",
+    "lat": 50.8276444,
+    "lon": -0.1728264,
+    "address": "48 Albany Villas, Hove",
+    "rating": 5,
+    "side": "north-west"
+  },
+  {
+    "name": "Brunswick Road Dental Practice",
+    "type": "dentist",
+    "lat": 50.82555429999999,
+    "lon": -0.1566631,
+    "address": "2 Brunswick Road, Hove",
+    "rating": 3.9,
+    "side": "central-west"
+  },
+  {
+    "name": "Dr H Davies - M D S Dental Care",
+    "type": "dentist",
+    "lat": 50.843649,
+    "lon": -0.1579076,
+    "address": "Dental Surgery, Matlock Road, Brighton",
+    "rating": null,
+    "side": "north-west"
+  },
+  {
+    "name": "Brighton Dental centre",
+    "type": "dentist",
+    "lat": 50.829381,
+    "lon": -0.147145,
+    "address": "69-75 Dyke Road, Brighton",
+    "rating": 3.4,
+    "side": "north-west"
+  },
+  {
+    "name": "Brunswick Square Dental Practice",
+    "type": "dentist",
+    "lat": 50.82533979999999,
+    "lon": -0.1583946,
+    "address": "2 Brunswick Place, Hove",
+    "rating": 4.9,
+    "side": "central-west"
+  },
+  {
+    "name": "Albion Dental Brighton",
+    "type": "dentist",
+    "lat": 50.827671,
+    "lon": -0.133932,
+    "address": "11 Albion Street, Brighton",
+    "rating": 4.6,
+    "side": "north-east"
+  },
+  {
+    "name": "Somerhill Dental Practice",
+    "type": "dentist",
+    "lat": 50.82752189999999,
+    "lon": -0.1587148,
+    "address": "26 Farm Road, Hove",
+    "rating": 4.9,
+    "side": "north-west"
+  },
+  {
+    "name": "The Implant Centre - Brighton & Hove Branch",
+    "type": "dentist",
+    "lat": 50.8264923,
+    "lon": -0.1617074,
+    "address": "61 Holland Road, Hove",
+    "rating": 4.8,
+    "side": "central-west"
+  },
+  {
+    "name": "Bright on Smiles Dental Practice in Brighton",
+    "type": "dentist",
+    "lat": 50.8282767,
+    "lon": -0.174349,
+    "address": "159 Church Road, Hove",
+    "rating": 4.5,
+    "side": "north-west"
+  },
+  {
+    "name": "The Clinic - Mercury Removal Centre - Dr Jeff Amos",
+    "type": "dentist",
+    "lat": 50.82679779999999,
+    "lon": -0.1371165,
+    "address": "No 5, Gloucester Yard, 121-123 Gloucester Road, Brighton",
+    "rating": 5,
+    "side": "central-central"
+  },
+  {
+    "name": "Brighton Dental Clinic",
+    "type": "dentist",
+    "lat": 50.82093129999999,
+    "lon": -0.1363769,
+    "address": "1, St James's Mansions, Old Steine, Brighton",
+    "rating": 4.8,
+    "side": "south-central"
+  },
+  {
+    "name": "House of Dentistry Brighton & Hove",
+    "type": "dentist",
+    "lat": 50.8258544,
+    "lon": -0.1583205,
+    "address": "14 Brunswick Place, Hove",
+    "rating": 5,
+    "side": "central-west"
+  },
+  {
+    "name": "Stay True Gems",
+    "type": "dentist",
+    "lat": 50.8252527,
+    "lon": -0.1368854,
+    "address": "2 North Road, Brighton",
+    "rating": 5,
+    "side": "central-central"
+  },
+  {
+    "name": "P & G Smile ltd",
+    "type": "dentist",
+    "lat": 50.82766289999999,
+    "lon": -0.1356523,
+    "address": "13 Saint George's Place, Brighton",
+    "rating": null,
+    "side": "north-central"
+  },
+  {
+    "name": "Honeyb.toothgems",
+    "type": "dentist",
+    "lat": 50.8268158,
+    "lon": -0.1318693,
+    "address": "19, Richmond Heights, John Street, Brighton",
+    "rating": null,
+    "side": "central-east"
+  },
+  {
+    "name": "Ghasemi Tahmoures",
+    "type": "dentist",
+    "lat": 50.8281059,
+    "lon": -0.1376424,
+    "address": "20 Trafalgar Street, Brighton",
+    "rating": 1,
+    "side": "north-central"
+  },
+  {
+    "name": "Euro Smile Ltd",
+    "type": "dentist",
+    "lat": 50.8279011,
+    "lon": -0.1409691,
+    "address": "36 Frederick Place, Brighton and Hove, Brighton",
+    "rating": null,
+    "side": "north-central"
+  },
+  {
+    "name": "Portman Smile Clinic - Brighton",
+    "type": "dentist",
+    "lat": 50.8307301,
+    "lon": -0.1366953,
+    "address": "49-50 Providence Place, Brighton",
+    "rating": 4.9,
+    "side": "north-central"
+  },
+  {
+    "name": "Mr A Jafari - Mr a Jafari",
+    "type": "dentist",
+    "lat": 50.82478769999999,
+    "lon": -0.1506349,
+    "address": "2 Hampton Place, Brighton",
+    "rating": null,
+    "side": "central-west"
+  },
+  {
+    "name": "Dr Donya",
+    "type": "dentist",
+    "lat": 50.8340411,
+    "lon": -0.1470175,
+    "address": "Stanford Road, Brighton",
+    "rating": null,
+    "side": "north-west"
+  },
+  {
+    "name": "Implant Restorations Ltd",
+    "type": "dentist",
+    "lat": 50.83576689999999,
+    "lon": -0.1428205,
+    "address": "99 Preston Road, Brighton",
+    "rating": null,
+    "side": "north-central"
+  },
+  {
+    "name": "The Dental Practice UK",
+    "type": "dentist",
+    "lat": 50.8358329,
+    "lon": -0.1426908,
+    "address": "101 Preston Road, Brighton",
+    "rating": 4.9,
+    "side": "north-central"
+  },
+  {
+    "name": "MK Dental and Implant Clinic",
+    "type": "dentist",
+    "lat": 50.8181921,
+    "lon": -0.1096499,
+    "address": "17 Bristol Gardens, Brighton",
+    "rating": 4.6,
+    "side": "south-east"
+  },
+  {
+    "name": "Bristol Gardens Dental Practice Partnership",
+    "type": "dentist",
+    "lat": 50.8181752,
+    "lon": -0.1096444,
+    "address": "17 Bristol Gardens, Brighton",
+    "rating": 5,
+    "side": "south-east"
+  },
+  {
+    "name": "Link House Specialist Dental Centre",
+    "type": "dentist",
+    "lat": 50.84031359999999,
+    "lon": -0.1331994,
+    "address": "Link House, Upper Hollingdean Road, Link Place, Brighton",
+    "rating": 5,
+    "side": "north-east"
+  },
+  {
+    "name": "Holistic Dentist | The Nutritional Dentist",
+    "type": "dentist",
+    "lat": 50.82727899999999,
+    "lon": -0.165627,
+    "address": "51-53 Church Road, Hove",
+    "rating": 5,
+    "side": "north-west"
+  },
+  {
+    "name": "MaxFax Dental Implants",
+    "type": "dentist",
+    "lat": 50.8325499,
+    "lon": -0.1621661,
+    "address": "52-54 Cromwell Road, Hove",
+    "rating": null,
+    "side": "north-west"
+  },
+  {
+    "name": "Damira Hove Dental Practice",
+    "type": "dentist",
+    "lat": 50.83008950000001,
+    "lon": -0.1649364,
+    "address": "Tate Centre, 3B Eaton Road, Hove",
+    "rating": 4.7,
+    "side": "north-west"
+  },
+  {
+    "name": "Mr R D McLeod - McLeod Rodric David",
+    "type": "dentist",
+    "lat": 50.8189596,
+    "lon": -0.1060862,
+    "address": "39 Whitehawk Road, Brighton and Hove, Brighton",
+    "rating": 5,
+    "side": "south-east"
+  },
+  {
+    "name": "Brighton Implant Clinic (Brighton Branch)",
+    "type": "dentist",
+    "lat": 50.8454617,
+    "lon": -0.1149834,
+    "address": "79 Southall Avenue, Brighton",
+    "rating": 4.7,
+    "side": "north-east"
+  },
+  {
+    "name": "Imani Shahla",
+    "type": "dentist",
+    "lat": 50.828299,
+    "lon": -0.1743184,
+    "address": "159 Church Road, Hove",
+    "rating": 5,
+    "side": "north-west"
+  },
+  {
+    "name": "The Town House Dental Practice",
+    "type": "dentist",
+    "lat": 50.8431881,
+    "lon": -0.1581935,
+    "address": "10 Matlock Road, Brighton",
+    "rating": 4.8,
+    "side": "north-west"
+  },
+  {
+    "name": "Koloutsos Dr E",
+    "type": "dentist",
+    "lat": 50.84634639999999,
+    "lon": -0.1528817,
+    "address": "2 Clermont Road, Brighton",
+    "rating": null,
+    "side": "north-west"
+  },
+  {
+    "name": "Bright Dental Clinic Limited",
+    "type": "dentist",
+    "lat": 50.83158629999999,
+    "lon": -0.1754644,
+    "address": "LGF, City Dental Practice, 49 Blatchington Road, Hove",
+    "rating": null,
+    "side": "north-west"
+  },
+  {
+    "name": "Kimber Dr M",
+    "type": "dentist",
+    "lat": 50.8461972,
+    "lon": -0.1539888,
+    "address": "2 Clermont Road, Brighton",
+    "rating": null,
+    "side": "north-west"
+  }
+]

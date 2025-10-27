@@ -1,0 +1,332 @@
+[
+  {
+    "artwork_id": 745698,
+    "title": "Parachuting Pies",
+    "type": "Painted",
+    "medium": "paint",
+    "execution_date": "2013",
+    "tags": "Pictorial, Street Art",
+    "image": "https://d3d00swyhr67nd.cloudfront.net/w250/collection/PUBSCULPT/BN1/BN1_LS_S1193-001.jpg",
+    "coordinates": {
+      "lat": 50.823817,
+      "lon": -0.14647275
+    },
+    "clues": [
+      {
+        "level": 1,
+        "type": "cryptic",
+        "clue": "Where royal namesake stands in stately grace,\nAnd commerce weds with time's enduring trace,\nSeek The Prince of Wales in market's embrace—\nThere painted dreams descend through azure space,\nAs \"Parachuting Pies\" drift into place.",
+        "base_clue": "In the shadow of The Prince of Wales, among the grand shopping thoroughfares, discover the painted wonder \"Parachuting Pies\"."
+      },
+      {
+        "level": 2,
+        "type": "medium",
+        "clue": "The painted piece \"Parachuting Pies\" adorns a commercial storefront on a brick building with large display windows, positioned 16m north of The Prince of Wales pub and 25m from Halifax bank, with public seating 57m away and Clarence Square 101m to the southeast.",
+        "base_clue": "The painted piece \"Parachuting Pies\" adorns a busy shop front, positioned 16m north of The Prince of Wales and 25m from Halifax."
+      },
+      {
+        "level": 3,
+        "type": "directional",
+        "clue": "Start at The Prince of Wales pub as your initial landmark. From the pub's main entrance, orient yourself to face due north using a compass. Walk straight north along the pavement for exactly 16 meters, counting your steps carefully. As you walk, keep your eyes scanning to the right (east side) of your path. After covering the 16-meter distance, turn your head to the right (eastward direction) and you will spot the artwork mounted on the wall of a large retail building. The building is a substantial commercial structure with multiple stories and wide frontage typical of retail establishments. The artwork \"Parachuting Pies\" is a painted mural created in 2013, executed in paint medium, featuring pictorial elements combined with street art styling. The piece depicts pies with parachutes in a whimsical artistic representation. For additional reference, Halifax bank branch serves as a secondary landmark located 25 meters from your starting point at The Prince of Wales. Other nearby reference points include public seating 57 meters away, Clarence Square 101 meters distant, Russell Square 143 meters away, Church of Scientology of Brighton at 158 meters, and Chapel in the Inn 196 meters from your location.",
+        "base_clue": "Start at The Prince of Wales. Head north for 16m. The artwork will be on your right. Halifax is 25m away. \"Parachuting Pies\" is a painted artwork featuring pictorial and street art, created in 2013 displayed on a multi-storey shopping complex."
+      }
+    ]
+  },
+  {
+    "artwork_id": 744573,
+    "title": "Prinny",
+    "type": "Painted",
+    "medium": "paint",
+    "execution_date": "c.2023",
+    "tags": "Figurative, Male, Street Art",
+    "image": "https://d3d00swyhr67nd.cloudfront.net/w250/collection/PUBSCULPT/BN1/BN1_LS_S1162-001.jpg",
+    "coordinates": {
+      "lat": 50.822238,
+      "lon": -0.14009982
+    },
+    "clues": [
+      {
+        "level": 1,
+        "type": "cryptic",
+        "clue": "Where twisted lanes of ages past weave shadows dark and deep,\nAnd Riddle & Finns stands sentinel where ancient secrets sleep,\nThere \"Prinny\" dwells in painted grace upon a weathered wall,\nA brushstroke prince in colors bright, awaiting your sweet call.",
+        "base_clue": "Where Riddle & Finns The Lanes stands proud, among the old town's narrow passages, the painted artwork \"Prinny\" awaits."
+      },
+      {
+        "level": 2,
+        "type": "medium",
+        "clue": "The painted piece \"Prinny\" adorns a historic stone building, positioned 18m northeast of The Secret Comedy Club and 19m from Paxton+Glew Contemporary Art Gallery, with Royal Pavilion Gardens located 152m away and B&Q Local - Brighton 160m from the artwork's location.",
+        "base_clue": "The painted piece \"Prinny\" adorns a centuries-old property, positioned 18m northeast of The Secret Comedy Club and 19m from Paxton+Glew Contemporary Art Gallery."
+      },
+      {
+        "level": 3,
+        "type": "directional",
+        "clue": "Start at The Secret Comedy Club, located on the ground floor of a Victorian terraced building with distinctive black-painted facade and illuminated comedy club signage. Exit the venue and turn to face northeast (45° from north). Walk precisely 18 meters northeast along the pavement, passing The Chapel Royal Brighton (a Georgian limestone church with classical columns and ornate stonework) which will be visible 60 meters to your east. After walking exactly 18 meters, turn your head left (northwest direction) to locate the artwork. You will find \"Prinny\" - a painted street art piece created circa 2023 - displayed on the exterior wall of a narrow medieval building constructed of weathered grey stone with timber framing and small leaded windows. The figurative artwork depicts a male subject rendered in contemporary street art style using paint medium, with vibrant colors contrasting against the historic stonework. Continue northeast for an additional 1 meter (total 19 meters from starting point) to reach Paxton+Glew Contemporary Art Gallery, housed in a converted Georgian townhouse with white-painted stucco facade and large plate glass windows displaying rotating exhibitions. Additional landmarks include Royal Pavilion Gardens 152 meters southeast, and Friends Meeting House 93 meters north-northwest from the artwork location.",
+        "base_clue": "Start at The Secret Comedy Club. Head northeast for 18m. The artwork will be on your left. Paxton+Glew Contemporary Art Gallery is 19m away. \"Prinny\" is a painted artwork featuring figurative and male and street art, created in c.2023 displayed on an ancient structure."
+      }
+    ]
+  },
+  {
+    "artwork_id": 741663,
+    "title": "Burn It All",
+    "type": "Painted",
+    "medium": "paint",
+    "execution_date": "2023/2024",
+    "tags": "Pictorial, Street Art",
+    "image": "https://d3d00swyhr67nd.cloudfront.net/w250/collection/PUBSCULPT/BN1/BN1_LS_S1062-001.jpg",
+    "coordinates": {
+      "lat": 50.82437,
+      "lon": -0.1403144
+    },
+    "clues": [
+      {
+        "level": 1,
+        "type": "cryptic",
+        "clue": "Through Brighton's ancient cobbled veins where time itself has woven,\nPast medieval whispers carved in stone and mortar's golden token,\nSeek the sanctuary where Las Iguanas dwells in shadow's embrace,\nThere flames of artistry dance eternal—\"Burn It All\" awaits your grace.",
+        "base_clue": "Where Las Iguanas - Brighton stands proud, in the ancient twisted lanes, the painted artwork \"Burn It All\" awaits."
+      },
+      {
+        "level": 2,
+        "type": "medium",
+        "clue": "The painted piece \"Burn It All\" adorns a weathered brick wall of a converted Victorian warehouse, positioned 8m northwest of Fern and Pine Garden Design Studio and 67m southeast of Eco Tents.",
+        "base_clue": "The painted piece \"Burn It All\" adorns a centuries-old property, positioned 8m northwest of Fern and Pine Garden Design Studio and 8m from Fern and Pine Garden Design Studio."
+      },
+      {
+        "level": 3,
+        "type": "directional",
+        "clue": "Start at Fern and Pine Garden Design Studio. Head northwest for 8m. The artwork will be on your left. Fern and Pine Garden Design Studio is 8m away. \"Burn It All\" is a painted artwork featuring pictorial and street art, created in 2023/2024 displayed on a centuries-old property.",
+        "base_clue": "Start at Fern and Pine Garden Design Studio. Head northwest for 8m. The artwork will be on your left. Fern and Pine Garden Design Studio is 8m away. \"Burn It All\" is a painted artwork featuring pictorial and street art, created in 2023/2024 displayed on an ancient structure."
+      }
+    ]
+  },
+  {
+    "artwork_id": 741675,
+    "title": "Velodrome",
+    "type": "Painted",
+    "medium": "paint",
+    "execution_date": "2022",
+    "tags": "Abstract, Pictorial, Sport, Street Art",
+    "image": "https://d3d00swyhr67nd.cloudfront.net/w250/collection/PUBSCULPT/BN1/BN1_LS_S1128-001.jpg",
+    "coordinates": {
+      "lat": 50.842899,
+      "lon": -0.14825106
+    },
+    "clues": [
+      {
+        "level": 1,
+        "type": "cryptic",
+        "clue": "Seek The Park View, where gardens bloom behind painted facades. There you'll find the painted masterpiece \"Velodrome\".",
+        "base_clue": "Where The Park View stands proud, in the peaceful northern quarter, the painted artwork \"Velodrome\" awaits."
+      },
+      {
+        "level": 2,
+        "type": "medium",
+        "clue": "The painted piece \"Velodrome\" adorns a converted house, positioned 99m northeast of Cemetery and 101m from St Peter's Church, Preston Village, Brighton.",
+        "base_clue": "The painted piece \"Velodrome\" adorns a Victorian terrace building, positioned 99m northeast of Cemetery and 101m from St Peter's Church, Preston Village, Brighton."
+      },
+      {
+        "level": 3,
+        "type": "directional",
+        "clue": "Start at Cemetery. Head northeast for 99m. The artwork will be on your left. St Peter's Church, Preston Village, Brighton is 101m away. \"Velodrome\" is a painted artwork featuring abstract and pictorial and sport and street art, created in 2022 displayed on a three-storey residential property.",
+        "base_clue": "Start at Cemetery. Head northeast for 99m. The artwork will be on your left. St Peter's Church, Preston Village, Brighton is 101m away. \"Velodrome\" is a painted artwork featuring abstract and pictorial and sport and street art, created in 2022 displayed on a brick-fronted townhouse."
+      }
+    ]
+  },
+  {
+    "artwork_id": 744565,
+    "title": "Modern Day Hero",
+    "type": "Panel",
+    "medium": "paint",
+    "execution_date": "2020/2021",
+    "tags": "Commemorative, Street Art, Symbolic",
+    "image": "https://d3d00swyhr67nd.cloudfront.net/w250/collection/PUBSCULPT/BN1/BN1_LS_S1174-001.jpg",
+    "coordinates": {
+      "lat": 50.82431,
+      "lon": -0.13936222
+    },
+    "clues": [
+      {
+        "level": 1,
+        "type": "cryptic",
+        "clue": "Where Côte Brighton stands proud, among the old town's narrow passages, the painted artwork \"Modern Day Hero\" awaits.",
+        "base_clue": "Where Côte Brighton stands proud, in the historic Lanes' labyrinth, the painted artwork \"Modern Day Hero\" awaits."
+      },
+      {
+        "level": 2,
+        "type": "medium",
+        "clue": "The painted piece \"Modern Day Hero\" adorns a narrow medieval building, positioned 23m northeast of Kellie Miller Arts Gallery and 27m from REDEEMED CHRISTIAN CHURCH OF GOD, LOVE CHAPEL.",
+        "base_clue": "The painted piece \"Modern Day Hero\" adorns an ancient structure, positioned 23m northeast of Kellie Miller Arts Gallery and 27m from REDEEMED CHRISTIAN CHURCH OF GOD, LOVE CHAPEL."
+      },
+      {
+        "level": 3,
+        "type": "directional",
+        "clue": "Start at Kellie Miller Arts Gallery, positioned on the corner of the historic cobblestone street. Exit the gallery's main entrance and turn to face northeast (approximately 45 degrees from due north). Walk straight ahead in a northeastern direction for exactly 23 meters, passing the weathered stone fountain landmark on your right after 15 meters. Continue until you reach the second landmark - a distinctive Victorian lamp post with ornate ironwork. The artwork will be immediately on your left (west-facing) side. The target location is a narrow three-story medieval stone building with Gothic arched windows, timber framing on the upper floors, and a slate roof. \"Modern Day Hero\" is a large painted panel artwork measuring approximately 3m x 2m, created in 2020/2021, featuring commemorative street art with symbolic imagery including heroic figures and community motifs rendered in bold blues, reds, and golds. The artwork is tagged as: Commemorative, Street Art, and Symbolic. For reference, the REDEEMED CHRISTIAN CHURCH OF GOD, LOVE CHAPEL is located exactly 27 meters to the southeast from this position.",
+        "base_clue": "Start at Kellie Miller Arts Gallery. Head northeast for 23m. The artwork will be on your left. REDEEMED CHRISTIAN CHURCH OF GOD, LOVE CHAPEL is 27m away. \"Modern Day Hero\" is a painted artwork featuring commemorative and street art and symbolic, created in 2020/2021 displayed on a centuries-old property."
+      }
+    ]
+  },
+  {
+    "artwork_id": 741622,
+    "title": "The World's End Kracken",
+    "type": "Painted",
+    "medium": "paint",
+    "execution_date": "2014–2015",
+    "tags": "Commercial, Mythological, Street Art",
+    "image": "https://d3d00swyhr67nd.cloudfront.net/w250/collection/PUBSCULPT/BN1/BN1_LS_S1028-001.jpg",
+    "coordinates": {
+      "lat": 50.832879,
+      "lon": -0.13824508
+    },
+    "clues": [
+      {
+        "level": 1,
+        "type": "cryptic",
+        "clue": "Where tavern shadows kiss the hill's embrace,\nIn the city's beating heart where artists trace\nTheir dreams upon the walls, a beast awaits—\nThe Kracken coiled where the world terminates,\nIts painted tentacles forever dance\nNear the Crescent's verdant circumstance.",
+        "base_clue": "In the shadow of The West Hill Tavern, where independent shops and cafes thrive, discover the painted wonder \"The World's End Kracken\"."
+      },
+      {
+        "level": 2,
+        "type": "medium",
+        "clue": "The painted piece \"The World's End Kracken\" adorns a café storefront, positioned 18m northwest of Cash Generator Brighton | The Buy and Sell Store and 39m from Post Office.",
+        "base_clue": "The painted piece \"The World's End Kracken\" adorns a commercial premises, positioned 18m northwest of Cash Generator Brighton | The Buy and Sell Store and 39m from Post Office."
+      },
+      {
+        "level": 3,
+        "type": "directional",
+        "clue": "Start at Cash Generator Brighton | The Buy and Sell Store. Head northwest for 18m. The artwork will be on your left. Post Office is 39m away. \"The World's End Kracken\" is a painted artwork featuring commercial and mythological and street art, created in 2014–2015 displayed on a corner shop building.",
+        "base_clue": "Start at Cash Generator Brighton | The Buy and Sell Store. Head northwest for 18m. The artwork will be on your left. Post Office is 39m away. \"The World's End Kracken\" is a painted artwork featuring commercial and mythological and street art, created in 2014–2015 displayed on a corner shop building."
+      }
+    ]
+  },
+  {
+    "artwork_id": 741659,
+    "title": "Skull",
+    "type": "Painted",
+    "medium": "paint",
+    "execution_date": "2020",
+    "tags": "Pictorial, Street Art",
+    "image": "https://d3d00swyhr67nd.cloudfront.net/w250/collection/PUBSCULPT/BN1/BN1_LS_S1056-001.jpg",
+    "coordinates": {
+      "lat": 50.833391,
+      "lon": -0.14082491
+    },
+    "clues": [
+      {
+        "level": 1,
+        "type": "cryptic",
+        "clue": "Where The West Hill Tavern stands proud, where independent shops and cafes thrive, the painted artwork \"Skull\" awaits.",
+        "base_clue": "In the shadow of The West Hill Tavern, in the artistic quarter's maze of lanes, discover the painted wonder \"Skull\"."
+      },
+      {
+        "level": 2,
+        "type": "medium",
+        "clue": "The painted piece \"Skull\" adorns a café storefront, positioned 27m south of Diamond Computers and 27m from Diamond Computers.",
+        "base_clue": "The painted piece \"Skull\" adorns a café storefront, positioned 27m south of Diamond Computers and 27m from Diamond Computers."
+      },
+      {
+        "level": 3,
+        "type": "directional",
+        "clue": "Start at Diamond Computers. Head south for 27m. The artwork will be on your left. Diamond Computers is 27m away. \"Skull\" is a painted artwork featuring pictorial and street art, created in 2020 displayed on a café storefront.",
+        "base_clue": "Start at Diamond Computers. Head south for 27m. The artwork will be on your left. Diamond Computers is 27m away. \"Skull\" is a painted artwork featuring pictorial and street art, created in 2020 displayed on a café storefront."
+      }
+    ]
+  },
+  {
+    "artwork_id": 748069,
+    "title": "Summer",
+    "type": "Painted",
+    "medium": "paint",
+    "execution_date": "2022",
+    "tags": "Pictorial, Street Art",
+    "image": "https://d3d00swyhr67nd.cloudfront.net/w250/collection/PUBSCULPT/BN2/BN2_LS_S1114-001.jpg",
+    "coordinates": {
+      "lat": 50.833572,
+      "lon": -0.13205051
+    },
+    "clues": [
+      {
+        "level": 1,
+        "type": "cryptic",
+        "clue": "Where Wellington's cobbled heart beats wild and free,\n'Midst artisan haunts and coffee's fragrant call,\nA painted dream of warmth awaits to see—\nWhen Summer's golden brushstrokes grace the wall.",
+        "base_clue": "Seek The Wellington, among the vibrant bohemian streets. There you'll find the painted masterpiece \"Summer\"."
+      },
+      {
+        "level": 2,
+        "type": "medium",
+        "clue": "The painted piece \"Summer\" adorns a brick-fronted townhouse, positioned 58m northwest of relovestuff and 78m from Smart Local Market Off Licence.",
+        "base_clue": "The painted piece \"Summer\" adorns a converted house, positioned 58m northwest of relovestuff and 78m from Smart Local Market Off Licence."
+      },
+      {
+        "level": 3,
+        "type": "directional",
+        "clue": "Start at relovestuff. Head northwest for 58m. The artwork will be on your left. Smart Local Market Off Licence is 78m away. \"Summer\" is a painted artwork featuring pictorial and street art, created in 2022 displayed on a three-storey residential property.",
+        "base_clue": "Start at relovestuff. Head northwest for 58m. The artwork will be on your left. Smart Local Market Off Licence is 78m away. \"Summer\" is a painted artwork featuring pictorial and street art, created in 2022 displayed on a converted house."
+      }
+    ]
+  },
+  {
+    "artwork_id": 741618,
+    "title": "Hare and Hounds",
+    "type": "Painted",
+    "medium": "paint",
+    "execution_date": "2022–2023",
+    "tags": "Animal, Pictorial, Street Art",
+    "image": "https://d3d00swyhr67nd.cloudfront.net/w250/collection/PUBSCULPT/BN1/BN1_LS_S1024-001.jpg",
+    "coordinates": {
+      "lat": 50.83342,
+      "lon": -0.13826251
+    },
+    "clues": [
+      {
+        "level": 1,
+        "type": "cryptic",
+        "clue": "Where The West Hill Tavern stands proud, in the artistic quarter's maze of lanes, the painted artwork \"Hare and Hounds\" awaits.",
+        "base_clue": "Seek The West Hill Tavern, in the creative heart of the city. There you'll find the painted masterpiece \"Hare and Hounds\"."
+      },
+      {
+        "level": 2,
+        "type": "medium",
+        "clue": "The painted piece \"Hare and Hounds\" adorns a corner shop building, positioned 22m southwest of Calvary Church Brighton and 25m from Railway Mission.",
+        "base_clue": "The painted piece \"Hare and Hounds\" adorns a retail unit, positioned 22m southwest of Calvary Church Brighton and 25m from Railway Mission."
+      },
+      {
+        "level": 3,
+        "type": "directional",
+        "clue": "Start at Calvary Church Brighton. Head southwest for 22m. The artwork will be on your right. Railway Mission is 25m away. \"Hare and Hounds\" is a painted artwork featuring animal and pictorial and street art, created in 2022–2023 displayed on a retail unit.",
+        "base_clue": "Start at Calvary Church Brighton. Head southwest for 22m. The artwork will be on your right. Railway Mission is 25m away. \"Hare and Hounds\" is a painted artwork featuring animal and pictorial and street art, created in 2022–2023 displayed on a corner shop building."
+      }
+    ]
+  },
+  {
+    "artwork_id": 747324,
+    "title": "People at Leisure",
+    "type": "Painted",
+    "medium": "paint",
+    "execution_date": "2023",
+    "tags": "Pictorial, Street Art",
+    "image": "https://d3d00swyhr67nd.cloudfront.net/w250/collection/PUBSCULPT/BN3/BN3_LS_S1085-001.jpg",
+    "coordinates": {
+      "lat": 50.837336,
+      "lon": -0.17728508
+    },
+    "clues": [
+      {
+        "level": 1,
+        "type": "cryptic",
+        "clue": "Seek The Friends of St Ann’s Well Gardens, in the peaceful northern quarter. There you'll find the painted masterpiece \"People at Leisure\".",
+        "base_clue": "Seek The Friends of St Ann’s Well Gardens, where gardens bloom behind painted facades. There you'll find the painted masterpiece \"People at Leisure\"."
+      },
+      {
+        "level": 2,
+        "type": "medium",
+        "clue": "Look for the painted work \"People at Leisure\" on a converted house, 338m northwest of Krav Maga Evolve.",
+        "base_clue": "Look for the painted work \"People at Leisure\" on a brick-fronted townhouse, 338m northwest of Krav Maga Evolve."
+      },
+      {
+        "level": 3,
+        "type": "directional",
+        "clue": "\"People at Leisure\" is a painted artwork featuring pictorial and street art, created in 2023 on a Victorian terrace building in north Brighton.",
+        "base_clue": "\"People at Leisure\" is a painted artwork featuring pictorial and street art, created in 2023 on a brick-fronted townhouse in north Brighton."
+      }
+    ]
+  }
+]

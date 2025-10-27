@@ -1,0 +1,542 @@
+[
+  {
+    "name": "Legends Hotel",
+    "type": "cafe",
+    "lat": 50.81967220000001,
+    "lon": -0.1328906,
+    "address": "31-34 Marine Parade, Brighton",
+    "rating": 4.2,
+    "side": "south-east"
+  },
+  {
+    "name": "ODEON Brighton",
+    "type": "cafe",
+    "lat": 50.821079,
+    "lon": -0.1452933,
+    "address": "Kingswest, West Street, Brighton",
+    "rating": 3.7,
+    "side": "central-west"
+  },
+  {
+    "name": "Costa Coffee",
+    "type": "cafe",
+    "lat": 50.823544,
+    "lon": -0.13997,
+    "address": "32 Bond Street, Brighton",
+    "rating": 4.2,
+    "side": "central-central"
+  },
+  {
+    "name": "Bill's Brighton Restaurant",
+    "type": "cafe",
+    "lat": 50.8255639,
+    "lon": -0.1374735,
+    "address": "100 North Road, Brighton",
+    "rating": 4.5,
+    "side": "central-central"
+  },
+  {
+    "name": "The Cowley Club",
+    "type": "cafe",
+    "lat": 50.8303028,
+    "lon": -0.1361738,
+    "address": "12 London Road, Brighton",
+    "rating": 4.4,
+    "side": "north-central"
+  },
+  {
+    "name": "Caffè Nero",
+    "type": "cafe",
+    "lat": 50.8238341,
+    "lon": -0.1448686,
+    "address": "208 Western Road, Brighton",
+    "rating": 4.1,
+    "side": "central-central"
+  },
+  {
+    "name": "bp",
+    "type": "cafe",
+    "lat": 50.8371071,
+    "lon": -0.1332851,
+    "address": "Ditchling Road, Brighton",
+    "rating": 2.9,
+    "side": "north-east"
+  },
+  {
+    "name": "Breakfast At Tiffany's",
+    "type": "cafe",
+    "lat": 50.82553900000001,
+    "lon": -0.138863,
+    "address": "22 North Road, Brighton",
+    "rating": 4.5,
+    "side": "central-central"
+  },
+  {
+    "name": "Pavilion Gardens Cafe",
+    "type": "cafe",
+    "lat": 50.8229109,
+    "lon": -0.1391861,
+    "address": "Royal Pavilion Grounds, New Road, Brighton",
+    "rating": 4.5,
+    "side": "central-central"
+  },
+  {
+    "name": "Costa",
+    "type": "cafe",
+    "lat": 50.8305611,
+    "lon": -0.1362502,
+    "address": "17 London Road, Brighton",
+    "rating": 4.1,
+    "side": "north-central"
+  },
+  {
+    "name": "Cafe de la Mer",
+    "type": "cafe",
+    "lat": 50.8208498,
+    "lon": -0.1480727,
+    "address": "Unit 124A, Kings Road Arches, Brighton",
+    "rating": 4.5,
+    "side": "south-west"
+  },
+  {
+    "name": "The Meeting Place Cafe",
+    "type": "cafe",
+    "lat": 50.8222166,
+    "lon": -0.1570123,
+    "address": "Kings Road, Brighton",
+    "rating": 3.8,
+    "side": "central-west"
+  },
+  {
+    "name": "Très – The Artisan Baking Society",
+    "type": "cafe",
+    "lat": 50.8234226,
+    "lon": -0.1401623,
+    "address": "38 Bond Street, Brighton",
+    "rating": null,
+    "side": "central-central"
+  },
+  {
+    "name": "egg&spoon",
+    "type": "cafe",
+    "lat": 50.8190803,
+    "lon": -0.1231312,
+    "address": "107-108 Saint George's Road Brighton, and, Hove",
+    "rating": 4.5,
+    "side": "south-east"
+  },
+  {
+    "name": "Frankie Vaughns - Speciality Coffee",
+    "type": "cafe",
+    "lat": 50.8226841,
+    "lon": -0.1356419,
+    "address": "180 Edward Street, Brighton",
+    "rating": 4.5,
+    "side": "central-central"
+  },
+  {
+    "name": "Jackalope",
+    "type": "cafe",
+    "lat": 50.82803219999999,
+    "lon": -0.1362651,
+    "address": "100 Trafalgar Court, Brighton",
+    "rating": 4.7,
+    "side": "north-central"
+  },
+  {
+    "name": "Cafe Venus",
+    "type": "cafe",
+    "lat": 50.8253186,
+    "lon": -0.1554239,
+    "address": "132 Western Road, Brighton",
+    "rating": 4.6,
+    "side": "central-west"
+  },
+  {
+    "name": "Bread & Milk",
+    "type": "cafe",
+    "lat": 50.8283333,
+    "lon": -0.1380556,
+    "address": "82 Trafalgar Street, Brighton",
+    "rating": 4.5,
+    "side": "north-central"
+  },
+  {
+    "name": "Milk No Sugar",
+    "type": "cafe",
+    "lat": 50.8285052,
+    "lon": -0.1395678,
+    "address": "68 Trafalgar Street, Brighton",
+    "rating": 4.4,
+    "side": "north-central"
+  },
+  {
+    "name": "Flavour",
+    "type": "cafe",
+    "lat": 50.8266861,
+    "lon": -0.1615917,
+    "address": "63B Holland Road, Hove",
+    "rating": 4.6,
+    "side": "central-west"
+  },
+  {
+    "name": "Harrisons of Hove",
+    "type": "cafe",
+    "lat": 50.8314482,
+    "lon": -0.1550809,
+    "address": "11-13 Montefiore Road, Hove",
+    "rating": 4.4,
+    "side": "north-west"
+  },
+  {
+    "name": "Lovefit Café",
+    "type": "cafe",
+    "lat": 50.8262657,
+    "lon": -0.1419448,
+    "address": "110 Queens Road, Brighton",
+    "rating": 4.5,
+    "side": "central-central"
+  },
+  {
+    "name": "Ala's Cafe",
+    "type": "cafe",
+    "lat": 50.8233652,
+    "lon": -0.1443402,
+    "address": "13 Cranbourne Street, Brighton",
+    "rating": 4.8,
+    "side": "central-central"
+  },
+  {
+    "name": "Costa Coffee",
+    "type": "cafe",
+    "lat": 50.828946,
+    "lon": -0.173657,
+    "address": "13-14 George Street, Brighton",
+    "rating": 4.3,
+    "side": "north-west"
+  },
+  {
+    "name": "Pret A Manger",
+    "type": "cafe",
+    "lat": 50.8216765,
+    "lon": -0.1389726,
+    "address": "42 East Street, Brighton",
+    "rating": 4.1,
+    "side": "central-central"
+  },
+  {
+    "name": "Crêpeaffaire, Brighton",
+    "type": "cafe",
+    "lat": 50.8213386,
+    "lon": -0.1391195,
+    "address": "35 East Street, Brighton",
+    "rating": 4.8,
+    "side": "central-central"
+  },
+  {
+    "name": "Caffè Nero",
+    "type": "cafe",
+    "lat": 50.8232799,
+    "lon": -0.1401976,
+    "address": "39-40 Bond Street, Brighton",
+    "rating": 4.2,
+    "side": "central-central"
+  },
+  {
+    "name": "The Breakfast Club",
+    "type": "cafe",
+    "lat": 50.8213006,
+    "lon": -0.1398664,
+    "address": "16-17 Market Street, Brighton",
+    "rating": 4.3,
+    "side": "central-central"
+  },
+  {
+    "name": "17GRAMS Brighton | Coffee & Brunch",
+    "type": "cafe",
+    "lat": 50.8225169,
+    "lon": -0.1404759,
+    "address": "12d Meeting House Lane, Brighton",
+    "rating": 4.7,
+    "side": "central-central"
+  },
+  {
+    "name": "That Little Tea Shop in the Lanes",
+    "type": "cafe",
+    "lat": 50.8223902,
+    "lon": -0.1405618,
+    "address": "17 Meeting House Lane, Brighton",
+    "rating": 4.4,
+    "side": "central-central"
+  },
+  {
+    "name": "Thewitchez Restaurant",
+    "type": "cafe",
+    "lat": 50.8219965,
+    "lon": -0.1409004,
+    "address": "3 Meeting House Lane, Brighton",
+    "rating": 4.9,
+    "side": "central-central"
+  },
+  {
+    "name": "Caffè Nero",
+    "type": "cafe",
+    "lat": 50.82142220000001,
+    "lon": -0.1409861,
+    "address": "16 Prince Albert Street, Brighton",
+    "rating": 4.1,
+    "side": "central-central"
+  },
+  {
+    "name": "Trading Post Coffee Roasters",
+    "type": "cafe",
+    "lat": 50.82288339999999,
+    "lon": -0.141783,
+    "address": "36 Ship Street, Brighton",
+    "rating": 4.3,
+    "side": "central-central"
+  },
+  {
+    "name": "Cornish Pasty Shop",
+    "type": "cafe",
+    "lat": 50.8253802,
+    "lon": -0.1395003,
+    "address": "24 Gardner Street, Brighton",
+    "rating": 4.5,
+    "side": "central-central"
+  },
+  {
+    "name": "Loading Bar",
+    "type": "cafe",
+    "lat": 50.8191845,
+    "lon": -0.1353119,
+    "address": "Unit 11, Lower Promenade, Madeira Drive, Brighton",
+    "rating": 4.5,
+    "side": "south-central"
+  },
+  {
+    "name": "Brighton Zip",
+    "type": "cafe",
+    "lat": 50.8190311,
+    "lon": -0.1343281,
+    "address": "Madeira Drive, Brighton",
+    "rating": 3.7,
+    "side": "south-east"
+  },
+  {
+    "name": "MADE Brighton",
+    "type": "cafe",
+    "lat": 50.82592710000001,
+    "lon": -0.1402536,
+    "address": "66 North Road, Brighton",
+    "rating": 4.8,
+    "side": "central-central"
+  },
+  {
+    "name": "Wafflemeister",
+    "type": "cafe",
+    "lat": 50.8232286,
+    "lon": -0.1436045,
+    "address": "49 West Street, Brighton",
+    "rating": 4.4,
+    "side": "central-central"
+  },
+  {
+    "name": "Carnaby Street Bar",
+    "type": "cafe",
+    "lat": 50.8192707,
+    "lon": -0.1325399,
+    "address": "6, 7 & 8 Madeira Drive, Brighton",
+    "rating": 4.3,
+    "side": "south-east"
+  },
+  {
+    "name": "LEON Brighton",
+    "type": "cafe",
+    "lat": 50.8236999,
+    "lon": -0.1439415,
+    "address": "75 North Street, Brighton",
+    "rating": 4.1,
+    "side": "central-central"
+  },
+  {
+    "name": "Seaside Fish & Chips/Modern World Brighton (halal Options Available)",
+    "type": "cafe",
+    "lat": 50.8192457,
+    "lon": -0.132367,
+    "address": "6-8 Madeira Drive, Brighton and Hove, Brighton",
+    "rating": 4.4,
+    "side": "south-east"
+  },
+  {
+    "name": "Bella Union Vinyl Shop & Coffee",
+    "type": "cafe",
+    "lat": 50.8269849,
+    "lon": -0.1363967,
+    "address": "6-7 Gloucester Street, Brighton",
+    "rating": 4.8,
+    "side": "central-central"
+  },
+  {
+    "name": "Black Mocha",
+    "type": "cafe",
+    "lat": 50.8269544,
+    "lon": -0.1385187,
+    "address": "BLACK MOCHA, 103 Gloucester Road, Brighton",
+    "rating": 4.6,
+    "side": "central-central"
+  },
+  {
+    "name": "Pelicano Coffee Co.",
+    "type": "cafe",
+    "lat": 50.8277778,
+    "lon": -0.1375,
+    "address": "28 Sydney Street, Brighton",
+    "rating": 4.5,
+    "side": "north-central"
+  },
+  {
+    "name": "Starfish & Coffee",
+    "type": "cafe",
+    "lat": 50.8234229,
+    "lon": -0.1286507,
+    "address": "32 Egremont Place, Brighton",
+    "rating": 4.8,
+    "side": "central-east"
+  },
+  {
+    "name": "Marks & Spencer",
+    "type": "cafe",
+    "lat": 50.8240322,
+    "lon": -0.1457519,
+    "address": "195 Western Road, Brighton",
+    "rating": 4.2,
+    "side": "central-west"
+  },
+  {
+    "name": "coffeetzar",
+    "type": "cafe",
+    "lat": 50.8281377,
+    "lon": -0.1368906,
+    "address": "97 Trafalgar Street, Brighton",
+    "rating": 4.5,
+    "side": "north-central"
+  },
+  {
+    "name": "Costa Coffee",
+    "type": "cafe",
+    "lat": 50.82398999999999,
+    "lon": -0.146175,
+    "address": "193 Western Road, Brighton",
+    "rating": 4.1,
+    "side": "central-west"
+  },
+  {
+    "name": "Blend & Brew Brighton",
+    "type": "cafe",
+    "lat": 50.828413,
+    "lon": -0.1400001,
+    "address": "44 Trafalgar Street, Brighton",
+    "rating": 4.8,
+    "side": "north-central"
+  },
+  {
+    "name": "Nowhere Man",
+    "type": "cafe",
+    "lat": 50.8254324,
+    "lon": -0.1489144,
+    "address": "53 Upper North Street, Brighton",
+    "rating": 4.4,
+    "side": "central-west"
+  },
+  {
+    "name": "Presuming Ed's Coffee House",
+    "type": "cafe",
+    "lat": 50.8310301,
+    "lon": -0.135966,
+    "address": "114-115, London Road, Brighton",
+    "rating": 4.5,
+    "side": "north-central"
+  },
+  {
+    "name": "Caffè Nero",
+    "type": "cafe",
+    "lat": 50.8245045,
+    "lon": -0.1507175,
+    "address": "84-85 Western Road, Brighton",
+    "rating": 4.1,
+    "side": "central-west"
+  },
+  {
+    "name": "The Artisan Cakery - Coffee Shop",
+    "type": "cafe",
+    "lat": 50.81934009999999,
+    "lon": -0.1241457,
+    "address": "117 Saint George's Road, Brighton",
+    "rating": 4.6,
+    "side": "south-east"
+  },
+  {
+    "name": "Creams Cafe Brighton",
+    "type": "cafe",
+    "lat": 50.8245427,
+    "lon": -0.1510128,
+    "address": "86 Western Road, Brighton",
+    "rating": 4.6,
+    "side": "central-west"
+  },
+  {
+    "name": "Cosy Cottage Cafe Restaurant",
+    "type": "cafe",
+    "lat": 50.83145520000001,
+    "lon": -0.1366732,
+    "address": "35 London Road, Brighton",
+    "rating": 4.5,
+    "side": "north-central"
+  },
+  {
+    "name": "Alcampo Lounge",
+    "type": "cafe",
+    "lat": 50.83270760000001,
+    "lon": -0.1375508,
+    "address": "84-86 London Road, Brighton",
+    "rating": 4.2,
+    "side": "north-central"
+  },
+  {
+    "name": "Brighton & Hove Albion Foundation",
+    "type": "cafe",
+    "lat": 50.8249766,
+    "lon": -0.121474,
+    "address": "136 Freshfield Road, Brighton",
+    "rating": 4.7,
+    "side": "central-east"
+  },
+  {
+    "name": "Latina Brighton",
+    "type": "cafe",
+    "lat": 50.8306052,
+    "lon": -0.1472242,
+    "address": "104B Dyke Road",
+    "rating": 4.5,
+    "side": "north-west"
+  },
+  {
+    "name": "PUCK",
+    "type": "cafe",
+    "lat": 50.83129719999999,
+    "lon": -0.1470065,
+    "address": "19 Chatham Place, Brighton",
+    "rating": 4.9,
+    "side": "north-west"
+  },
+  {
+    "name": "The Flour Pot Bakery - Seven Dials",
+    "type": "cafe",
+    "lat": 50.8314979,
+    "lon": -0.1480383,
+    "address": "141 Dyke Road, Hove",
+    "rating": 4.4,
+    "side": "north-west"
+  }
+]

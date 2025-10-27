@@ -1,0 +1,542 @@
+[
+  {
+    "name": "Queens Hotel Brighton",
+    "type": "spa",
+    "lat": 50.81976179999999,
+    "lon": -0.1396814,
+    "address": "1-3 Kings Road, Brighton",
+    "rating": 4,
+    "side": "south-central"
+  },
+  {
+    "name": "Hotel Nineteen",
+    "type": "spa",
+    "lat": 50.82047900000001,
+    "lon": -0.1346217,
+    "address": "19 Broad Street, Brighton",
+    "rating": 4.8,
+    "side": "south-east"
+  },
+  {
+    "name": "Bristol Gardens Health Spa",
+    "type": "spa",
+    "lat": 50.81800719999999,
+    "lon": -0.1097444,
+    "address": "24-26 Bristol Gardens, Brighton",
+    "rating": 4.4,
+    "side": "south-east"
+  },
+  {
+    "name": "The Brighton Sauna",
+    "type": "spa",
+    "lat": 50.82329470000001,
+    "lon": -0.1360795,
+    "address": "75/76 Grand Parade, Brighton",
+    "rating": 4,
+    "side": "central-central"
+  },
+  {
+    "name": "Jagwa Hair and Beauty Salon",
+    "type": "spa",
+    "lat": 50.83051740000001,
+    "lon": -0.1473591,
+    "address": "119 Dyke Road, Brighton",
+    "rating": 4.8,
+    "side": "north-west"
+  },
+  {
+    "name": "Turn Beautiful",
+    "type": "spa",
+    "lat": 50.8214364,
+    "lon": -0.1396116,
+    "address": "12 Market Street, Brighton",
+    "rating": 4.8,
+    "side": "central-central"
+  },
+  {
+    "name": "Cosmedoctor",
+    "type": "spa",
+    "lat": 50.82128919999999,
+    "lon": -0.1420793,
+    "address": "14 Ship Street, Brighton",
+    "rating": null,
+    "side": "central-central"
+  },
+  {
+    "name": "Kaaj Therapies",
+    "type": "spa",
+    "lat": 50.8261155,
+    "lon": -0.1386721,
+    "address": "31 Kensington Gardens, Brighton",
+    "rating": null,
+    "side": "central-central"
+  },
+  {
+    "name": "The Charm Brighton Boutique Hotel & Spa",
+    "type": "spa",
+    "lat": 50.8202226,
+    "lon": -0.1312124,
+    "address": "19-21 New Steine, Brighton",
+    "rating": 4.7,
+    "side": "south-east"
+  },
+  {
+    "name": "Brighton Beauty Bar",
+    "type": "spa",
+    "lat": 50.82731070000001,
+    "lon": -0.1376633,
+    "address": "39B Sydney Street, Brighton",
+    "rating": 4.7,
+    "side": "north-central"
+  },
+  {
+    "name": "Your Hotel Spa Ltd",
+    "type": "spa",
+    "lat": 50.8284417,
+    "lon": -0.1385819,
+    "address": "Horatio House, 78 Trafalgar Street, Brighton",
+    "rating": null,
+    "side": "north-central"
+  },
+  {
+    "name": "Daisy's Nail Company & Spa",
+    "type": "spa",
+    "lat": 50.824029,
+    "lon": -0.150544,
+    "address": "59 Preston Street, Brighton",
+    "rating": 4.6,
+    "side": "central-west"
+  },
+  {
+    "name": "The Therapy Shop",
+    "type": "spa",
+    "lat": 50.82452489999999,
+    "lon": -0.1513199,
+    "address": "The Therapy Shop, 87 Western Road, Brighton and Hove, Brighton",
+    "rating": 4.9,
+    "side": "central-west"
+  },
+  {
+    "name": "The Giving Tree – Acupuncture in Brighton",
+    "type": "spa",
+    "lat": 50.8303316,
+    "lon": -0.1456439,
+    "address": "33-35 Compton Avenue, Brighton",
+    "rating": 4.7,
+    "side": "north-west"
+  },
+  {
+    "name": "Mermaid Brighton beauty salon",
+    "type": "spa",
+    "lat": 50.83144259999999,
+    "lon": -0.1476986,
+    "address": "116 Dyke Road, Brighton",
+    "rating": 4.6,
+    "side": "north-west"
+  },
+  {
+    "name": "The Beauty Place",
+    "type": "spa",
+    "lat": 50.8268023,
+    "lon": -0.1619547,
+    "address": "34 Holland Road, Hove",
+    "rating": 4.9,
+    "side": "central-west"
+  },
+  {
+    "name": "Little Jasmine Therapies and Spa",
+    "type": "spa",
+    "lat": 50.8233208,
+    "lon": -0.1397223,
+    "address": "14 New Road, Brighton",
+    "rating": 4.9,
+    "side": "central-central"
+  },
+  {
+    "name": "Grand Aesthetics Clinic",
+    "type": "spa",
+    "lat": 50.82720920000001,
+    "lon": -0.1677277,
+    "address": "40 Church Road, Brighton and Hove, Brighton",
+    "rating": 4.8,
+    "side": "north-west"
+  },
+  {
+    "name": "Knead4calm",
+    "type": "spa",
+    "lat": 50.834715,
+    "lon": -0.1660074,
+    "address": "8, Devonshire Court, The Drive, Hove",
+    "rating": 5,
+    "side": "north-west"
+  },
+  {
+    "name": "GRACE Adult Entertainment Club: Brighton's best strip club and lap dancing venue",
+    "type": "spa",
+    "lat": 50.82324699999999,
+    "lon": -0.142408,
+    "address": "51-52 North Street, Brighton",
+    "rating": 4.1,
+    "side": "central-central"
+  },
+  {
+    "name": "Chutima Therapy",
+    "type": "spa",
+    "lat": 50.82798889999999,
+    "lon": -0.1357655,
+    "address": "106 Trafalgar Street, Brighton",
+    "rating": 5,
+    "side": "north-central"
+  },
+  {
+    "name": "Jin Yan Tang Acupuncture and Tuina",
+    "type": "spa",
+    "lat": 50.8284566,
+    "lon": -0.1775527,
+    "address": "192 Church Road, Hove",
+    "rating": 3.8,
+    "side": "north-west"
+  },
+  {
+    "name": "Relax and Pamper Parties",
+    "type": "spa",
+    "lat": 50.829835,
+    "lon": -0.1399004,
+    "address": "Stroudley Road, Brighton",
+    "rating": null,
+    "side": "north-central"
+  },
+  {
+    "name": "Brighton Dental Clinic",
+    "type": "spa",
+    "lat": 50.82093129999999,
+    "lon": -0.1363769,
+    "address": "1, St James's Mansions, Old Steine, Brighton",
+    "rating": 4.8,
+    "side": "south-central"
+  },
+  {
+    "name": "Apollo Tanning and Beauty",
+    "type": "spa",
+    "lat": 50.82924740000001,
+    "lon": -0.173562,
+    "address": "20 George Street, Hove",
+    "rating": 4.5,
+    "side": "north-west"
+  },
+  {
+    "name": "Massage Mountain Healing",
+    "type": "spa",
+    "lat": 50.82348500000001,
+    "lon": -0.1401679,
+    "address": "Stage One Salon, 36 Bond Street, Brighton",
+    "rating": 5,
+    "side": "central-central"
+  },
+  {
+    "name": "Adriana's Energy - Advanced Clinical Massage",
+    "type": "spa",
+    "lat": 50.8204872,
+    "lon": -0.1395401,
+    "address": "9 Bartholomews, Brighton",
+    "rating": 5,
+    "side": "south-central"
+  },
+  {
+    "name": "Spabreaks.com",
+    "type": "spa",
+    "lat": 50.8210771,
+    "lon": -0.1412257,
+    "address": "Moore House, Black Lion Street, Brighton",
+    "rating": 4.3,
+    "side": "central-central"
+  },
+  {
+    "name": "Juvenate Health & Leisure",
+    "type": "spa",
+    "lat": 50.820252,
+    "lon": -0.140629,
+    "address": "Kings Road, Brighton",
+    "rating": 3.9,
+    "side": "south-central"
+  },
+  {
+    "name": "Positive Treatments",
+    "type": "spa",
+    "lat": 50.8225243,
+    "lon": -0.1425735,
+    "address": "46 Middle Street, Brighton",
+    "rating": 5,
+    "side": "central-central"
+  },
+  {
+    "name": "Driftwood Kemptown Spa",
+    "type": "spa",
+    "lat": 50.82019039999999,
+    "lon": -0.1328146,
+    "address": "29 Camelford Street, Brighton",
+    "rating": null,
+    "side": "south-east"
+  },
+  {
+    "name": "The Cryo Lounge",
+    "type": "spa",
+    "lat": 50.8226771,
+    "lon": -0.1428912,
+    "address": "5 Duke Street, Brighton",
+    "rating": 5,
+    "side": "central-central"
+  },
+  {
+    "name": "YOYO Yard",
+    "type": "spa",
+    "lat": 50.8261274,
+    "lon": -0.1365396,
+    "address": "36 Cheltenham Place, Brighton",
+    "rating": 4.9,
+    "side": "central-central"
+  },
+  {
+    "name": "hózhó Wellness | Massage | Lifestyle",
+    "type": "spa",
+    "lat": 50.8261274,
+    "lon": -0.1365396,
+    "address": "Studio 8, 36 Cheltenham Place, Brighton",
+    "rating": 5,
+    "side": "central-central"
+  },
+  {
+    "name": "Brighton Beauty Collective",
+    "type": "spa",
+    "lat": 50.8263911,
+    "lon": -0.1374733,
+    "address": "Unit 2, 13-16, Vine Street, Brighton",
+    "rating": 4.9,
+    "side": "central-central"
+  },
+  {
+    "name": "Sauna in the Lanes",
+    "type": "spa",
+    "lat": 50.8211221,
+    "lon": -0.1431165,
+    "address": "67 Middle Street, Brighton",
+    "rating": 4.9,
+    "side": "central-central"
+  },
+  {
+    "name": "TGB SPA By DKOLLECTION",
+    "type": "spa",
+    "lat": 50.8230672,
+    "lon": -0.143627,
+    "address": "51-53 West Street, Brighton",
+    "rating": 4.9,
+    "side": "central-central"
+  },
+  {
+    "name": "By Caroline Power, Brighton Facialist,Beauty/Massage therapist",
+    "type": "spa",
+    "lat": 50.8197768,
+    "lon": -0.132077,
+    "address": "Square Townhouse, 4 New Steine, Brighton",
+    "rating": 5,
+    "side": "south-east"
+  },
+  {
+    "name": "Enliven.Skin – Brighton Aesthetic & Skin Clinic",
+    "type": "spa",
+    "lat": 50.8203022,
+    "lon": -0.1313069,
+    "address": "80C Saint James's Street, Brighton",
+    "rating": 5,
+    "side": "south-east"
+  },
+  {
+    "name": "SAORI Japanese Head Spa",
+    "type": "spa",
+    "lat": 50.8202226,
+    "lon": -0.1312124,
+    "address": "19-21 New Steine, Brighton",
+    "rating": 5,
+    "side": "south-east"
+  },
+  {
+    "name": "The Charm Massage Therapy & Spa (At The Charm Brighton Boutique Hotel & Spa)",
+    "type": "spa",
+    "lat": 50.82004,
+    "lon": -0.1313573,
+    "address": "Boutique Hotel & Spa, The Charm, 20-21 New Steine, Brighton",
+    "rating": 5,
+    "side": "south-east"
+  },
+  {
+    "name": "Seaside Publishing Group Ltd",
+    "type": "spa",
+    "lat": 50.82491129999999,
+    "lon": -0.1431103,
+    "address": "14 Queens Road, Brighton",
+    "rating": null,
+    "side": "central-central"
+  },
+  {
+    "name": "Colonics and Cleanses, Anahata Health Centre, Brighton",
+    "type": "spa",
+    "lat": 50.8217666,
+    "lon": -0.1298914,
+    "address": "119-120 Edward Street, Brighton",
+    "rating": null,
+    "side": "central-east"
+  },
+  {
+    "name": "Laser Clinics UK - Brighton",
+    "type": "spa",
+    "lat": 50.82280639999999,
+    "lon": -0.1456597,
+    "address": "Unit 96, Churchill Square Shopping Centre, Russell Place, Brighton",
+    "rating": 4.3,
+    "side": "central-west"
+  },
+  {
+    "name": "Annayah Aesthetics (Kemptown)",
+    "type": "spa",
+    "lat": 50.8199084,
+    "lon": -0.1290984,
+    "address": "67 Saint James's Street, Brighton",
+    "rating": 5,
+    "side": "south-east"
+  },
+  {
+    "name": "Brighten Aesthetics",
+    "type": "spa",
+    "lat": 50.8283532,
+    "lon": -0.1385772,
+    "address": "78 Trafalgar Street, Brighton",
+    "rating": 4.4,
+    "side": "north-central"
+  },
+  {
+    "name": "Maison De Massage London",
+    "type": "spa",
+    "lat": 50.8228428,
+    "lon": -0.1465936,
+    "address": "Regency Road, Brighton",
+    "rating": null,
+    "side": "central-west"
+  },
+  {
+    "name": "HEAL MedClinic",
+    "type": "spa",
+    "lat": 50.82839579999999,
+    "lon": -0.1385664,
+    "address": "78 Trafalgar Street, Brighton",
+    "rating": 5,
+    "side": "north-central"
+  },
+  {
+    "name": "Phoenix Treatments & Beauty Eco Spa & Massage Brighton",
+    "type": "spa",
+    "lat": 50.8284874,
+    "lon": -0.1403058,
+    "address": "46 Trafalgar Street, Brighton",
+    "rating": 4.9,
+    "side": "north-central"
+  },
+  {
+    "name": "Brighton Massage",
+    "type": "spa",
+    "lat": 50.8267719,
+    "lon": -0.1287172,
+    "address": "Quebec Workshops, 31 Quebec Street, Brighton",
+    "rating": 5,
+    "side": "central-east"
+  },
+  {
+    "name": "PURE Spa & Beauty (Brighton)",
+    "type": "spa",
+    "lat": 50.8216041,
+    "lon": -0.1486758,
+    "address": "Metropole, DoubleTree by Hilton, Kings Road, Brighton",
+    "rating": 4.5,
+    "side": "central-west"
+  },
+  {
+    "name": "Barmi Thai Massage in Brighton",
+    "type": "spa",
+    "lat": 50.8241021,
+    "lon": -0.1486271,
+    "address": "Barmi Thai Massage, located within Buddha Nail, 60 Western Road, Brighton",
+    "rating": 5,
+    "side": "central-west"
+  },
+  {
+    "name": "DoubleTree by Hilton Brighton Metropole",
+    "type": "spa",
+    "lat": 50.8215706,
+    "lon": -0.148851,
+    "address": "Kings Road, Brighton",
+    "rating": 4.3,
+    "side": "central-west"
+  },
+  {
+    "name": "Field Trip Spa Brighton",
+    "type": "spa",
+    "lat": 50.8217214,
+    "lon": -0.1496193,
+    "address": "124 Kings Road, Brighton",
+    "rating": 5,
+    "side": "central-west"
+  },
+  {
+    "name": "Wannee Thai massage",
+    "type": "spa",
+    "lat": 50.8244249,
+    "lon": -0.1504226,
+    "address": "83 Western Road, Brighton and Hove, Hove",
+    "rating": 5,
+    "side": "central-west"
+  },
+  {
+    "name": "Ciao Bella Beauty & Spa",
+    "type": "spa",
+    "lat": 50.8244249,
+    "lon": -0.1504226,
+    "address": "83 Western Road, Brighton and Hove, Hove",
+    "rating": 4.7,
+    "side": "central-west"
+  },
+  {
+    "name": "Naomi Spurr Studio",
+    "type": "spa",
+    "lat": 50.8278511,
+    "lon": -0.1480527,
+    "address": "25 Clifton Hill, Brighton",
+    "rating": 5,
+    "side": "north-west"
+  },
+  {
+    "name": "Thai Wellness Massage & Spa Ltd",
+    "type": "spa",
+    "lat": 50.8239875,
+    "lon": -0.1509248,
+    "address": "42 Preston Street, Brighton",
+    "rating": 4.9,
+    "side": "central-west"
+  },
+  {
+    "name": "Nail Lounge & Spa",
+    "type": "spa",
+    "lat": 50.8316041,
+    "lon": -0.1368842,
+    "address": "38 London Road, Brighton",
+    "rating": 4.7,
+    "side": "north-central"
+  },
+  {
+    "name": "Erotic Massage Brighton. Tantric and Sensual Healing",
+    "type": "spa",
+    "lat": 50.83075559999999,
+    "lon": -0.1435537,
+    "address": "Buckingham Place, Brighton",
+    "rating": 5,
+    "side": "north-central"
+  }
+]

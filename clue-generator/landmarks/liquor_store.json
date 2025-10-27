@@ -1,0 +1,542 @@
+[
+  {
+    "name": "Southover Wines",
+    "type": "liquor_store",
+    "lat": 50.8279404,
+    "lon": -0.1285223,
+    "address": "80-81 Southover Street, Brighton and Hove, Brighton",
+    "rating": 4.5,
+    "side": "north-east"
+  },
+  {
+    "name": "Ten Green Bottles Brighton Wine Bar and Shop",
+    "type": "liquor_store",
+    "lat": 50.825191,
+    "lon": -0.1386746,
+    "address": "9 Jubilee Street, Brighton",
+    "rating": 4.5,
+    "side": "central-central"
+  },
+  {
+    "name": "Wine Barrel | Off Licence & Wine Shop",
+    "type": "liquor_store",
+    "lat": 50.8255184,
+    "lon": -0.1568154,
+    "address": "122-123 Western Road, Hove",
+    "rating": 4.6,
+    "side": "central-west"
+  },
+  {
+    "name": "The Whisky Shop",
+    "type": "liquor_store",
+    "lat": 50.82065079999999,
+    "lon": -0.1391815,
+    "address": "64 East Street, Brighton and Hove, Brighton",
+    "rating": 4.4,
+    "side": "south-central"
+  },
+  {
+    "name": "LIQUOR HUT STORE",
+    "type": "liquor_store",
+    "lat": 50.8343594,
+    "lon": -0.1271032,
+    "address": "53 Lewes Road, Brighton",
+    "rating": 3.4,
+    "side": "north-east"
+  },
+  {
+    "name": "Festival Wines",
+    "type": "liquor_store",
+    "lat": 50.82142820000001,
+    "lon": -0.1425598,
+    "address": "13 Ship Street Gardens, Brighton",
+    "rating": null,
+    "side": "central-central"
+  },
+  {
+    "name": "Bright News",
+    "type": "liquor_store",
+    "lat": 50.829113,
+    "lon": -0.1438,
+    "address": "67A Buckingham Road, Brighton",
+    "rating": 4.4,
+    "side": "north-central"
+  },
+  {
+    "name": "Red White Rose",
+    "type": "liquor_store",
+    "lat": 50.8368023,
+    "lon": -0.133246,
+    "address": "126A Ditchling Road, Brighton",
+    "rating": 4.8,
+    "side": "north-east"
+  },
+  {
+    "name": "Bradley's",
+    "type": "liquor_store",
+    "lat": 50.8347405,
+    "lon": -0.1293346,
+    "address": "113 Upper Lewes Road, East Sussex, Brighton",
+    "rating": 3.6,
+    "side": "north-east"
+  },
+  {
+    "name": "Brunswick Fine Wines & Spirits",
+    "type": "liquor_store",
+    "lat": 50.82353260000001,
+    "lon": -0.1394767,
+    "address": "15 New Road, Brighton",
+    "rating": 5,
+    "side": "central-central"
+  },
+  {
+    "name": "Bharats",
+    "type": "liquor_store",
+    "lat": 50.8201516,
+    "lon": -0.1390814,
+    "address": "72 East Street, Brighton",
+    "rating": 3.6,
+    "side": "south-central"
+  },
+  {
+    "name": "Seven Cellars @ Seven Dials",
+    "type": "liquor_store",
+    "lat": 50.8305751,
+    "lon": -0.1472258,
+    "address": "104 Dyke Road, Brighton",
+    "rating": 4.8,
+    "side": "north-west"
+  },
+  {
+    "name": "Bison Beer | Bar, Bottleshop & Pizza",
+    "type": "liquor_store",
+    "lat": 50.82733819999999,
+    "lon": -0.1659226,
+    "address": "57 Church Road, Hove",
+    "rating": 4.6,
+    "side": "north-west"
+  },
+  {
+    "name": "Quaff Wine Brighton",
+    "type": "liquor_store",
+    "lat": 50.8446499,
+    "lon": -0.1351961,
+    "address": "5, King's Parade, Ditchling Road, Brighton",
+    "rating": 4.4,
+    "side": "north-central"
+  },
+  {
+    "name": "Mulberry Wines Ltd",
+    "type": "liquor_store",
+    "lat": 50.8433278,
+    "lon": -0.124997,
+    "address": "Crestway Parade, The Crestway, Brighton",
+    "rating": 4.3,
+    "side": "north-east"
+  },
+  {
+    "name": "FOURTH AND CHURCH",
+    "type": "liquor_store",
+    "lat": 50.827608,
+    "lon": -0.170647,
+    "address": "84 Church Road, Hove",
+    "rating": 4.8,
+    "side": "north-west"
+  },
+  {
+    "name": "Havana House",
+    "type": "liquor_store",
+    "lat": 50.82802900000001,
+    "lon": -0.171856,
+    "address": "117 Church Road, Hove",
+    "rating": 4.5,
+    "side": "north-west"
+  },
+  {
+    "name": "Wine Me Up",
+    "type": "liquor_store",
+    "lat": 50.8309303,
+    "lon": -0.1729752,
+    "address": "94 Blatchington Road, Hove",
+    "rating": 3.3,
+    "side": "north-west"
+  },
+  {
+    "name": "Premier Express Off Licence",
+    "type": "liquor_store",
+    "lat": 50.8417423,
+    "lon": -0.1073707,
+    "address": "6-8 Upper Bevendean Avenue, Brighton",
+    "rating": 3.7,
+    "side": "north-east"
+  },
+  {
+    "name": "The Butlers Wine Cellar - Kemp Town",
+    "type": "liquor_store",
+    "lat": 50.8184118,
+    "lon": -0.1211601,
+    "address": "88 Saint George's Road, Brighton",
+    "rating": 4.8,
+    "side": "south-east"
+  },
+  {
+    "name": "Richard Professional Happy Stores",
+    "type": "liquor_store",
+    "lat": 50.8206994,
+    "lon": -0.1354767,
+    "address": "11 Manchester Street, Brighton",
+    "rating": null,
+    "side": "south-central"
+  },
+  {
+    "name": "North Laine News and Off Licence",
+    "type": "liquor_store",
+    "lat": 50.8245051,
+    "lon": -0.139615,
+    "address": "55 Gardner Street, Brighton",
+    "rating": 3.4,
+    "side": "central-central"
+  },
+  {
+    "name": "Amathus Brighton",
+    "type": "liquor_store",
+    "lat": 50.8211492,
+    "lon": -0.1406233,
+    "address": "21 Prince Albert Street, Brighton",
+    "rating": 5,
+    "side": "central-central"
+  },
+  {
+    "name": "East Street News",
+    "type": "liquor_store",
+    "lat": 50.82014259999999,
+    "lon": -0.1391088,
+    "address": "72-73 East Street, Brighton",
+    "rating": 5,
+    "side": "south-central"
+  },
+  {
+    "name": "Patty&Bun Brighton",
+    "type": "liquor_store",
+    "lat": 50.822202,
+    "lon": -0.1413980000000001,
+    "address": "56 Ship Street, Brighton",
+    "rating": 4.4,
+    "side": "central-central"
+  },
+  {
+    "name": "Sparkling",
+    "type": "liquor_store",
+    "lat": 50.8198731,
+    "lon": -0.1392145,
+    "address": "2 East Street, Brighton and Hove, Brighton",
+    "rating": 2.6,
+    "side": "south-central"
+  },
+  {
+    "name": "Brighton Your Spirit",
+    "type": "liquor_store",
+    "lat": 50.8275927,
+    "lon": -0.1376539,
+    "address": "33 Sydney Street, Brighton",
+    "rating": 4.7,
+    "side": "north-central"
+  },
+  {
+    "name": "Local Star",
+    "type": "liquor_store",
+    "lat": 50.8216362,
+    "lon": -0.1289693,
+    "address": "105 Edward Street, Brighton",
+    "rating": 4.8,
+    "side": "central-east"
+  },
+  {
+    "name": "Easy News",
+    "type": "liquor_store",
+    "lat": 50.8282071,
+    "lon": -0.1385049,
+    "address": "30 Trafalgar Street, Brighton",
+    "rating": 3.1,
+    "side": "north-central"
+  },
+  {
+    "name": "Beeagle Wine",
+    "type": "liquor_store",
+    "lat": 50.82828,
+    "lon": -0.1398244,
+    "address": "41 Trafalgar Street, Brighton",
+    "rating": 5,
+    "side": "north-central"
+  },
+  {
+    "name": "St Noah News",
+    "type": "liquor_store",
+    "lat": 50.8284046,
+    "lon": -0.1397394,
+    "address": "41 Trafalgar Street, Brighton",
+    "rating": 3.3,
+    "side": "north-central"
+  },
+  {
+    "name": "Seven Cellars @ Brighton Station",
+    "type": "liquor_store",
+    "lat": 50.828875,
+    "lon": -0.1411221,
+    "address": "Unit 6, Brighton Railway Station, Brighton",
+    "rating": 4.7,
+    "side": "north-central"
+  },
+  {
+    "name": "The Independent Taproom & Beer Shop",
+    "type": "liquor_store",
+    "lat": 50.82602989999999,
+    "lon": -0.1273968,
+    "address": "95 Queens Park Road, Brighton",
+    "rating": 4.8,
+    "side": "central-east"
+  },
+  {
+    "name": "The Boozy Cow",
+    "type": "liquor_store",
+    "lat": 50.8194968,
+    "lon": -0.1242578,
+    "address": "2 Saint George's Road, Kemptown, Brighton",
+    "rating": 4.2,
+    "side": "south-east"
+  },
+  {
+    "name": "Wine Lodge",
+    "type": "liquor_store",
+    "lat": 50.828168,
+    "lon": -0.1486474,
+    "address": "34 Clifton Hill, Brighton",
+    "rating": 3.9,
+    "side": "north-west"
+  },
+  {
+    "name": "The Drop",
+    "type": "liquor_store",
+    "lat": 50.831649,
+    "lon": -0.1347288,
+    "address": "Unit 21, Open Market, Marshalls Row, Brighton",
+    "rating": 4.6,
+    "side": "north-east"
+  },
+  {
+    "name": "Smokemart",
+    "type": "liquor_store",
+    "lat": 50.8319526,
+    "lon": -0.1371484,
+    "address": "45 London Road, Brighton",
+    "rating": 4.5,
+    "side": "north-central"
+  },
+  {
+    "name": "Winemeup",
+    "type": "liquor_store",
+    "lat": 50.82483569999999,
+    "lon": -0.1530344,
+    "address": "100 Western Road, Brighton",
+    "rating": 3.5,
+    "side": "central-west"
+  },
+  {
+    "name": "PREMIER LODGE STORE - OFF LICENCE - VAPE SHOP",
+    "type": "liquor_store",
+    "lat": 50.8312551,
+    "lon": -0.1471841,
+    "address": "42 Prestonville Road, Brighton",
+    "rating": 4.4,
+    "side": "north-west"
+  },
+  {
+    "name": "The Beer Collective",
+    "type": "liquor_store",
+    "lat": 50.8332384,
+    "lon": -0.1344453,
+    "address": "95 Ditchling Road, Brighton",
+    "rating": 5,
+    "side": "north-east"
+  },
+  {
+    "name": "Wine me up",
+    "type": "liquor_store",
+    "lat": 50.8325256,
+    "lon": -0.1295099,
+    "address": "7 Lewes Road, Brighton and Hove, Brighton",
+    "rating": 5,
+    "side": "north-east"
+  },
+  {
+    "name": "Beer & Wine Store",
+    "type": "liquor_store",
+    "lat": 50.82406229999999,
+    "lon": -0.1555446,
+    "address": "19 Norfolk Square, Brighton",
+    "rating": 3.3,
+    "side": "central-west"
+  },
+  {
+    "name": "Smart Local Market Off Licence",
+    "type": "liquor_store",
+    "lat": 50.8336652,
+    "lon": -0.1309454,
+    "address": "1 Park Crescent Road, Brighton",
+    "rating": 5,
+    "side": "north-east"
+  },
+  {
+    "name": "Promille Off Licence",
+    "type": "liquor_store",
+    "lat": 50.8336826,
+    "lon": -0.1279243,
+    "address": "United Kingdom",
+    "rating": 5,
+    "side": "north-east"
+  },
+  {
+    "name": "St Michael News Off-Licence",
+    "type": "liquor_store",
+    "lat": 50.8176162,
+    "lon": -0.117521,
+    "address": "53 Saint George's Road, Kemptown, Brighton",
+    "rating": 3.4,
+    "side": "south-east"
+  },
+  {
+    "name": "Expa Market",
+    "type": "liquor_store",
+    "lat": 50.83572579999999,
+    "lon": -0.1420037,
+    "address": "88 Preston Road, Brighton",
+    "rating": 4.5,
+    "side": "north-central"
+  },
+  {
+    "name": "Botanique Wine Bar & Plates",
+    "type": "liquor_store",
+    "lat": 50.8257912,
+    "lon": -0.1588409,
+    "address": "108 Western Road, Hove",
+    "rating": 4.6,
+    "side": "central-west"
+  },
+  {
+    "name": "THE LORD OF WINE",
+    "type": "liquor_store",
+    "lat": 50.82563409999999,
+    "lon": -0.1592964,
+    "address": "33 Western Road, Hove",
+    "rating": 5,
+    "side": "central-west"
+  },
+  {
+    "name": "Port Hall Stores",
+    "type": "liquor_store",
+    "lat": 50.8350482,
+    "lon": -0.148318,
+    "address": "19 Upper Hamilton Road, Brighton",
+    "rating": 5,
+    "side": "north-west"
+  },
+  {
+    "name": "Cases Wine Bar",
+    "type": "liquor_store",
+    "lat": 50.8256217,
+    "lon": -0.1594558,
+    "address": "34-35 Western Road, Hove",
+    "rating": 4,
+    "side": "central-west"
+  },
+  {
+    "name": "Capsule Records",
+    "type": "liquor_store",
+    "lat": 50.8256418,
+    "lon": -0.1596129,
+    "address": "37 Western Road, Hove",
+    "rating": 5,
+    "side": "central-west"
+  },
+  {
+    "name": "Ice Liquor - Off Licence and Store",
+    "type": "liquor_store",
+    "lat": 50.8319992,
+    "lon": -0.1548052,
+    "address": "29 Montefiore Road, Hove",
+    "rating": 5,
+    "side": "north-west"
+  },
+  {
+    "name": "Family Shopper Brighton",
+    "type": "liquor_store",
+    "lat": 50.83157749999999,
+    "lon": -0.1188537,
+    "address": "201 Elm Grove, Brighton and Hove, Brighton",
+    "rating": 4.7,
+    "side": "north-east"
+  },
+  {
+    "name": "The Booze Corner",
+    "type": "liquor_store",
+    "lat": 50.8365403,
+    "lon": -0.1252596,
+    "address": "92 Lewes Road, Brighton",
+    "rating": 3.6,
+    "side": "north-east"
+  },
+  {
+    "name": "Palmeira News Convenience Store",
+    "type": "liquor_store",
+    "lat": 50.8263186,
+    "lon": -0.1627456,
+    "address": "71 Western Road, Hove",
+    "rating": 4,
+    "side": "central-west"
+  },
+  {
+    "name": "Preston Park Wines",
+    "type": "liquor_store",
+    "lat": 50.8443207,
+    "lon": -0.1432059,
+    "address": "101B Preston Drove, Brighton",
+    "rating": 4.6,
+    "side": "north-central"
+  },
+  {
+    "name": "Milner Convenience store",
+    "type": "liquor_store",
+    "lat": 50.8392829,
+    "lon": -0.1157629,
+    "address": "115 Milner Road, Brighton",
+    "rating": 4.9,
+    "side": "north-east"
+  },
+  {
+    "name": "Hollingbury Wines",
+    "type": "liquor_store",
+    "lat": 50.8440178,
+    "lon": -0.1311666,
+    "address": "1 Hollingbury Place, Brighton",
+    "rating": 4.7,
+    "side": "north-east"
+  },
+  {
+    "name": "Mulholland's",
+    "type": "liquor_store",
+    "lat": 50.82809950000001,
+    "lon": -0.1746884,
+    "address": "148 Church Road, Hove",
+    "rating": 4.7,
+    "side": "north-west"
+  },
+  {
+    "name": "Marina village store",
+    "type": "liquor_store",
+    "lat": 50.81287709999999,
+    "lon": -0.1022566,
+    "address": "Shop 42 The Waterfront, Brighton",
+    "rating": 4.8,
+    "side": "south-east"
+  }
+]

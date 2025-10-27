@@ -1,0 +1,542 @@
+[
+  {
+    "name": "Victoria Gardens",
+    "type": "park",
+    "lat": 50.8242594,
+    "lon": -0.1362747,
+    "address": "12a Marlborough Place, Brighton",
+    "rating": 4.4,
+    "side": "central-central"
+  },
+  {
+    "name": "Brighton Caravan and Motorhome Club Campsite",
+    "type": "park",
+    "lat": 50.8210332,
+    "lon": -0.097772,
+    "address": "East, Park, Wilson Avenue, Brighton",
+    "rating": 4.5,
+    "side": "central-east"
+  },
+  {
+    "name": "Queen's Park Brighton & Hove",
+    "type": "park",
+    "lat": 50.824765,
+    "lon": -0.1254101,
+    "address": "1 West Drive, Brighton",
+    "rating": 4.5,
+    "side": "central-east"
+  },
+  {
+    "name": "Osmosis Garden Design",
+    "type": "park",
+    "lat": 50.82463079999999,
+    "lon": -0.1218983,
+    "address": "126 Freshfield Road, Brighton",
+    "rating": 5,
+    "side": "central-east"
+  },
+  {
+    "name": "Driftwood Treehouses",
+    "type": "park",
+    "lat": 50.83286820000001,
+    "lon": -0.1245771,
+    "address": "26 Normanton Street, Brighton",
+    "rating": null,
+    "side": "north-east"
+  },
+  {
+    "name": "AIDS Memorial",
+    "type": "park",
+    "lat": 50.8203334,
+    "lon": -0.131618,
+    "address": "New Steine, Saint James's Street, Brighton",
+    "rating": 4.5,
+    "side": "south-east"
+  },
+  {
+    "name": "Regency Square, Brighton",
+    "type": "park",
+    "lat": 50.82244300000001,
+    "lon": -0.1504749,
+    "address": "Regency Square, Brighton",
+    "rating": 4.3,
+    "side": "central-west"
+  },
+  {
+    "name": "Ben MacDonald Gardens Ltd",
+    "type": "park",
+    "lat": 50.8229559,
+    "lon": -0.1185788,
+    "address": "Metway studios, 55 canning street, 55 Canning Street, Brighton",
+    "rating": null,
+    "side": "central-east"
+  },
+  {
+    "name": "The Friends of St Ann’s Well Gardens",
+    "type": "park",
+    "lat": 50.8289802,
+    "lon": -0.1587136,
+    "address": "Somerhill Road, Hove",
+    "rating": 4.9,
+    "side": "north-west"
+  },
+  {
+    "name": "Pegs and Pitches Camping (Office only for our two Sussex Campsites)",
+    "type": "park",
+    "lat": 50.8377059,
+    "lon": -0.1465834,
+    "address": "4th Floor, Park Gate, 161-163 Preston Road, Brighton",
+    "rating": 4.9,
+    "side": "north-west"
+  },
+  {
+    "name": "Saunders Park Edible Community Garden",
+    "type": "park",
+    "lat": 50.8382567,
+    "lon": -0.1252363,
+    "address": "Brighton",
+    "rating": 4,
+    "side": "north-east"
+  },
+  {
+    "name": "Stanford And Cleveland Community Garden",
+    "type": "park",
+    "lat": 50.84105479999999,
+    "lon": -0.1375289,
+    "address": "1 Cleveland Road, Brighton",
+    "rating": 5,
+    "side": "north-central"
+  },
+  {
+    "name": "Kemp Town Enclosures Management Office",
+    "type": "park",
+    "lat": 50.81669,
+    "lon": -0.109137,
+    "address": "244 Eastern Road, Brighton",
+    "rating": 5,
+    "side": "south-east"
+  },
+  {
+    "name": "Preston Park Brighton & Hove",
+    "type": "park",
+    "lat": 50.8398169,
+    "lon": -0.1460002,
+    "address": "Preston Road",
+    "rating": 4.5,
+    "side": "north-west"
+  },
+  {
+    "name": "The Level",
+    "type": "park",
+    "lat": 50.83107759999999,
+    "lon": -0.1332521,
+    "address": "Union Road, Brighton",
+    "rating": 4.1,
+    "side": "north-east"
+  },
+  {
+    "name": "The Garden House",
+    "type": "park",
+    "lat": 50.83400719999999,
+    "lon": -0.1347767,
+    "address": "5 Warleigh Road, Brighton",
+    "rating": 4.8,
+    "side": "north-east"
+  },
+  {
+    "name": "The Railway Bell",
+    "type": "park",
+    "lat": 50.8285225,
+    "lon": -0.1419682,
+    "address": "26-28 Surrey Street, Brighton",
+    "rating": 4,
+    "side": "north-central"
+  },
+  {
+    "name": "Old Steine Gardens",
+    "type": "park",
+    "lat": 50.8206828,
+    "lon": -0.1373332,
+    "address": "55 Old Steine, Brighton",
+    "rating": 4.2,
+    "side": "south-central"
+  },
+  {
+    "name": "Hanover Ponds",
+    "type": "park",
+    "lat": 50.83112930000001,
+    "lon": -0.1257272,
+    "address": "29 Hampden Road, Brighton",
+    "rating": 4.8,
+    "side": "north-east"
+  },
+  {
+    "name": "Royal Pavilion Gardens",
+    "type": "park",
+    "lat": 50.82259570000001,
+    "lon": -0.1380154,
+    "address": "North Street, New Road, Brighton",
+    "rating": 4.6,
+    "side": "central-central"
+  },
+  {
+    "name": "Trevor Kaye's memorial tree",
+    "type": "park",
+    "lat": 50.8244801,
+    "lon": -0.1365791,
+    "address": "2022 Marlborough Place, Brighton and Hove, Brighton",
+    "rating": null,
+    "side": "central-central"
+  },
+  {
+    "name": "Dorset Gardens",
+    "type": "park",
+    "lat": 50.82198209999999,
+    "lon": -0.1337574,
+    "address": "Dorset Gardens, Kemptown, Brighton",
+    "rating": 4.6,
+    "side": "central-east"
+  },
+  {
+    "name": "Fern and Pine Garden Design Studio",
+    "type": "park",
+    "lat": 50.82431829999999,
+    "lon": -0.1402418,
+    "address": "Unit 6 9, 10 Jew Street, Brighton",
+    "rating": 5,
+    "side": "central-central"
+  },
+  {
+    "name": "B&Q Local - Brighton",
+    "type": "park",
+    "lat": 50.82327999999999,
+    "lon": -0.14168,
+    "address": "143 North Street, Brighton",
+    "rating": 3.3,
+    "side": "central-central"
+  },
+  {
+    "name": "Eco Tents",
+    "type": "park",
+    "lat": 50.8249489,
+    "lon": -0.1400407,
+    "address": "18a Tichborne Street, Brighton",
+    "rating": null,
+    "side": "central-central"
+  },
+  {
+    "name": "White Street Community Garden",
+    "type": "park",
+    "lat": 50.82233600000001,
+    "lon": -0.1318903,
+    "address": "1 Blaker Street, Brighton",
+    "rating": 5,
+    "side": "central-east"
+  },
+  {
+    "name": "Public bench seating",
+    "type": "park",
+    "lat": 50.819739,
+    "lon": -0.1408401,
+    "address": "Brighton Beach, Brighton",
+    "rating": 5,
+    "side": "south-central"
+  },
+  {
+    "name": "Public bicycle parking",
+    "type": "park",
+    "lat": 50.81922309999999,
+    "lon": -0.1341916,
+    "address": "Brighton Beach, Brighton",
+    "rating": null,
+    "side": "south-east"
+  },
+  {
+    "name": "Valley Gardens",
+    "type": "park",
+    "lat": 50.826446,
+    "lon": -0.1351804,
+    "address": "to Palace Pier, Saint Peter's Place",
+    "rating": 4.5,
+    "side": "central-central"
+  },
+  {
+    "name": "Self employment",
+    "type": "park",
+    "lat": 50.8237123,
+    "lon": -0.1435915,
+    "address": "Jubilee Clock Tower, Brighton",
+    "rating": null,
+    "side": "central-central"
+  },
+  {
+    "name": "Tarner Park",
+    "type": "park",
+    "lat": 50.8245811,
+    "lon": -0.1313163,
+    "address": "Brighton",
+    "rating": 4.6,
+    "side": "central-east"
+  },
+  {
+    "name": "Chadborn close",
+    "type": "park",
+    "lat": 50.82526670000001,
+    "lon": -0.1428449000000001,
+    "address": "25 sorel, chamborn close, Brighton",
+    "rating": 5,
+    "side": "central-central"
+  },
+  {
+    "name": "Richmond Square",
+    "type": "park",
+    "lat": 50.8269357,
+    "lon": -0.1347984,
+    "address": "Victoria Gardens, Grand Parade, Brighton",
+    "rating": null,
+    "side": "central-east"
+  },
+  {
+    "name": "The Bay Tree",
+    "type": "park",
+    "lat": 50.81998429999999,
+    "lon": -0.129955,
+    "address": "13-15 Lower Rock Gardens, Brighton",
+    "rating": 4.3,
+    "side": "south-east"
+  },
+  {
+    "name": "Pelham Square",
+    "type": "park",
+    "lat": 50.82782880000001,
+    "lon": -0.1367226,
+    "address": "1A Pelham Street, Brighton",
+    "rating": 3.5,
+    "side": "north-central"
+  },
+  {
+    "name": "Albion Community Garden",
+    "type": "park",
+    "lat": 50.8276786,
+    "lon": -0.1334516,
+    "address": "Albion Street, Brighton",
+    "rating": 4.5,
+    "side": "north-east"
+  },
+  {
+    "name": "Brighton Marine Parade Promenade",
+    "type": "park",
+    "lat": 50.8187359,
+    "lon": -0.1294025,
+    "address": "Marine Parade, Brighton",
+    "rating": 5,
+    "side": "south-east"
+  },
+  {
+    "name": "Public seating",
+    "type": "park",
+    "lat": 50.8241869,
+    "lon": -0.1470421,
+    "address": "186 Western Road, Brighton and Hove, Brighton",
+    "rating": 4,
+    "side": "central-west"
+  },
+  {
+    "name": "Public undercover bench seating",
+    "type": "park",
+    "lat": 50.82097090000001,
+    "lon": -0.147436,
+    "address": "Brighton Beach, Brighton",
+    "rating": null,
+    "side": "south-west"
+  },
+  {
+    "name": "Russell Square",
+    "type": "park",
+    "lat": 50.8229649,
+    "lon": -0.148002,
+    "address": "43 Russell Square, Brighton and Hove, Brighton",
+    "rating": 4.1,
+    "side": "central-west"
+  },
+  {
+    "name": "Clarence Square",
+    "type": "park",
+    "lat": 50.82363580000001,
+    "lon": -0.1478847,
+    "address": "Clarence Square, Brighton",
+    "rating": null,
+    "side": "central-west"
+  },
+  {
+    "name": "St Nicholas Rest Garden Brighton & Hove",
+    "type": "park",
+    "lat": 50.82563589999999,
+    "lon": -0.1471039,
+    "address": "Bordered by Clifton Place, Clifton Terrace, Dyke Road, and",
+    "rating": 4.7,
+    "side": "central-west"
+  },
+  {
+    "name": "Public seating with roof",
+    "type": "park",
+    "lat": 50.818168,
+    "lon": -0.1282941,
+    "address": "Brighton Beach, Brighton",
+    "rating": null,
+    "side": "south-east"
+  },
+  {
+    "name": "Providence Place Gardens",
+    "type": "park",
+    "lat": 50.8302497,
+    "lon": -0.136812,
+    "address": "Providence Place, Brighton",
+    "rating": 5,
+    "side": "north-central"
+  },
+  {
+    "name": "Ferncrest Trading",
+    "type": "park",
+    "lat": 50.81934009999999,
+    "lon": -0.1241457,
+    "address": "117 Saint George's Road, Brighton",
+    "rating": null,
+    "side": "south-east"
+  },
+  {
+    "name": "Public Seating",
+    "type": "park",
+    "lat": 50.82481910000001,
+    "lon": -0.151873,
+    "address": "97, 34 B2066, Brighton and Hove, Brighton",
+    "rating": 4,
+    "side": "central-west"
+  },
+  {
+    "name": "Green Patch",
+    "type": "park",
+    "lat": 50.82900610000001,
+    "lon": -0.1258767,
+    "address": "Beaufort Terrace, Brighton",
+    "rating": 3.5,
+    "side": "north-east"
+  },
+  {
+    "name": "Lillywhite's Ground",
+    "type": "park",
+    "lat": 50.8296813,
+    "lon": -0.1485938,
+    "address": "17 Vernon Terrace, Brighton",
+    "rating": 4,
+    "side": "north-west"
+  },
+  {
+    "name": "Brighton Greenway Pedestrian Walkway",
+    "type": "park",
+    "lat": 50.8328448,
+    "lon": -0.1409619,
+    "address": "66 Brighton Greenway, Brighton",
+    "rating": 3.1,
+    "side": "north-central"
+  },
+  {
+    "name": "storror parkour park",
+    "type": "park",
+    "lat": 50.8172323,
+    "lon": -0.1225113,
+    "address": "Bedford Street South, Marine Parade, Brighton and Hove, Brighton",
+    "rating": 5,
+    "side": "south-east"
+  },
+  {
+    "name": "Marine Square",
+    "type": "park",
+    "lat": 50.8180057,
+    "lon": -0.1218354,
+    "address": "6 Marine Square, Brighton",
+    "rating": 4.3,
+    "side": "south-east"
+  },
+  {
+    "name": "The Crescent Green",
+    "type": "park",
+    "lat": 50.8332626,
+    "lon": -0.1370517,
+    "address": "The Crescent, Crookham Village, Fleet",
+    "rating": null,
+    "side": "north-central"
+  },
+  {
+    "name": "Bedford Square Compost Club",
+    "type": "park",
+    "lat": 50.82262899999999,
+    "lon": -0.1548096,
+    "address": "Brunswick Town, Hove",
+    "rating": null,
+    "side": "central-west"
+  },
+  {
+    "name": "Norfolk Square Compost Club",
+    "type": "park",
+    "lat": 50.8244712,
+    "lon": -0.154726,
+    "address": "30 Norfolk Square, Brighton",
+    "rating": null,
+    "side": "central-west"
+  },
+  {
+    "name": "Norfolk Square",
+    "type": "park",
+    "lat": 50.8248056,
+    "lon": -0.1547108,
+    "address": "44 Norfolk Square, Brighton",
+    "rating": 4.1,
+    "side": "central-west"
+  },
+  {
+    "name": "St George's Bee-Friendly Community Garden",
+    "type": "park",
+    "lat": 50.81831669999999,
+    "lon": -0.120484,
+    "address": "Saint George's Road, Kemptown, Brighton and Hove, Brighton",
+    "rating": null,
+    "side": "south-east"
+  },
+  {
+    "name": "Organic Wildlife Gardens",
+    "type": "park",
+    "lat": 50.8236253,
+    "lon": -0.11863,
+    "address": "16 Bute Street, Brighton",
+    "rating": null,
+    "side": "central-east"
+  },
+  {
+    "name": "Kerrison Mews Courtyard",
+    "type": "park",
+    "lat": 50.824604,
+    "lon": -0.1571322,
+    "address": "Kerrison Mews, Hove",
+    "rating": 5,
+    "side": "central-west"
+  },
+  {
+    "name": "Public seating bench",
+    "type": "park",
+    "lat": 50.81616200000001,
+    "lon": -0.1194368,
+    "address": "Brighton Beach, Brighton",
+    "rating": 5,
+    "side": "south-east"
+  },
+  {
+    "name": "Walpole Road Allotments",
+    "type": "park",
+    "lat": 50.8215806,
+    "lon": -0.1163951,
+    "address": "Brighton",
+    "rating": 4.8,
+    "side": "central-east"
+  }
+]

@@ -1,0 +1,542 @@
+[
+  {
+    "name": "Brighton",
+    "type": "town_hall",
+    "lat": 50.8229402,
+    "lon": -0.1362672,
+    "address": "Brighton and Hove",
+    "rating": null,
+    "side": "central-central"
+  },
+  {
+    "name": "Holiday Inn Brighton - Seafront by IHG",
+    "type": "town_hall",
+    "lat": 50.8223978,
+    "lon": -0.152454,
+    "address": "137 Kings Road, Brighton",
+    "rating": 3.8,
+    "side": "central-west"
+  },
+  {
+    "name": "Leonardo Hotel Brighton - Brighton City Centre",
+    "type": "town_hall",
+    "lat": 50.83158270000001,
+    "lon": -0.1403666,
+    "address": "101 Stroudley Road, Brighton",
+    "rating": 4.2,
+    "side": "north-central"
+  },
+  {
+    "name": "Snooze",
+    "type": "town_hall",
+    "lat": 50.8195399,
+    "lon": -0.1252837,
+    "address": "25 Saint George's Terrace, Brighton",
+    "rating": 4.8,
+    "side": "south-east"
+  },
+  {
+    "name": "The Grand Brighton",
+    "type": "town_hall",
+    "lat": 50.82150350000001,
+    "lon": -0.1474309,
+    "address": "97-99 Kings Road, Brighton",
+    "rating": 4.4,
+    "side": "central-west"
+  },
+  {
+    "name": "Brighton House B&B",
+    "type": "town_hall",
+    "lat": 50.82291619999999,
+    "lon": -0.1497083,
+    "address": "Brighton House, Regency Square, Brighton",
+    "rating": 4.6,
+    "side": "central-west"
+  },
+  {
+    "name": "Premier Inn Brighton City Centre (North Street) hotel",
+    "type": "town_hall",
+    "lat": 50.8233312,
+    "lon": -0.141404,
+    "address": "144 North Street, Brighton",
+    "rating": 3.8,
+    "side": "central-central"
+  },
+  {
+    "name": "The Brighton Hotel",
+    "type": "town_hall",
+    "lat": 50.82259690000001,
+    "lon": -0.1543461,
+    "address": "143-145 Kings Road, Brighton",
+    "rating": 3.6,
+    "side": "central-west"
+  },
+  {
+    "name": "Mercure Brighton Seafront Hotel",
+    "type": "town_hall",
+    "lat": 50.8228681,
+    "lon": -0.1553595,
+    "address": "149 Kings Road, Brighton",
+    "rating": 3.8,
+    "side": "central-west"
+  },
+  {
+    "name": "Queens Hotel Brighton",
+    "type": "town_hall",
+    "lat": 50.81976179999999,
+    "lon": -0.1396814,
+    "address": "1-3 Kings Road, Brighton",
+    "rating": 4,
+    "side": "south-central"
+  },
+  {
+    "name": "Legends Hotel",
+    "type": "town_hall",
+    "lat": 50.81967220000001,
+    "lon": -0.1328906,
+    "address": "31-34 Marine Parade, Brighton",
+    "rating": 4.2,
+    "side": "south-east"
+  },
+  {
+    "name": "Kipps Brighton",
+    "type": "town_hall",
+    "lat": 50.8232752,
+    "lon": -0.1361157,
+    "address": "76 Grand Parade, Brighton",
+    "rating": 3.7,
+    "side": "central-central"
+  },
+  {
+    "name": "Schmotel",
+    "type": "town_hall",
+    "lat": 50.82287820000001,
+    "lon": -0.1484271,
+    "address": "37 Russell Square, Brighton",
+    "rating": 3.8,
+    "side": "central-west"
+  },
+  {
+    "name": "Hotel Pelirocco",
+    "type": "town_hall",
+    "lat": 50.8226263,
+    "lon": -0.1510072,
+    "address": "Hotel Pelirocco, 10 Regency Square, Brighton",
+    "rating": 4.8,
+    "side": "central-west"
+  },
+  {
+    "name": "Square Townhouse",
+    "type": "town_hall",
+    "lat": 50.8197882,
+    "lon": -0.1320455,
+    "address": "4 New Steine, Brighton",
+    "rating": 4.8,
+    "side": "south-east"
+  },
+  {
+    "name": "Paskins Town House",
+    "type": "town_hall",
+    "lat": 50.8192385,
+    "lon": -0.1280537,
+    "address": "18-19 Charlotte Street, Brighton",
+    "rating": 4.2,
+    "side": "south-east"
+  },
+  {
+    "name": "The Amsterdam Hotel - Brighton UK",
+    "type": "town_hall",
+    "lat": 50.8201409,
+    "lon": -0.1348637,
+    "address": "11-12 Marine Parade, Brighton",
+    "rating": 3.9,
+    "side": "south-east"
+  },
+  {
+    "name": "The Gullivers Hotel",
+    "type": "town_hall",
+    "lat": 50.8202176,
+    "lon": -0.1319806,
+    "address": "12A New Steine, Brighton",
+    "rating": 2.7,
+    "side": "south-east"
+  },
+  {
+    "name": "Hotel Una",
+    "type": "town_hall",
+    "lat": 50.8227556,
+    "lon": -0.1497389,
+    "address": "55-56 Regency Square, Brighton",
+    "rating": 4.8,
+    "side": "central-west"
+  },
+  {
+    "name": "Brighton and Hove",
+    "type": "town_hall",
+    "lat": 50.8233397,
+    "lon": -0.1362804,
+    "address": "Brighton and Hove",
+    "rating": null,
+    "side": "central-central"
+  },
+  {
+    "name": "Beach Hotel",
+    "type": "town_hall",
+    "lat": 50.82219920000001,
+    "lon": -0.1511254,
+    "address": "1-4 Regency Square, Brighton",
+    "rating": 3.6,
+    "side": "central-west"
+  },
+  {
+    "name": "Leonardo Royal Hotel Brighton Waterfront",
+    "type": "town_hall",
+    "lat": 50.82015919999999,
+    "lon": -0.1406241,
+    "address": "Kings Road, Brighton",
+    "rating": 4.2,
+    "side": "south-central"
+  },
+  {
+    "name": "New Steine",
+    "type": "town_hall",
+    "lat": 50.82014840000001,
+    "lon": -0.1320029,
+    "address": "10-11 New Steine, Brighton",
+    "rating": 3.9,
+    "side": "south-east"
+  },
+  {
+    "name": "Brightonwave",
+    "type": "town_hall",
+    "lat": 50.82045400000001,
+    "lon": -0.134293,
+    "address": "10 Madeira Place, Brighton",
+    "rating": 4.9,
+    "side": "south-east"
+  },
+  {
+    "name": "Artist Residence Brighton",
+    "type": "town_hall",
+    "lat": 50.8232066,
+    "lon": -0.1499676,
+    "address": "33 Regency Square, Brighton",
+    "rating": 4.6,
+    "side": "central-west"
+  },
+  {
+    "name": "27 Brighton",
+    "type": "town_hall",
+    "lat": 50.8216247,
+    "lon": -0.1296732,
+    "address": "27 Upper Rock Gardens, Brighton",
+    "rating": 4.9,
+    "side": "central-east"
+  },
+  {
+    "name": "At Wilbury",
+    "type": "town_hall",
+    "lat": 50.8340897,
+    "lon": -0.1609218,
+    "address": "39 Wilbury Crescent, Hove",
+    "rating": 4.9,
+    "side": "north-west"
+  },
+  {
+    "name": "The Old Ship Hotel",
+    "type": "town_hall",
+    "lat": 50.8203579,
+    "lon": -0.1420294,
+    "address": "The Old Ship Hotel, 32-38 Kings Road, Brighton",
+    "rating": 4,
+    "side": "south-central"
+  },
+  {
+    "name": "ibis Brighton City Centre - Station",
+    "type": "town_hall",
+    "lat": 50.8277602,
+    "lon": -0.1413546,
+    "address": "88-92 Queens Road, East Sussex, Brighton",
+    "rating": 4.1,
+    "side": "north-central"
+  },
+  {
+    "name": "Hotel du Vin Brighton",
+    "type": "town_hall",
+    "lat": 50.8206472,
+    "lon": -0.1424615,
+    "address": "2 Ship Street, Brighton",
+    "rating": 4.2,
+    "side": "south-central"
+  },
+  {
+    "name": "Britannia Study Hotel",
+    "type": "town_hall",
+    "lat": 50.8246082,
+    "lon": -0.1500424,
+    "address": "150 Western Road, Brighton",
+    "rating": 3.5,
+    "side": "central-west"
+  },
+  {
+    "name": "Brighton Inn Boutique Guest Accommodation",
+    "type": "town_hall",
+    "lat": 50.819637,
+    "lon": -0.124561,
+    "address": "20 Saint George's Terrace, Brighton",
+    "rating": 4.3,
+    "side": "south-east"
+  },
+  {
+    "name": "Drakes Hotel | A Curious Group of Hotels",
+    "type": "town_hall",
+    "lat": 50.8194329,
+    "lon": -0.1313231,
+    "address": "Marine Parade, Brighton",
+    "rating": 4.6,
+    "side": "south-east"
+  },
+  {
+    "name": "Fab Guest House",
+    "type": "town_hall",
+    "lat": 50.8192813,
+    "lon": -0.1277766,
+    "address": "9 Charlotte Street, Brighton",
+    "rating": 2.7,
+    "side": "south-east"
+  },
+  {
+    "name": "Blanch House",
+    "type": "town_hall",
+    "lat": 50.8195907,
+    "lon": -0.129338,
+    "address": "17 Atlingworth Street, Brighton",
+    "rating": 4.7,
+    "side": "south-east"
+  },
+  {
+    "name": "Malmaison Brighton",
+    "type": "town_hall",
+    "lat": 50.81253919999999,
+    "lon": -0.1022332,
+    "address": "The Waterfront, Brighton",
+    "rating": 4.3,
+    "side": "south-east"
+  },
+  {
+    "name": "Phoenix Brewery Halls of Residence, University of Brighton",
+    "type": "town_hall",
+    "lat": 50.8295104,
+    "lon": -0.1314213,
+    "address": "Southover Street, Brighton",
+    "rating": 4,
+    "side": "north-east"
+  },
+  {
+    "name": "Alston House Hotel",
+    "type": "town_hall",
+    "lat": 50.8197018,
+    "lon": -0.1315221,
+    "address": "28 New Steine, Brighton",
+    "rating": 3.7,
+    "side": "south-east"
+  },
+  {
+    "name": "Theatre Royal Brighton",
+    "type": "town_hall",
+    "lat": 50.8234174,
+    "lon": -0.1395462,
+    "address": "New Road, Brighton",
+    "rating": 4.4,
+    "side": "central-central"
+  },
+  {
+    "name": "The Moreland",
+    "type": "town_hall",
+    "lat": 50.8247819,
+    "lon": -0.1531168,
+    "address": "33 Montpelier Road, Brighton",
+    "rating": 4.1,
+    "side": "central-west"
+  },
+  {
+    "name": "The Kings Arms",
+    "type": "town_hall",
+    "lat": 50.82118610000001,
+    "lon": -0.1346058,
+    "address": "56 George Street, Brighton",
+    "rating": 3.5,
+    "side": "central-east"
+  },
+  {
+    "name": "a&o Brighton Palace Pier",
+    "type": "town_hall",
+    "lat": 50.8202777,
+    "lon": -0.1379362,
+    "address": "41-42 Old Steine, Brighton and Hove, Brighton",
+    "rating": 4.1,
+    "side": "south-central"
+  },
+  {
+    "name": "SEA LIFE Brighton",
+    "type": "town_hall",
+    "lat": 50.81960559999999,
+    "lon": -0.1357524,
+    "address": "Marine Parade, Brighton",
+    "rating": 4.2,
+    "side": "south-central"
+  },
+  {
+    "name": "The Evening Star",
+    "type": "town_hall",
+    "lat": 50.8276577,
+    "lon": -0.1420324,
+    "address": "55-56 Surrey Street, Brighton",
+    "rating": 4.6,
+    "side": "north-central"
+  },
+  {
+    "name": "Halfords - Brighton",
+    "type": "town_hall",
+    "lat": 50.8408492,
+    "lon": -0.1226744,
+    "address": "The Pavilion Centre, Lewes Road, Brighton",
+    "rating": 4.3,
+    "side": "north-east"
+  },
+  {
+    "name": "Hotel Nineteen",
+    "type": "town_hall",
+    "lat": 50.82047900000001,
+    "lon": -0.1346217,
+    "address": "19 Broad Street, Brighton",
+    "rating": 4.8,
+    "side": "south-east"
+  },
+  {
+    "name": "The Southern Belle",
+    "type": "town_hall",
+    "lat": 50.823497,
+    "lon": -0.1573075,
+    "address": "The Southern Belle, 3 Waterloo Street, Hove",
+    "rating": 4.5,
+    "side": "central-west"
+  },
+  {
+    "name": "West Beach Hotel Brighton",
+    "type": "town_hall",
+    "lat": 50.82208680000001,
+    "lon": -0.1519124,
+    "address": "135 Kings Road, Brighton",
+    "rating": 3.7,
+    "side": "central-west"
+  },
+  {
+    "name": "White House Brighton",
+    "type": "town_hall",
+    "lat": 50.8191667,
+    "lon": -0.1269444,
+    "address": "6 Bedford Street, Brighton",
+    "rating": 4.5,
+    "side": "south-east"
+  },
+  {
+    "name": "The Pipeline",
+    "type": "town_hall",
+    "lat": 50.8202071,
+    "lon": -0.1396543,
+    "address": "6 Little East Street, Brighton",
+    "rating": 4.4,
+    "side": "south-central"
+  },
+  {
+    "name": "Imperial Hotel - Brighton & Hove",
+    "type": "town_hall",
+    "lat": 50.8246233,
+    "lon": -0.165984,
+    "address": "First Avenue, Hove",
+    "rating": 3.5,
+    "side": "central-west"
+  },
+  {
+    "name": "Seadragon Backpackers Hostel",
+    "type": "town_hall",
+    "lat": 50.825121,
+    "lon": -0.15642,
+    "address": "36 Waterloo Street, Brighton and Hove, Hove",
+    "rating": 4.4,
+    "side": "central-west"
+  },
+  {
+    "name": "Regency Hotel Brighton City Centre",
+    "type": "town_hall",
+    "lat": 50.823318,
+    "lon": -0.15045,
+    "address": "Hotel, 28 Regency Square, Brighton",
+    "rating": 3.6,
+    "side": "central-west"
+  },
+  {
+    "name": "The Lanes Car Park",
+    "type": "town_hall",
+    "lat": 50.8206513,
+    "lon": -0.1411828,
+    "address": "Black Lion Street, Brighton",
+    "rating": 3.2,
+    "side": "south-central"
+  },
+  {
+    "name": "Brighton Square Apartments",
+    "type": "town_hall",
+    "lat": 50.8222196,
+    "lon": -0.1407635,
+    "address": "22 Brighton Square, Brighton",
+    "rating": 3.9,
+    "side": "central-central"
+  },
+  {
+    "name": "Food for Friends",
+    "type": "town_hall",
+    "lat": 50.8212961,
+    "lon": -0.1408647,
+    "address": "17-18 Prince Albert Street, Brighton",
+    "rating": 4.4,
+    "side": "central-central"
+  },
+  {
+    "name": "ODEON Brighton",
+    "type": "town_hall",
+    "lat": 50.821079,
+    "lon": -0.1452933,
+    "address": "Kingswest, West Street, Brighton",
+    "rating": 3.7,
+    "side": "central-west"
+  },
+  {
+    "name": "OYO Langford Hotel",
+    "type": "town_hall",
+    "lat": 50.8259951,
+    "lon": -0.1709075,
+    "address": "1, Spice Planet, Third Avenue, Hove",
+    "rating": 3.1,
+    "side": "central-west"
+  },
+  {
+    "name": "Brighton Centre",
+    "type": "town_hall",
+    "lat": 50.8212322,
+    "lon": -0.1464735,
+    "address": "Kings Road, Brighton and Hove, Brighton",
+    "rating": 4.4,
+    "side": "central-west"
+  },
+  {
+    "name": "Swarovski Brighton",
+    "type": "town_hall",
+    "lat": 50.8230556,
+    "lon": -0.1461111,
+    "address": "42, Churchill Square Shopping Centre, Russell Road, Brighton",
+    "rating": 3.9,
+    "side": "central-west"
+  }
+]

@@ -1,0 +1,542 @@
+[
+  {
+    "name": "The Gym Group Brighton Madeira Drive",
+    "type": "gym",
+    "lat": 50.8193906,
+    "lon": -0.1336017,
+    "address": "Unit 9 Madeira Drive, The Terraces, Brighton",
+    "rating": 4.3,
+    "side": "south-east"
+  },
+  {
+    "name": "CrossFit Hove",
+    "type": "gym",
+    "lat": 50.8312761,
+    "lon": -0.156463,
+    "address": "Unit 9, Rear of, 64 Davigdor Road, Hove",
+    "rating": 4.2,
+    "side": "north-west"
+  },
+  {
+    "name": "Prince Regent Swimming Complex",
+    "type": "gym",
+    "lat": 50.8247339,
+    "lon": -0.1377528,
+    "address": "Church St, Brighton",
+    "rating": 3.4,
+    "side": "central-central"
+  },
+  {
+    "name": "King Alfred Leisure Centre",
+    "type": "gym",
+    "lat": 50.8251286,
+    "lon": -0.1792097,
+    "address": "King Alfred Leisure Centre, Kingsway, Hove",
+    "rating": 3.7,
+    "side": "central-west"
+  },
+  {
+    "name": "WUTAN Brighton",
+    "type": "gym",
+    "lat": 50.828554,
+    "lon": -0.129055,
+    "address": "Hanover Community Centre, 33 Southover Street, Brighton",
+    "rating": 5,
+    "side": "north-east"
+  },
+  {
+    "name": "Nam Yang Brighton (Brighton venue)",
+    "type": "gym",
+    "lat": 50.8322715,
+    "lon": -0.1369801,
+    "address": "93B London Road, Brighton",
+    "rating": 4.9,
+    "side": "north-central"
+  },
+  {
+    "name": "Middle Path Yoga",
+    "type": "gym",
+    "lat": 50.82542600000001,
+    "lon": -0.1389059,
+    "address": "27 Regent Street, Brighton",
+    "rating": 5,
+    "side": "central-central"
+  },
+  {
+    "name": "Green Gym Group",
+    "type": "gym",
+    "lat": 50.8206966,
+    "lon": -0.1325208,
+    "address": "39, 40 Saint James's Street, Brighton",
+    "rating": 4.4,
+    "side": "south-east"
+  },
+  {
+    "name": "Zumba with Mon - Brighton",
+    "type": "gym",
+    "lat": 50.8259455,
+    "lon": -0.1405216,
+    "address": "Brighthelm Centre, Brighton",
+    "rating": 5,
+    "side": "central-central"
+  },
+  {
+    "name": "PureGym Brighton Central",
+    "type": "gym",
+    "lat": 50.8257529,
+    "lon": -0.1414362,
+    "address": "44 North Road, Brighton",
+    "rating": 4,
+    "side": "central-central"
+  },
+  {
+    "name": "Clocktower Yoga",
+    "type": "gym",
+    "lat": 50.82450840000001,
+    "lon": -0.1437754,
+    "address": "12 Queen Square, Hove",
+    "rating": null,
+    "side": "central-central"
+  },
+  {
+    "name": "F45 Brighton Central",
+    "type": "gym",
+    "lat": 50.83050480000001,
+    "lon": -0.1393006,
+    "address": "Unit 4 - 5, Temple House, 5 Fleet Street, Brighton",
+    "rating": 4.9,
+    "side": "north-central"
+  },
+  {
+    "name": "PureGym Brighton London Road",
+    "type": "gym",
+    "lat": 50.83108310000001,
+    "lon": -0.136483,
+    "address": "27-31 London Road, Brighton",
+    "rating": 4.1,
+    "side": "north-central"
+  },
+  {
+    "name": "The Gym Group Brighton London Road",
+    "type": "gym",
+    "lat": 50.8321548,
+    "lon": -0.1368844,
+    "address": "97-104 London Road, Brighton",
+    "rating": 4.1,
+    "side": "north-central"
+  },
+  {
+    "name": "TeamYo",
+    "type": "gym",
+    "lat": 50.83314660000001,
+    "lon": -0.1400004,
+    "address": "Bird Studios, Vantage Point, New England Street, Brighton",
+    "rating": null,
+    "side": "north-central"
+  },
+  {
+    "name": "Fitnesshub Brighton",
+    "type": "gym",
+    "lat": 50.83325259999999,
+    "lon": -0.1399721,
+    "address": "Unit 7-8, Circus Parade, New England Road, Brighton",
+    "rating": 5,
+    "side": "north-central"
+  },
+  {
+    "name": "Harmonise Training Academy",
+    "type": "gym",
+    "lat": 50.8255077,
+    "lon": -0.1567668,
+    "address": "First Floor, &, Offices, 121 - 123a Western Road Brighton, 119-120 Western Road, Hove",
+    "rating": 4.9,
+    "side": "central-west"
+  },
+  {
+    "name": "Barefoot Pilates Studio",
+    "type": "gym",
+    "lat": 50.83045809999999,
+    "lon": -0.1540945,
+    "address": "10 Nizells Avenue, Hove",
+    "rating": 5,
+    "side": "north-west"
+  },
+  {
+    "name": "team dunn personal training",
+    "type": "gym",
+    "lat": 50.82434569999999,
+    "lon": -0.1650648,
+    "address": "100 Adelaide Crescent, Hove",
+    "rating": 5,
+    "side": "central-west"
+  },
+  {
+    "name": "Peter Blackaby",
+    "type": "gym",
+    "lat": 50.83643459999999,
+    "lon": -0.1327555,
+    "address": "4, 20-26 Round Hill Street, Brighton",
+    "rating": 4.8,
+    "side": "north-east"
+  },
+  {
+    "name": "Unit 4 Yoga and Natural Health Centre",
+    "type": "gym",
+    "lat": 50.8364442,
+    "lon": -0.1327911,
+    "address": "20-26 Round Hill Street, Brighton",
+    "rating": 5,
+    "side": "north-east"
+  },
+  {
+    "name": "Sundara Yoga Teacher Training",
+    "type": "gym",
+    "lat": 50.82589340000001,
+    "lon": -0.159158,
+    "address": "102, Upstairs @ SIX YOGA STUDIO, 105 Western Road, Brighton, Hove",
+    "rating": 5,
+    "side": "central-west"
+  },
+  {
+    "name": "White Crane Martial Arts",
+    "type": "gym",
+    "lat": 50.8342366,
+    "lon": -0.1513052,
+    "address": "BHASVIC, 205 Dyke Road, Hove",
+    "rating": 5,
+    "side": "north-west"
+  },
+  {
+    "name": "Dynamo Gym",
+    "type": "gym",
+    "lat": 50.8312761,
+    "lon": -0.156463,
+    "address": "Unit 6, rear of, 64 Davigdor Road, Hove",
+    "rating": 5,
+    "side": "north-west"
+  },
+  {
+    "name": "Yoga-fit",
+    "type": "gym",
+    "lat": 50.83116090000001,
+    "lon": -0.1566721,
+    "address": "Unit 7 Rear of, 64 Davigdor Road, Hove",
+    "rating": 5,
+    "side": "north-west"
+  },
+  {
+    "name": "LifeFIT Complete(Brighton Gym)",
+    "type": "gym",
+    "lat": 50.8375443,
+    "lon": -0.1498162,
+    "address": "Milligan House, 10 Port Hall Avenue, Brighton",
+    "rating": 5,
+    "side": "north-west"
+  },
+  {
+    "name": "Nelly Lewis Pilates & Wellness Centre",
+    "type": "gym",
+    "lat": 50.8297394,
+    "lon": -0.1124583,
+    "address": "Brighton Racecourse Car Wash, The Lodge the Race Course, Freshfield Road, Race hill, Brighton",
+    "rating": 5,
+    "side": "north-east"
+  },
+  {
+    "name": "Body Boost",
+    "type": "gym",
+    "lat": 50.8398508,
+    "lon": -0.123034,
+    "address": "United Reform Church, Saunders Park Rise, West, Brighton",
+    "rating": null,
+    "side": "north-east"
+  },
+  {
+    "name": "HD Pilates",
+    "type": "gym",
+    "lat": 50.8292904,
+    "lon": -0.1684233,
+    "address": "30 The Drive, Hove",
+    "rating": 5,
+    "side": "north-west"
+  },
+  {
+    "name": "Encore Fitness",
+    "type": "gym",
+    "lat": 50.8261271,
+    "lon": -0.1708415,
+    "address": "8-16 Third Avenue, Hove",
+    "rating": 5,
+    "side": "central-west"
+  },
+  {
+    "name": "Float Spa",
+    "type": "gym",
+    "lat": 50.82809220000001,
+    "lon": -0.1722458,
+    "address": "125 Church Road, Hove",
+    "rating": 4.9,
+    "side": "north-west"
+  },
+  {
+    "name": "DiSE Boxing Academy",
+    "type": "gym",
+    "lat": 50.8230555,
+    "lon": -0.0995243,
+    "address": "Next to Stanley Deason Sport Centre, Wilson Avenue",
+    "rating": 5,
+    "side": "central-east"
+  },
+  {
+    "name": "David Lloyd Brighton",
+    "type": "gym",
+    "lat": 50.8122154,
+    "lon": -0.1070282,
+    "address": "Brighton Marina, Brighton",
+    "rating": 4.3,
+    "side": "south-east"
+  },
+  {
+    "name": "Yoga in the Lanes",
+    "type": "gym",
+    "lat": 50.8211221,
+    "lon": -0.1431165,
+    "address": "67 Middle Street, Brighton",
+    "rating": 4.8,
+    "side": "central-central"
+  },
+  {
+    "name": "ekah yoga",
+    "type": "gym",
+    "lat": 50.825248,
+    "lon": -0.1578267,
+    "address": "Kendal House, Donkey Mews, Brunswick Street East, Hove",
+    "rating": 4.7,
+    "side": "central-west"
+  },
+  {
+    "name": "Evolution Arts & Wellbeing",
+    "type": "gym",
+    "lat": 50.8251286,
+    "lon": -0.1399331,
+    "address": "17 Tichborne Street, Brighton",
+    "rating": 4.5,
+    "side": "central-central"
+  },
+  {
+    "name": "Livelovehoop",
+    "type": "gym",
+    "lat": 50.8261924,
+    "lon": -0.1766633,
+    "address": "Saint Aubyns, Hove",
+    "rating": null,
+    "side": "central-west"
+  },
+  {
+    "name": "LivingWell",
+    "type": "gym",
+    "lat": 50.82195249999999,
+    "lon": -0.1490769,
+    "address": "Kings Road, Brighton",
+    "rating": 3.8,
+    "side": "central-west"
+  },
+  {
+    "name": "Christian Vila Personal Training- CVPT",
+    "type": "gym",
+    "lat": 50.82541810000001,
+    "lon": -0.1779173,
+    "address": "Fitlab Cheetahs Gym, Kingsway, Hove",
+    "rating": 5,
+    "side": "central-west"
+  },
+  {
+    "name": "Anahata Health Clinic",
+    "type": "gym",
+    "lat": 50.8218275,
+    "lon": -0.1298618,
+    "address": "119, 120 Edward Street, Brighton",
+    "rating": 4.9,
+    "side": "central-east"
+  },
+  {
+    "name": "Reach Physiotherapy",
+    "type": "gym",
+    "lat": 50.829894,
+    "lon": -0.147204,
+    "address": "101 Dyke Road, Brighton",
+    "rating": 4.9,
+    "side": "north-west"
+  },
+  {
+    "name": "Brighton & Hove Boxing Gym",
+    "type": "gym",
+    "lat": 50.8245263,
+    "lon": -0.1781706,
+    "address": "Brighton & Hove Boxing Gym, King's Esplanade, Hove",
+    "rating": 4.9,
+    "side": "central-west"
+  },
+  {
+    "name": "Revitalise Brighton & Hove",
+    "type": "gym",
+    "lat": 50.8254964,
+    "lon": -0.1567301,
+    "address": "123a Western Road, Hove",
+    "rating": 4.9,
+    "side": "central-west"
+  },
+  {
+    "name": "I eat what I need / Deeply Gentle Yoga",
+    "type": "gym",
+    "lat": 50.82911070000001,
+    "lon": -0.1774504,
+    "address": "19 Connaught Road, Hove",
+    "rating": 5,
+    "side": "north-west"
+  },
+  {
+    "name": "Ocean Wave Pilates Brighton's First Pilates Studio",
+    "type": "gym",
+    "lat": 50.82731599999999,
+    "lon": -0.1663052,
+    "address": "67 Church Road, Hove",
+    "rating": 5,
+    "side": "north-west"
+  },
+  {
+    "name": "Brighton Zumba",
+    "type": "gym",
+    "lat": 50.8260108,
+    "lon": -0.1443825,
+    "address": "Saint Nicholas Road, Brighton",
+    "rating": 5,
+    "side": "central-central"
+  },
+  {
+    "name": "Purely Pilates Studio",
+    "type": "gym",
+    "lat": 50.8271284,
+    "lon": -0.164388,
+    "address": "35 Church Road, Hove",
+    "rating": 5,
+    "side": "north-west"
+  },
+  {
+    "name": "Mint Fitness",
+    "type": "gym",
+    "lat": 50.817633,
+    "lon": -0.1181713,
+    "address": "76 Saint George's Road, Brighton",
+    "rating": 5,
+    "side": "south-east"
+  },
+  {
+    "name": "Krav Maga Evolve",
+    "type": "gym",
+    "lat": 50.83494899999999,
+    "lon": -0.1742939,
+    "address": "Unit 3, Industrial House, Conway Street, Hove",
+    "rating": 4.9,
+    "side": "north-west"
+  },
+  {
+    "name": "Stanley Deason Leisure Centre",
+    "type": "gym",
+    "lat": 50.8232656,
+    "lon": -0.09945359999999999,
+    "address": "120 Wilson Avenue, Brighton",
+    "rating": 3.9,
+    "side": "central-east"
+  },
+  {
+    "name": "Personal Training Brighton",
+    "type": "gym",
+    "lat": 50.82827559999999,
+    "lon": -0.1415408,
+    "address": "78 Queens Road, Brighton",
+    "rating": 1,
+    "side": "north-central"
+  },
+  {
+    "name": "Dragonfly Clinic",
+    "type": "gym",
+    "lat": 50.8240921,
+    "lon": -0.1443295,
+    "address": "1 Queen Square, Brighton",
+    "rating": null,
+    "side": "central-central"
+  },
+  {
+    "name": "Shaolin Kung Fu Nam Pai Chuan",
+    "type": "gym",
+    "lat": 50.82584259999999,
+    "lon": -0.1426387,
+    "address": "25 Castle Street, Brighton and Hove, Brighton",
+    "rating": null,
+    "side": "central-central"
+  },
+  {
+    "name": "Kelly Sheppard Pilates",
+    "type": "gym",
+    "lat": 50.832717,
+    "lon": -0.1483756,
+    "address": "49 New England Street, Brighton",
+    "rating": 5,
+    "side": "north-west"
+  },
+  {
+    "name": "Vajrasati Yoga",
+    "type": "gym",
+    "lat": 50.8343952,
+    "lon": -0.1210625,
+    "address": "83 Hartington Road, Brighton",
+    "rating": 5,
+    "side": "north-east"
+  },
+  {
+    "name": "Body Rehab Studios",
+    "type": "gym",
+    "lat": 50.82769200000001,
+    "lon": -0.1680704,
+    "address": "5 The Drive, Hove",
+    "rating": 4.8,
+    "side": "north-west"
+  },
+  {
+    "name": "The Vault 164",
+    "type": "gym",
+    "lat": 50.82250879999999,
+    "lon": -0.1393595,
+    "address": "164 North Street, Brighton",
+    "rating": 4.7,
+    "side": "central-central"
+  },
+  {
+    "name": "Reformer Collective Brighton city centre",
+    "type": "gym",
+    "lat": 50.82118449999999,
+    "lon": -0.1380097,
+    "address": "56 Old Steine, Brighton",
+    "rating": 4.5,
+    "side": "central-central"
+  },
+  {
+    "name": "Pilates@BN1",
+    "type": "gym",
+    "lat": 50.8241159,
+    "lon": -0.1373276,
+    "address": "7 Marlborough Place, Brighton",
+    "rating": 5,
+    "side": "central-central"
+  },
+  {
+    "name": "Wild Tonic",
+    "type": "gym",
+    "lat": 50.8235029,
+    "lon": -0.139476,
+    "address": "Pavilion View, 19 New Road, Brighton",
+    "rating": null,
+    "side": "central-central"
+  }
+]

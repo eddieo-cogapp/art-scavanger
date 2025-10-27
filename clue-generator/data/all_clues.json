@@ -1,0 +1,36 @@
+[
+  {
+    "artwork_id": 745698,
+    "title": "Parachuting Pies",
+    "type": "Painted",
+    "medium": "paint",
+    "execution_date": "2013",
+    "tags": "Pictorial, Street Art",
+    "image": "https://d3d00swyhr67nd.cloudfront.net/w250/collection/PUBSCULPT/BN1/BN1_LS_S1193-001.jpg",
+    "coordinates": {
+      "lat": 50.823817,
+      "lon": -0.14647275
+    },
+    "street_name": null,
+    "clues": [
+      {
+        "level": 1,
+        "type": "cryptic",
+        "clue": "Beneath the watchful gaze of The Prince of Wales,\nWhere shadows dance sixteen paces south,\nA painted tale of pastries on the wind awaits—\n\"Parachuting Pies\" drift through silent air,\nTheir story whispered in pigment and dreams.",
+        "base_clue": "Near The Prince of Wales, approximately 16m away, seek \"Parachuting Pies\" - a Painted that tells a story."
+      },
+      {
+        "level": 2,
+        "type": "medium",
+        "clue": "\"Parachuting Pies\" is a Painted artwork nestled between The Prince of Wales and Halifax, with public seating visible in the distance to the northwest - look for colorful cascading treats where these landmarks converge.",
+        "base_clue": "\"Parachuting Pies\" is a Painted located on The Prince of Wales, between The Prince of Wales and Halifax."
+      },
+      {
+        "level": 3,
+        "type": "directional",
+        "clue": "\"Parachuting Pies\" is painted on The Prince of Wales. From The Prince of Wales, go 16m S to find it. Halifax is 25m W from this location.",
+        "base_clue": "\"Parachuting Pies\" is 16m S of The Prince of Wales. Halifax is 25m away. It's a Painted on The Prince of Wales."
+      }
+    ]
+  }
+]

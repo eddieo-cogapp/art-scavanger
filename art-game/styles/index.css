@@ -1,0 +1,32 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    gap: 12px
+}
+
+label {
+    display: flex;
+    flex-direction: column;
+    font-weight: 600
+}
+
+input[type="text"],
+input[type="number"] {
+    padding: 8px;
+    border-radius: 6px;
+    border: 1px solid #ccc
+}
+
+fieldset {
+    border: 1px solid #eee;
+    padding: 8px
+}
+
+.start-btn {
+    margin-top: 8px;
+    padding: 10px 14px;
+    background: #0070f3;
+    color: white;
+    border: none;
+    border-radius: 6px
+}

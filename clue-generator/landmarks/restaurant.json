@@ -1,0 +1,542 @@
+[
+  {
+    "name": "Holiday Inn Brighton - Seafront by IHG",
+    "type": "restaurant",
+    "lat": 50.8223978,
+    "lon": -0.152454,
+    "address": "137 Kings Road, Brighton",
+    "rating": 3.8,
+    "side": "central-west"
+  },
+  {
+    "name": "Premier Inn Brighton City Centre (North Street) hotel",
+    "type": "restaurant",
+    "lat": 50.8233312,
+    "lon": -0.141404,
+    "address": "144 North Street, Brighton",
+    "rating": 3.8,
+    "side": "central-central"
+  },
+  {
+    "name": "The Amsterdam Hotel - Brighton UK",
+    "type": "restaurant",
+    "lat": 50.8201409,
+    "lon": -0.1348637,
+    "address": "11-12 Marine Parade, Brighton",
+    "rating": 3.9,
+    "side": "south-east"
+  },
+  {
+    "name": "Artist Residence Brighton",
+    "type": "restaurant",
+    "lat": 50.8232066,
+    "lon": -0.1499676,
+    "address": "33 Regency Square, Brighton",
+    "rating": 4.6,
+    "side": "central-west"
+  },
+  {
+    "name": "The Old Ship Hotel",
+    "type": "restaurant",
+    "lat": 50.8203579,
+    "lon": -0.1420294,
+    "address": "The Old Ship Hotel, 32-38 Kings Road, Brighton",
+    "rating": 4,
+    "side": "south-central"
+  },
+  {
+    "name": "ibis Brighton City Centre - Station",
+    "type": "restaurant",
+    "lat": 50.8277602,
+    "lon": -0.1413546,
+    "address": "88-92 Queens Road, East Sussex, Brighton",
+    "rating": 4.1,
+    "side": "north-central"
+  },
+  {
+    "name": "Hotel du Vin Brighton",
+    "type": "restaurant",
+    "lat": 50.8206472,
+    "lon": -0.1424615,
+    "address": "2 Ship Street, Brighton",
+    "rating": 4.2,
+    "side": "south-central"
+  },
+  {
+    "name": "Drakes Hotel | A Curious Group of Hotels",
+    "type": "restaurant",
+    "lat": 50.8194329,
+    "lon": -0.1313231,
+    "address": "Marine Parade, Brighton",
+    "rating": 4.6,
+    "side": "south-east"
+  },
+  {
+    "name": "Malmaison Brighton",
+    "type": "restaurant",
+    "lat": 50.81253919999999,
+    "lon": -0.1022332,
+    "address": "The Waterfront, Brighton",
+    "rating": 4.3,
+    "side": "south-east"
+  },
+  {
+    "name": "The Southern Belle",
+    "type": "restaurant",
+    "lat": 50.823497,
+    "lon": -0.1573075,
+    "address": "The Southern Belle, 3 Waterloo Street, Hove",
+    "rating": 4.5,
+    "side": "central-west"
+  },
+  {
+    "name": "West Beach Hotel Brighton",
+    "type": "restaurant",
+    "lat": 50.82208680000001,
+    "lon": -0.1519124,
+    "address": "135 Kings Road, Brighton",
+    "rating": 3.7,
+    "side": "central-west"
+  },
+  {
+    "name": "Food for Friends",
+    "type": "restaurant",
+    "lat": 50.8212961,
+    "lon": -0.1408647,
+    "address": "17-18 Prince Albert Street, Brighton",
+    "rating": 4.4,
+    "side": "central-central"
+  },
+  {
+    "name": "ASK Italian",
+    "type": "restaurant",
+    "lat": 50.82202909999999,
+    "lon": -0.1414534,
+    "address": "58 Ship Street, Brighton",
+    "rating": 4.3,
+    "side": "central-central"
+  },
+  {
+    "name": "China Garden",
+    "type": "restaurant",
+    "lat": 50.8222222,
+    "lon": -0.1513889,
+    "address": "88 Preston Street, Brighton",
+    "rating": 4.3,
+    "side": "central-west"
+  },
+  {
+    "name": "Gourmet Burger Kitchen (GBK)",
+    "type": "restaurant",
+    "lat": 50.8248974,
+    "lon": -0.1394096,
+    "address": "44-47 Gardner Street, Brighton",
+    "rating": 4.2,
+    "side": "central-central"
+  },
+  {
+    "name": "East Street Tap",
+    "type": "restaurant",
+    "lat": 50.82005909999999,
+    "lon": -0.1390635,
+    "address": "74 East Street, Brighton",
+    "rating": 4.2,
+    "side": "south-central"
+  },
+  {
+    "name": "Harry Ramsden's",
+    "type": "restaurant",
+    "lat": 50.82006749999999,
+    "lon": -0.1363252,
+    "address": "1-4 Marine Parade, Brighton",
+    "rating": 4,
+    "side": "south-central"
+  },
+  {
+    "name": "The Chilli Pickle",
+    "type": "restaurant",
+    "lat": 50.82231420000001,
+    "lon": -0.1407396,
+    "address": "6-8 Meeting House Lane, Brighton",
+    "rating": 4.4,
+    "side": "central-central"
+  },
+  {
+    "name": "Subway",
+    "type": "restaurant",
+    "lat": 50.8241733,
+    "lon": -0.1492688,
+    "address": "67 Western Road, Brighton",
+    "rating": 3.1,
+    "side": "central-west"
+  },
+  {
+    "name": "Casa Don Carlos",
+    "type": "restaurant",
+    "lat": 50.8221883,
+    "lon": -0.1411534,
+    "address": "5 Union Street, Brighton",
+    "rating": 4.3,
+    "side": "central-central"
+  },
+  {
+    "name": "Sabai Thai Brighton",
+    "type": "restaurant",
+    "lat": 50.82255,
+    "lon": -0.1389414,
+    "address": "Princess House, 165-169 Prince's Place, Brighton",
+    "rating": 4.3,
+    "side": "central-central"
+  },
+  {
+    "name": "Las Iguanas - Brighton",
+    "type": "restaurant",
+    "lat": 50.8249965,
+    "lon": -0.1388499,
+    "address": "7-8 Jubilee Street, Brighton",
+    "rating": 4.8,
+    "side": "central-central"
+  },
+  {
+    "name": "Donatello",
+    "type": "restaurant",
+    "lat": 50.82167500000001,
+    "lon": -0.1398861,
+    "address": "1-3 Brighton Place, Brighton",
+    "rating": 4.1,
+    "side": "central-central"
+  },
+  {
+    "name": "Black Lion",
+    "type": "restaurant",
+    "lat": 50.82116629999999,
+    "lon": -0.141145,
+    "address": "14 Black Lion Street, Brighton",
+    "rating": 4.2,
+    "side": "central-central"
+  },
+  {
+    "name": "terre à terre",
+    "type": "restaurant",
+    "lat": 50.82020740000001,
+    "lon": -0.1391435,
+    "address": "71 East Street, Brighton",
+    "rating": 4.6,
+    "side": "south-central"
+  },
+  {
+    "name": "The Lion & Lobster",
+    "type": "restaurant",
+    "lat": 50.823761,
+    "lon": -0.1541388,
+    "address": "24 Sillwood Street, Brighton",
+    "rating": 4.4,
+    "side": "central-west"
+  },
+  {
+    "name": "Bill's Brighton Restaurant",
+    "type": "restaurant",
+    "lat": 50.8255639,
+    "lon": -0.1374735,
+    "address": "100 North Road, Brighton",
+    "rating": 4.5,
+    "side": "central-central"
+  },
+  {
+    "name": "The Basketmakers Arms",
+    "type": "restaurant",
+    "lat": 50.8265863,
+    "lon": -0.1368099,
+    "address": "12 Gloucester Road, Brighton",
+    "rating": 4.6,
+    "side": "central-central"
+  },
+  {
+    "name": "The Lanes Hotel",
+    "type": "restaurant",
+    "lat": 50.8187751,
+    "lon": -0.1279057,
+    "address": "70-72 Marine Parade, Brighton",
+    "rating": 4.3,
+    "side": "south-east"
+  },
+  {
+    "name": "Côte Brighton",
+    "type": "restaurant",
+    "lat": 50.82407680000001,
+    "lon": -0.1383339,
+    "address": "Stage Door, 115-116, Church Street, Brighton",
+    "rating": 4.3,
+    "side": "central-central"
+  },
+  {
+    "name": "The Gingerman",
+    "type": "restaurant",
+    "lat": 50.8240486,
+    "lon": -0.1553187,
+    "address": "21A Norfolk Square, Brighton",
+    "rating": 4.7,
+    "side": "central-west"
+  },
+  {
+    "name": "North Laine Brewhouse",
+    "type": "restaurant",
+    "lat": 50.82681900000001,
+    "lon": -0.135655,
+    "address": "27 Gloucester Place, Brighton",
+    "rating": 4.1,
+    "side": "central-central"
+  },
+  {
+    "name": "Indian Summer",
+    "type": "restaurant",
+    "lat": 50.8203167,
+    "lon": -0.1391045,
+    "address": "70 East Street, Brighton",
+    "rating": 4.6,
+    "side": "south-central"
+  },
+  {
+    "name": "PizzaExpress",
+    "type": "restaurant",
+    "lat": 50.8211762,
+    "lon": -0.1405028,
+    "address": "22 Prince Albert Street, Brighton",
+    "rating": 4,
+    "side": "central-central"
+  },
+  {
+    "name": "The Lucky Star Restaurant Brighton",
+    "type": "restaurant",
+    "lat": 50.828019,
+    "lon": -0.136161,
+    "address": "101 Trafalgar Street, Brighton",
+    "rating": 4.3,
+    "side": "north-central"
+  },
+  {
+    "name": "The Brunswick",
+    "type": "restaurant",
+    "lat": 50.8243046,
+    "lon": -0.1623747,
+    "address": "1 Holland Road, Hove",
+    "rating": 4.3,
+    "side": "central-west"
+  },
+  {
+    "name": "Nando's Brighton - Duke Street",
+    "type": "restaurant",
+    "lat": 50.82287100000001,
+    "lon": -0.142884,
+    "address": "34 Duke Street, Brighton",
+    "rating": 4.2,
+    "side": "central-central"
+  },
+  {
+    "name": "Oriental Takeaway",
+    "type": "restaurant",
+    "lat": 50.83550650000001,
+    "lon": -0.1261389,
+    "address": "70 Lewes Road, Brighton",
+    "rating": 3.6,
+    "side": "north-east"
+  },
+  {
+    "name": "Grosvenor Casinos Pier Nine Brighton",
+    "type": "restaurant",
+    "lat": 50.819592,
+    "lon": -0.1385258,
+    "address": "9 Grand Junction Road, Brighton",
+    "rating": 3.9,
+    "side": "south-central"
+  },
+  {
+    "name": "Piccolo Pizza Restaurant Brighton & Hove",
+    "type": "restaurant",
+    "lat": 50.82513489999999,
+    "lon": -0.1555573,
+    "address": "1 Western Road, Hove",
+    "rating": 4.2,
+    "side": "central-west"
+  },
+  {
+    "name": "The West Hill Tavern",
+    "type": "restaurant",
+    "lat": 50.8307686,
+    "lon": -0.142726,
+    "address": "67 Buckingham Place, Brighton",
+    "rating": 4.5,
+    "side": "north-central"
+  },
+  {
+    "name": "English's of Brighton",
+    "type": "restaurant",
+    "lat": 50.82117359999999,
+    "lon": -0.1393652,
+    "address": "29-31 East Street, Brighton",
+    "rating": 4.5,
+    "side": "central-central"
+  },
+  {
+    "name": "Sussex",
+    "type": "restaurant",
+    "lat": 50.8213221,
+    "lon": -0.1393886,
+    "address": "33-34 East Street, Brighton",
+    "rating": 4.3,
+    "side": "central-central"
+  },
+  {
+    "name": "Al Duomo",
+    "type": "restaurant",
+    "lat": 50.8220483,
+    "lon": -0.1381953,
+    "address": "6-7, pavilion buildings, East Sussex, Brighton",
+    "rating": 4.4,
+    "side": "central-central"
+  },
+  {
+    "name": "Plateau",
+    "type": "restaurant",
+    "lat": 50.82103029999999,
+    "lon": -0.1399509,
+    "address": "1 Bartholomews, Brighton",
+    "rating": 4.5,
+    "side": "central-central"
+  },
+  {
+    "name": "Gars",
+    "type": "restaurant",
+    "lat": 50.82120749999999,
+    "lon": -0.1407699,
+    "address": "19 Prince Albert Street, Brighton",
+    "rating": 4.2,
+    "side": "central-central"
+  },
+  {
+    "name": "Saint James Tavern in brighton",
+    "type": "restaurant",
+    "lat": 50.8207155,
+    "lon": -0.1339402,
+    "address": "16 Madeira Place, Brighton",
+    "rating": 4.3,
+    "side": "south-east"
+  },
+  {
+    "name": "Bath Arms",
+    "type": "restaurant",
+    "lat": 50.8221041,
+    "lon": -0.1409761,
+    "address": "3-4 Meeting House Lane, Brighton",
+    "rating": 4.3,
+    "side": "central-central"
+  },
+  {
+    "name": "Pho Brighton",
+    "type": "restaurant",
+    "lat": 50.8209896,
+    "lon": -0.14126,
+    "address": "12 Black Lion Street, Brighton",
+    "rating": 4.6,
+    "side": "south-central"
+  },
+  {
+    "name": "Domino's Pizza - Brighton - London Road",
+    "type": "restaurant",
+    "lat": 50.8325161,
+    "lon": -0.1378959,
+    "address": "56 London Road, Brighton",
+    "rating": 2.7,
+    "side": "north-central"
+  },
+  {
+    "name": "Zizzi - Brighton",
+    "type": "restaurant",
+    "lat": 50.8211062,
+    "lon": -0.1409948,
+    "address": "7 Prince Albert Street, Brighton",
+    "rating": 4.4,
+    "side": "central-central"
+  },
+  {
+    "name": "Pinocchio",
+    "type": "restaurant",
+    "lat": 50.82380879999999,
+    "lon": -0.1393661,
+    "address": "22 New Road, Brighton",
+    "rating": 4.3,
+    "side": "central-central"
+  },
+  {
+    "name": "Freemasons",
+    "type": "restaurant",
+    "lat": 50.82568149999999,
+    "lon": -0.1597066,
+    "address": "39 Western Road, Hove",
+    "rating": 4.2,
+    "side": "central-west"
+  },
+  {
+    "name": "Regency Seafood Restaurant",
+    "type": "restaurant",
+    "lat": 50.8219528,
+    "lon": -0.1512497,
+    "address": "131 Kings Road, Brighton",
+    "rating": 4.2,
+    "side": "central-west"
+  },
+  {
+    "name": "Open House",
+    "type": "restaurant",
+    "lat": 50.8372563,
+    "lon": -0.1362133,
+    "address": "146 Springfield Road, Brighton",
+    "rating": 4.4,
+    "side": "north-central"
+  },
+  {
+    "name": "Riddle & Finns The Lanes",
+    "type": "restaurant",
+    "lat": 50.822593,
+    "lon": -0.140406,
+    "address": "12b Meeting House Lane, Brighton",
+    "rating": 4.6,
+    "side": "central-central"
+  },
+  {
+    "name": "Planet India",
+    "type": "restaurant",
+    "lat": 50.8271279,
+    "lon": -0.1336715,
+    "address": "4 Richmond Parade, Brighton",
+    "rating": 4.7,
+    "side": "north-east"
+  },
+  {
+    "name": "Earth & Stars",
+    "type": "restaurant",
+    "lat": 50.82483060000001,
+    "lon": -0.1421861,
+    "address": "46 Windsor Street, Brighton",
+    "rating": 4.5,
+    "side": "central-central"
+  },
+  {
+    "name": "The House Restaurant",
+    "type": "restaurant",
+    "lat": 50.8214192,
+    "lon": -0.1392734,
+    "address": "37 East Street, Brighton",
+    "rating": 4.5,
+    "side": "central-central"
+  },
+  {
+    "name": "wagamama brighton central",
+    "type": "restaurant",
+    "lat": 50.8256358,
+    "lon": -0.1383333,
+    "address": "argus lofts, Kensington Street, Brighton",
+    "rating": 4.1,
+    "side": "central-central"
+  }
+]

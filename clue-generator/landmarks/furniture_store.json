@@ -1,0 +1,542 @@
+[
+  {
+    "name": "Wickes Brighton",
+    "type": "furniture_store",
+    "lat": 50.83261299999999,
+    "lon": -0.158518,
+    "address": "Peacock Industrial Estate, Davigdor Road, Hove",
+    "rating": 3.8,
+    "side": "north-west"
+  },
+  {
+    "name": "Powell Craft (Wholesale) Ltd",
+    "type": "furniture_store",
+    "lat": 50.8280292,
+    "lon": -0.1361154,
+    "address": "102 Trafalgar Street, Brighton",
+    "rating": 5,
+    "side": "north-central"
+  },
+  {
+    "name": "Shabitat",
+    "type": "furniture_store",
+    "lat": 50.8386161,
+    "lon": -0.1247839,
+    "address": "Saunders Park Depot, Lewes Road, Brighton",
+    "rating": 4.5,
+    "side": "north-east"
+  },
+  {
+    "name": "relovestuff",
+    "type": "furniture_store",
+    "lat": 50.8331811,
+    "lon": -0.1314934,
+    "address": "27 Park Crescent Terrace, Brighton",
+    "rating": 5,
+    "side": "north-east"
+  },
+  {
+    "name": "Vertigro Vertical Allotments",
+    "type": "furniture_store",
+    "lat": 50.8295015,
+    "lon": -0.1307684,
+    "address": "11 Southover Street, Brighton",
+    "rating": 5,
+    "side": "north-east"
+  },
+  {
+    "name": "B&Q Brighton",
+    "type": "furniture_store",
+    "lat": 50.8415045,
+    "lon": -0.1221314,
+    "address": "Lewes Road Pavilion, Brighton Retail Park, Brighton",
+    "rating": 4,
+    "side": "north-east"
+  },
+  {
+    "name": "Iconics at home",
+    "type": "furniture_store",
+    "lat": 50.8314507,
+    "lon": -0.1472901,
+    "address": "Curry Inn, 33-35 Prestonville Road, Brighton",
+    "rating": null,
+    "side": "north-west"
+  },
+  {
+    "name": "Bonny Interiors",
+    "type": "furniture_store",
+    "lat": 50.8232639,
+    "lon": -0.1567694,
+    "address": "2 Chapel Mews, Hove",
+    "rating": null,
+    "side": "central-west"
+  },
+  {
+    "name": "Southern Comfort Upholstery",
+    "type": "furniture_store",
+    "lat": 50.8312464,
+    "lon": -0.156531,
+    "address": "Unit 5, 64 Davigdor Road, Hove",
+    "rating": 5,
+    "side": "north-west"
+  },
+  {
+    "name": "JJ Geary & Sons Upholstery",
+    "type": "furniture_store",
+    "lat": 50.82805570000001,
+    "lon": -0.130851,
+    "address": "4 Newark Place, Brighton",
+    "rating": 4.3,
+    "side": "north-east"
+  },
+  {
+    "name": "Furniture Store",
+    "type": "furniture_store",
+    "lat": 50.8214804,
+    "lon": -0.1412962,
+    "address": "Market Street, Brighton",
+    "rating": null,
+    "side": "central-central"
+  },
+  {
+    "name": "Flying Tiger Copenhagen",
+    "type": "furniture_store",
+    "lat": 50.822195,
+    "lon": -0.1394733,
+    "address": "Unit 4, 11-12 North Street, Brighton",
+    "rating": 4.4,
+    "side": "central-central"
+  },
+  {
+    "name": "Lagom Design | Contemporary Greeting Cards, Stationery & Gifts",
+    "type": "furniture_store",
+    "lat": 50.82393980000001,
+    "lon": -0.1402298,
+    "address": "HOLD, 14 Bond Street, Brighton",
+    "rating": 4.9,
+    "side": "central-central"
+  },
+  {
+    "name": "Hoarder & Maker",
+    "type": "furniture_store",
+    "lat": 50.8195212,
+    "lon": -0.1399911,
+    "address": "231 Kings Road Arches, Brighton",
+    "rating": 5,
+    "side": "south-central"
+  },
+  {
+    "name": "North Laine Bazaar",
+    "type": "furniture_store",
+    "lat": 50.8261412,
+    "lon": -0.1392226,
+    "address": "5, 5A Upper Gardner Street, Brighton",
+    "rating": 4.4,
+    "side": "central-central"
+  },
+  {
+    "name": "Flying Tiger Copenhagen",
+    "type": "furniture_store",
+    "lat": 50.8228062,
+    "lon": -0.1456832,
+    "address": "Unit 97, Churchill Square Shopping Centre, Russell Place, Brighton",
+    "rating": 4.5,
+    "side": "central-west"
+  },
+  {
+    "name": "Era Brighton",
+    "type": "furniture_store",
+    "lat": 50.82822969999999,
+    "lon": -0.1372258,
+    "address": "92 Trafalgar Street, Brighton",
+    "rating": 4.8,
+    "side": "north-central"
+  },
+  {
+    "name": "Spring Upholstery",
+    "type": "furniture_store",
+    "lat": 50.82861999999999,
+    "lon": -0.1340693,
+    "address": "10-14 Waterloo Place, Brighton",
+    "rating": 5,
+    "side": "north-east"
+  },
+  {
+    "name": "Pine & Oak Shop",
+    "type": "furniture_store",
+    "lat": 50.8312883,
+    "lon": -0.1362365,
+    "address": "23 Marshalls Row, Ditchling Road, Brighton",
+    "rating": 4.9,
+    "side": "north-central"
+  },
+  {
+    "name": "Nisbets Catering Equipment Brighton Store",
+    "type": "furniture_store",
+    "lat": 50.8319712,
+    "lon": -0.1366899,
+    "address": "98-100 London Road, Brighton",
+    "rating": 3.2,
+    "side": "north-central"
+  },
+  {
+    "name": "British Heart Foundation - Home Store",
+    "type": "furniture_store",
+    "lat": 50.8320799,
+    "lon": -0.13668,
+    "address": "95-97 London Road, Brighton",
+    "rating": 2.6,
+    "side": "north-central"
+  },
+  {
+    "name": "Kiki Voltaire Limited",
+    "type": "furniture_store",
+    "lat": 50.829256,
+    "lon": -0.125969,
+    "address": "55, 56 Islingword Road, Brighton",
+    "rating": 3.7,
+    "side": "north-east"
+  },
+  {
+    "name": "thesedanchair",
+    "type": "furniture_store",
+    "lat": 50.824362,
+    "lon": -0.1089323,
+    "address": "6 Whitehawk Close, Brighton",
+    "rating": null,
+    "side": "central-east"
+  },
+  {
+    "name": "Sharps Fitted Furniture Hove and Brighton",
+    "type": "furniture_store",
+    "lat": 50.825895,
+    "lon": -0.160986,
+    "address": "52 Western Road, Brighton, Hove",
+    "rating": 3.8,
+    "side": "central-west"
+  },
+  {
+    "name": "Hove Antiques Gallery",
+    "type": "furniture_store",
+    "lat": 50.8268005,
+    "lon": -0.1618627,
+    "address": "34 Holland Road, Hove",
+    "rating": 5,
+    "side": "central-west"
+  },
+  {
+    "name": "Tapi Carpets & Floors",
+    "type": "furniture_store",
+    "lat": 50.8322531,
+    "lon": -0.158067,
+    "address": "2, Peacock Industrial Estate, Davigdor Road, Hove",
+    "rating": 4.7,
+    "side": "north-west"
+  },
+  {
+    "name": "Opus Oak Furniture",
+    "type": "furniture_store",
+    "lat": 50.84000090000001,
+    "lon": -0.1216927,
+    "address": "2 Coombe Road, Brighton",
+    "rating": null,
+    "side": "north-east"
+  },
+  {
+    "name": "Neon Saw | Woodwork Courses & Carpentry | Brighton & Hove - Sussex",
+    "type": "furniture_store",
+    "lat": 50.826992,
+    "lon": -0.169571,
+    "address": "11 Kings Mews, Hove",
+    "rating": 5,
+    "side": "central-west"
+  },
+  {
+    "name": "Leeny Furniture Ltd",
+    "type": "furniture_store",
+    "lat": 50.84141839999999,
+    "lon": -0.1535563,
+    "address": "Maria House, 35 Millers Road, Brighton",
+    "rating": null,
+    "side": "north-west"
+  },
+  {
+    "name": "SKS Kitchens",
+    "type": "furniture_store",
+    "lat": 50.8441996,
+    "lon": -0.1394042,
+    "address": "155 Preston Drove, Brighton",
+    "rating": null,
+    "side": "north-central"
+  },
+  {
+    "name": "Brighton Western Road Sainsbury's (Argos Collection Point)",
+    "type": "furniture_store",
+    "lat": 50.824879,
+    "lon": -0.150276,
+    "address": "147-148 Western Road, Brighton",
+    "rating": 3.5,
+    "side": "central-west"
+  },
+  {
+    "name": "Pebbles Furnishing",
+    "type": "furniture_store",
+    "lat": 50.81322120000001,
+    "lon": -0.1026882,
+    "address": "35 The Waterfront, Brighton Marina, Brighton",
+    "rating": null,
+    "side": "south-east"
+  },
+  {
+    "name": "E S Riley Upholstery",
+    "type": "furniture_store",
+    "lat": 50.82499730000001,
+    "lon": -0.1755945,
+    "address": "6 Victoria Terrace, Hove",
+    "rating": 4.7,
+    "side": "central-west"
+  },
+  {
+    "name": "The Cabinet Door Shop",
+    "type": "furniture_store",
+    "lat": 50.825107,
+    "lon": -0.1769394,
+    "address": "21 Victoria Terrace, Hove",
+    "rating": 4.7,
+    "side": "central-west"
+  },
+  {
+    "name": "Futon Company - Brighton",
+    "type": "furniture_store",
+    "lat": 50.82439709999999,
+    "lon": -0.1507107,
+    "address": "51-52 Preston Street, Brighton",
+    "rating": 4.2,
+    "side": "central-west"
+  },
+  {
+    "name": "Parker Bathrooms & Kitchens",
+    "type": "furniture_store",
+    "lat": 50.8297242,
+    "lon": -0.1467935,
+    "address": "66-70 Dyke Road, Brighton",
+    "rating": 4.5,
+    "side": "north-west"
+  },
+  {
+    "name": "Design Interiors Ltd",
+    "type": "furniture_store",
+    "lat": 50.8260215,
+    "lon": -0.1614473,
+    "address": "58 Western Road, Hove",
+    "rating": 4.7,
+    "side": "central-west"
+  },
+  {
+    "name": "Harmony Carpets",
+    "type": "furniture_store",
+    "lat": 50.8242662,
+    "lon": -0.1197958,
+    "address": "Bute Hall, Sutherland Road, Brighton",
+    "rating": 5,
+    "side": "central-east"
+  },
+  {
+    "name": "Berry & Son - Second Hand Furniture",
+    "type": "furniture_store",
+    "lat": 50.8314485,
+    "lon": -0.1476337,
+    "address": "120 Dyke Road, Brighton",
+    "rating": 4.6,
+    "side": "north-west"
+  },
+  {
+    "name": "Furniture And Beds",
+    "type": "furniture_store",
+    "lat": 50.8338601,
+    "lon": -0.127752,
+    "address": "42-44 Lewes Road, Brighton",
+    "rating": 4.5,
+    "side": "north-east"
+  },
+  {
+    "name": "North Road Timber Co",
+    "type": "furniture_store",
+    "lat": 50.825689,
+    "lon": -0.138711,
+    "address": "85-88 North Road, Brighton",
+    "rating": 4.1,
+    "side": "central-central"
+  },
+  {
+    "name": "Adrian Robins Interiors",
+    "type": "furniture_store",
+    "lat": 50.828801,
+    "lon": -0.1436001,
+    "address": "16 Guildford Road, Brighton",
+    "rating": 4.5,
+    "side": "north-central"
+  },
+  {
+    "name": "Mister Smith Interiors",
+    "type": "furniture_store",
+    "lat": 50.8239796,
+    "lon": -0.1392546,
+    "address": "23 New Road, Brighton",
+    "rating": 4.4,
+    "side": "central-central"
+  },
+  {
+    "name": "Abode Living",
+    "type": "furniture_store",
+    "lat": 50.8260897,
+    "lon": -0.1386786,
+    "address": "32 Kensington Gardens, Brighton",
+    "rating": 4.3,
+    "side": "central-central"
+  },
+  {
+    "name": "Thompson Frank",
+    "type": "furniture_store",
+    "lat": 50.82616350000001,
+    "lon": -0.13861,
+    "address": "The New Kensington Public House, 7-8 Kensington Gardens, Brighton",
+    "rating": null,
+    "side": "central-central"
+  },
+  {
+    "name": "Harvey Jones Kitchens Brighton & Hove",
+    "type": "furniture_store",
+    "lat": 50.82594760000001,
+    "lon": -0.1598857,
+    "address": "95 Western Road, Hove",
+    "rating": 4.6,
+    "side": "central-west"
+  },
+  {
+    "name": "Papillon Living",
+    "type": "furniture_store",
+    "lat": 50.8219278,
+    "lon": -0.141765,
+    "address": "22A Ship Street, Brighton",
+    "rating": 4.6,
+    "side": "central-central"
+  },
+  {
+    "name": "The Conservatory Brighton & Hove",
+    "type": "furniture_store",
+    "lat": 50.8336919,
+    "lon": -0.1670689,
+    "address": "The Drive, Hove",
+    "rating": 4.5,
+    "side": "north-west"
+  },
+  {
+    "name": "Fiveways Floors",
+    "type": "furniture_store",
+    "lat": 50.843634,
+    "lon": -0.135079,
+    "address": "265 Preston Drove, Brighton",
+    "rating": 5,
+    "side": "north-central"
+  },
+  {
+    "name": "Brighton Old Steine Sainsbury's (Argos Collection Point)",
+    "type": "furniture_store",
+    "lat": 50.8212,
+    "lon": -0.136422,
+    "address": "13-15 Old Steine, Brighton",
+    "rating": 1.4,
+    "side": "central-central"
+  },
+  {
+    "name": "Oliver Bonas",
+    "type": "furniture_store",
+    "lat": 50.82261869999999,
+    "lon": -0.1401333,
+    "address": "23-25 North Street, Brighton",
+    "rating": 4.5,
+    "side": "central-central"
+  },
+  {
+    "name": "Cielshop",
+    "type": "furniture_store",
+    "lat": 50.8209615,
+    "lon": -0.1396259,
+    "address": "5 Bartholomews, Brighton",
+    "rating": null,
+    "side": "south-central"
+  },
+  {
+    "name": "HOLD",
+    "type": "furniture_store",
+    "lat": 50.82394659999999,
+    "lon": -0.1401225,
+    "address": "14 Bond Street, Brighton",
+    "rating": 4.9,
+    "side": "central-central"
+  },
+  {
+    "name": "Fern and Pine Garden Design Studio",
+    "type": "furniture_store",
+    "lat": 50.82431829999999,
+    "lon": -0.1402418,
+    "address": "Unit 6 9, 10 Jew Street, Brighton",
+    "rating": 5,
+    "side": "central-central"
+  },
+  {
+    "name": "B&Q Local - Brighton",
+    "type": "furniture_store",
+    "lat": 50.82327999999999,
+    "lon": -0.14168,
+    "address": "143 North Street, Brighton",
+    "rating": 3.3,
+    "side": "central-central"
+  },
+  {
+    "name": "The Sofa Library",
+    "type": "furniture_store",
+    "lat": 50.8225053,
+    "lon": -0.1421394,
+    "address": "1-2 Duke Street, Brighton",
+    "rating": 4.5,
+    "side": "central-central"
+  },
+  {
+    "name": "Luck and Light",
+    "type": "furniture_store",
+    "lat": 50.8227376,
+    "lon": -0.1432278,
+    "address": "14 Duke Street, Brighton",
+    "rating": 5,
+    "side": "central-central"
+  },
+  {
+    "name": "MEAVO Office Phone Booths - Brighton",
+    "type": "furniture_store",
+    "lat": 50.8196939,
+    "lon": -0.1307917,
+    "address": "2-5 Rock Place, Brighton",
+    "rating": null,
+    "side": "south-east"
+  },
+  {
+    "name": "Exspace Interiors",
+    "type": "furniture_store",
+    "lat": 50.82649019999999,
+    "lon": -0.1419277,
+    "address": "106 Queens Road, Brighton",
+    "rating": 5,
+    "side": "central-central"
+  },
+  {
+    "name": "Gander Vintage Interiors",
+    "type": "furniture_store",
+    "lat": 50.8278245,
+    "lon": -0.1377375,
+    "address": "20 Sydney Street, Brighton",
+    "rating": 4.8,
+    "side": "north-central"
+  }
+]

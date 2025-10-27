@@ -1,0 +1,542 @@
+[
+  {
+    "name": "The Lanes Car Park",
+    "type": "parking",
+    "lat": 50.8206513,
+    "lon": -0.1411828,
+    "address": "Black Lion Street, Brighton",
+    "rating": 3.2,
+    "side": "south-central"
+  },
+  {
+    "name": "Regency Mews Secure Car Parking Brighton",
+    "type": "parking",
+    "lat": 50.823528,
+    "lon": -0.1505222,
+    "address": "1 Regency Mews, Brighton",
+    "rating": 4.8,
+    "side": "central-west"
+  },
+  {
+    "name": "NCP Brighton Theatre",
+    "type": "parking",
+    "lat": 50.82441360000001,
+    "lon": -0.1407171,
+    "address": "Church Street, Brighton",
+    "rating": 2.6,
+    "side": "central-central"
+  },
+  {
+    "name": "RCP Parking - North Road",
+    "type": "parking",
+    "lat": 50.8259662,
+    "lon": -0.1415864,
+    "address": "44 North Road, Brighton",
+    "rating": 2.6,
+    "side": "central-central"
+  },
+  {
+    "name": "NCP Brighton Centre Russell Rd",
+    "type": "parking",
+    "lat": 50.8219772,
+    "lon": -0.1468551,
+    "address": "Russell Road, Brighton",
+    "rating": 2.4,
+    "side": "central-west"
+  },
+  {
+    "name": "Trafalgar Street Car Park",
+    "type": "parking",
+    "lat": 50.8286214,
+    "lon": -0.1383866,
+    "address": "Blackman Street, Brighton",
+    "rating": 4.1,
+    "side": "north-central"
+  },
+  {
+    "name": "Churchill Square Green Car Park (2)",
+    "type": "parking",
+    "lat": 50.8226929,
+    "lon": -0.1472531,
+    "address": "Churchill Square Shopping Centre, Cannon Place, Brighton",
+    "rating": 3.4,
+    "side": "central-west"
+  },
+  {
+    "name": "Regency Square Car Park",
+    "type": "parking",
+    "lat": 50.82307369999999,
+    "lon": -0.1502661,
+    "address": "2GG, 30, 31 Regency Square, Brighton",
+    "rating": 3.8,
+    "side": "central-west"
+  },
+  {
+    "name": "Waitrose Car Park",
+    "type": "parking",
+    "lat": 50.8252643,
+    "lon": -0.1512887,
+    "address": "Hampton Place, Brighton",
+    "rating": 4,
+    "side": "central-west"
+  },
+  {
+    "name": "Brighton Central Travelodge",
+    "type": "parking",
+    "lat": 50.8380391,
+    "lon": -0.1467938,
+    "address": "165-167 Preston Road, Brighton",
+    "rating": 3.8,
+    "side": "north-west"
+  },
+  {
+    "name": "Norton Road Car Park",
+    "type": "parking",
+    "lat": 50.8283432,
+    "lon": -0.1713811,
+    "address": "Norton Road, Hove",
+    "rating": 3.7,
+    "side": "north-west"
+  },
+  {
+    "name": "Pro Valet Valeting",
+    "type": "parking",
+    "lat": 50.8351623,
+    "lon": -0.1484733,
+    "address": "25 Upper Hamilton Road, Brighton",
+    "rating": null,
+    "side": "north-west"
+  },
+  {
+    "name": "Motorcycle bay",
+    "type": "parking",
+    "lat": 50.8237931,
+    "lon": -0.1377521,
+    "address": "119 Church Street, Brighton",
+    "rating": 5,
+    "side": "central-central"
+  },
+  {
+    "name": "Bicycle Parking",
+    "type": "parking",
+    "lat": 50.82384379999999,
+    "lon": -0.1391597,
+    "address": "28 New Road, Brighton",
+    "rating": 1,
+    "side": "central-central"
+  },
+  {
+    "name": "Brighton Square Car Park",
+    "type": "parking",
+    "lat": 50.8218713,
+    "lon": -0.1400281,
+    "address": "1 Brighton Square, Brighton",
+    "rating": 2,
+    "side": "central-central"
+  },
+  {
+    "name": "JustPark",
+    "type": "parking",
+    "lat": 50.8218545,
+    "lon": -0.1400337,
+    "address": "Brighton Square",
+    "rating": 3.2,
+    "side": "central-central"
+  },
+  {
+    "name": "Motorcycle parking",
+    "type": "parking",
+    "lat": 50.8224233,
+    "lon": -0.134083,
+    "address": "37 George Street, Brighton",
+    "rating": null,
+    "side": "central-east"
+  },
+  {
+    "name": "JustPark | Brighton, Jubilee Street",
+    "type": "parking",
+    "lat": 50.82431,
+    "lon": -0.13879,
+    "address": "Jubilee Street, Brighton",
+    "rating": 3,
+    "side": "central-central"
+  },
+  {
+    "name": "Motorcycle parking",
+    "type": "parking",
+    "lat": 50.8230742,
+    "lon": -0.133925,
+    "address": "Windsor House, 30-35 Edward Street, Brighton",
+    "rating": null,
+    "side": "central-east"
+  },
+  {
+    "name": "Car park brighton square apartments",
+    "type": "parking",
+    "lat": 50.8220362,
+    "lon": -0.140508,
+    "address": "23 Brighton Square, Brighton",
+    "rating": 3.5,
+    "side": "central-central"
+  },
+  {
+    "name": "Motorcycle bay",
+    "type": "parking",
+    "lat": 50.8243829,
+    "lon": -0.1353278,
+    "address": "58-67 Grand Parade, Brighton and Hove, Brighton",
+    "rating": null,
+    "side": "central-central"
+  },
+  {
+    "name": "Motorcycle bay",
+    "type": "parking",
+    "lat": 50.8206984,
+    "lon": -0.1346286,
+    "address": "1-15 Broad Street, Brighton",
+    "rating": 2,
+    "side": "south-east"
+  },
+  {
+    "name": "Motorcycle parking bay",
+    "type": "parking",
+    "lat": 50.82069,
+    "lon": -0.1340188,
+    "address": "106A Saint James's Street, Brighton",
+    "rating": null,
+    "side": "south-east"
+  },
+  {
+    "name": "Parking Theatre",
+    "type": "parking",
+    "lat": 50.8244222,
+    "lon": -0.1407415,
+    "address": "15-16 Church Street, Brighton",
+    "rating": 2.5,
+    "side": "central-central"
+  },
+  {
+    "name": "CHAPEL STREET CAR PARK",
+    "type": "parking",
+    "lat": 50.8209131,
+    "lon": -0.1319352,
+    "address": "36 Chapel Street, Kemptown, Brighton and Hove, Brighton",
+    "rating": 3.2,
+    "side": "south-east"
+  },
+  {
+    "name": "Motorcycle bay",
+    "type": "parking",
+    "lat": 50.8249247,
+    "lon": -0.1415648,
+    "address": "Spring Gardens, Brighton",
+    "rating": null,
+    "side": "central-central"
+  },
+  {
+    "name": "Motorcycle Parking",
+    "type": "parking",
+    "lat": 50.8202444,
+    "lon": -0.1314457,
+    "address": "18 Saint James's Street, Kemptown, Brighton and Hove, Brighton",
+    "rating": null,
+    "side": "south-east"
+  },
+  {
+    "name": "Motorcycle bay",
+    "type": "parking",
+    "lat": 50.8267565,
+    "lon": -0.1360962,
+    "address": "2 Gloucester Road, Brighton and Hove, Brighton",
+    "rating": null,
+    "side": "central-central"
+  },
+  {
+    "name": "Motorcycle Parking",
+    "type": "parking",
+    "lat": 50.81946010000001,
+    "lon": -0.132017,
+    "address": "New Steine, Kemptown, Brighton and Hove, Brighton",
+    "rating": 5,
+    "side": "south-east"
+  },
+  {
+    "name": "Brighton City Car Park",
+    "type": "parking",
+    "lat": 50.82660480000001,
+    "lon": -0.1340837,
+    "address": "Sussex Place, Brighton",
+    "rating": 4.9,
+    "side": "central-east"
+  },
+  {
+    "name": "Motorcycle bay",
+    "type": "parking",
+    "lat": 50.8270905,
+    "lon": -0.1386986,
+    "address": "2 Tidy Street, Brighton and Hove, Brighton",
+    "rating": null,
+    "side": "north-central"
+  },
+  {
+    "name": "Churchill Square Orange Carpark (1)",
+    "type": "parking",
+    "lat": 50.8225615,
+    "lon": -0.1448404,
+    "address": "0 Regency Road, Brighton",
+    "rating": 3.7,
+    "side": "central-central"
+  },
+  {
+    "name": "Public bicycle parking",
+    "type": "parking",
+    "lat": 50.8189483,
+    "lon": -0.1318242,
+    "address": "285 Madeira Drive, Brighton",
+    "rating": 5,
+    "side": "south-east"
+  },
+  {
+    "name": "Motorcycle parking bay",
+    "type": "parking",
+    "lat": 50.81891719999999,
+    "lon": -0.131101,
+    "address": "32-110 Madeira Drive, Brighton",
+    "rating": null,
+    "side": "south-east"
+  },
+  {
+    "name": "Public bicycle parking",
+    "type": "parking",
+    "lat": 50.8206537,
+    "lon": -0.1455397,
+    "address": "Brighton Beach, Brighton",
+    "rating": null,
+    "side": "south-west"
+  },
+  {
+    "name": "Madeira Drive Parking",
+    "type": "parking",
+    "lat": 50.81880580000001,
+    "lon": -0.1304435,
+    "address": "Maderia Drive",
+    "rating": 3.8,
+    "side": "south-east"
+  },
+  {
+    "name": "Motorcycle bay",
+    "type": "parking",
+    "lat": 50.8281541,
+    "lon": -0.1388917,
+    "address": "29 Kensington Place, Brighton and Hove, Brighton",
+    "rating": null,
+    "side": "north-central"
+  },
+  {
+    "name": "Motorcycle bay",
+    "type": "parking",
+    "lat": 50.8196872,
+    "lon": -0.128747,
+    "address": "23 Grafton Street, Brighton",
+    "rating": null,
+    "side": "south-east"
+  },
+  {
+    "name": "Motorcycle parking bay",
+    "type": "parking",
+    "lat": 50.8195525,
+    "lon": -0.1278575,
+    "address": "37 Upper St James's Street, Brighton",
+    "rating": null,
+    "side": "south-east"
+  },
+  {
+    "name": "NCP Brighton Phoenix Place",
+    "type": "parking",
+    "lat": 50.8286903,
+    "lon": -0.1335923,
+    "address": "7 Phoenix Place, Brighton",
+    "rating": 2.7,
+    "side": "north-east"
+  },
+  {
+    "name": "Motorcycle bay",
+    "type": "parking",
+    "lat": 50.82371209999999,
+    "lon": -0.1475564,
+    "address": "Clarence Square, Brighton",
+    "rating": 5,
+    "side": "central-west"
+  },
+  {
+    "name": "Parking Brighton",
+    "type": "parking",
+    "lat": 50.82920369999999,
+    "lon": -0.1385345,
+    "address": "42 Blackman Street, Brighton",
+    "rating": 3.8,
+    "side": "north-central"
+  },
+  {
+    "name": "ParkBee Hilton - Brighton Metropole",
+    "type": "parking",
+    "lat": 50.822619,
+    "lon": -0.148515,
+    "address": "14 Saint Margaret's Place, Brighton",
+    "rating": 4.3,
+    "side": "central-west"
+  },
+  {
+    "name": "JustPark",
+    "type": "parking",
+    "lat": 50.822624,
+    "lon": -0.148563,
+    "address": "Saint Margaret's Place, Brighton",
+    "rating": 4.1,
+    "side": "central-west"
+  },
+  {
+    "name": "Metropole Car Park",
+    "type": "parking",
+    "lat": 50.82270889999999,
+    "lon": -0.1487245,
+    "address": "Saint Margaret's Place, Brighton",
+    "rating": 3,
+    "side": "central-west"
+  },
+  {
+    "name": "Bicycle parking",
+    "type": "parking",
+    "lat": 50.8241488,
+    "lon": -0.1485367,
+    "address": "166 B2066, Brighton and Hove, Brighton",
+    "rating": 3,
+    "side": "central-west"
+  },
+  {
+    "name": "Bicycle parking",
+    "type": "parking",
+    "lat": 50.824569,
+    "lon": -0.1501745,
+    "address": "151-153 Western Road, Brighton and Hove, Brighton",
+    "rating": 4,
+    "side": "central-west"
+  },
+  {
+    "name": "ParkBee Buzz Bingo - Brighton",
+    "type": "parking",
+    "lat": 50.821325,
+    "lon": -0.123651,
+    "address": "Buzz Bingo, Business Park, 1 Freshfield Way, Brighton",
+    "rating": 2.9,
+    "side": "central-east"
+  },
+  {
+    "name": "Sainsbury’s Parking",
+    "type": "parking",
+    "lat": 50.8310986,
+    "lon": -0.1381747,
+    "address": "New England Street, Brighton and Hove, Brighton",
+    "rating": 4.5,
+    "side": "north-central"
+  },
+  {
+    "name": "JustPark",
+    "type": "parking",
+    "lat": 50.821383,
+    "lon": -0.123634,
+    "address": "Freshfield Way, Brighton",
+    "rating": 3,
+    "side": "central-east"
+  },
+  {
+    "name": "Motorcycle bay",
+    "type": "parking",
+    "lat": 50.8245271,
+    "lon": -0.150834,
+    "address": "B2066, Brighton",
+    "rating": 3,
+    "side": "central-west"
+  },
+  {
+    "name": "London Road Car Park",
+    "type": "parking",
+    "lat": 50.83138220000001,
+    "lon": -0.1373191,
+    "address": "65 Providence Place, Brighton and Hove, Brighton",
+    "rating": 3.9,
+    "side": "north-central"
+  },
+  {
+    "name": "Bicycle parking",
+    "type": "parking",
+    "lat": 50.8246861,
+    "lon": -0.1509131,
+    "address": "143 B2066, Brighton and Hove, Brighton",
+    "rating": 5,
+    "side": "central-west"
+  },
+  {
+    "name": "Motorcycle parking bay",
+    "type": "parking",
+    "lat": 50.81813450000001,
+    "lon": -0.1246772,
+    "address": "Kemptown, Brighton",
+    "rating": null,
+    "side": "south-east"
+  },
+  {
+    "name": "Motorcycle parking bay",
+    "type": "parking",
+    "lat": 50.8316178,
+    "lon": -0.1363402,
+    "address": "48 Baker Street, Brighton",
+    "rating": 4,
+    "side": "north-central"
+  },
+  {
+    "name": "Motorcycle parking bay",
+    "type": "parking",
+    "lat": 50.8231347,
+    "lon": -0.1518499,
+    "address": "5-7 Sillwood Street, Brighton and Hove, Brighton",
+    "rating": null,
+    "side": "central-west"
+  },
+  {
+    "name": "Residents bike parking",
+    "type": "parking",
+    "lat": 50.8284445,
+    "lon": -0.1258741,
+    "address": "Finsbury Road, Brighton and Hove, Brighton",
+    "rating": 5,
+    "side": "north-east"
+  },
+  {
+    "name": "Motorcycle parking",
+    "type": "parking",
+    "lat": 50.8284733,
+    "lon": -0.1258506,
+    "address": "Finsbury Road, Brighton and Hove, Brighton",
+    "rating": 3,
+    "side": "north-east"
+  },
+  {
+    "name": "Car Park Brighton Station | APCOA",
+    "type": "parking",
+    "lat": 50.8315522,
+    "lon": -0.1409142,
+    "address": "Station, Stroudley Road, Brighton",
+    "rating": 3.3,
+    "side": "north-central"
+  },
+  {
+    "name": "Public bicycle parking",
+    "type": "parking",
+    "lat": 50.81744759999999,
+    "lon": -0.1244109,
+    "address": "Brighton Beach, Brighton",
+    "rating": null,
+    "side": "south-east"
+  }
+]

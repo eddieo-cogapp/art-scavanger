@@ -1,0 +1,44 @@
+.game-container {
+    max-width: 900px;
+    margin: 30px auto;
+    padding: 20px;
+    background: #fff;
+    border-radius: 8px
+}
+
+.clue-box {
+    border: 1px dashed #ddd;
+    padding: 12px;
+    border-radius: 6px;
+    margin-bottom: 12px
+}
+
+.clue-text {
+    white-space: pre-line
+}
+
+.controls {
+    display: flex;
+    gap: 12px;
+    margin-bottom: 12px
+}
+
+.controls button {
+    padding: 10px 12px
+}
+
+.controls .guess {
+    background: #e2f0ff
+}
+
+.result {
+    margin-top: 12px;
+    padding: 10px;
+    border-radius: 6px;
+    background: #f1f8ee
+}
+
+.footer {
+    margin-top: 18px;
+    color: #666
+}

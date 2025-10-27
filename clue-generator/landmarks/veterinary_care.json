@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Brighton PDSA Pet Hospital",
+    "type": "veterinary_care",
+    "lat": 50.84253829999999,
+    "lon": -0.1542967,
+    "address": "2 Robertson Road, Brighton",
+    "rating": 4.6,
+    "side": "north-west"
+  },
+  {
+    "name": "Beech House Vet Clinic",
+    "type": "veterinary_care",
+    "lat": 50.8459746,
+    "lon": -0.1463255,
+    "address": "35 Harrington Road, Brighton",
+    "rating": 4.5,
+    "side": "north-west"
+  },
+  {
+    "name": "Kim Jorgensen",
+    "type": "veterinary_care",
+    "lat": 50.8215473,
+    "lon": -0.1232227,
+    "address": "1 Freshfield Way, Brighton",
+    "rating": 5,
+    "side": "central-east"
+  },
+  {
+    "name": "Shumba Experience - Gap Years in Africa",
+    "type": "veterinary_care",
+    "lat": 50.83321910000001,
+    "lon": -0.1342164,
+    "address": "95 Shaftesbury Road, Ditchling Road, Brighton",
+    "rating": null,
+    "side": "north-east"
+  },
+  {
+    "name": "Wilbury Vets",
+    "type": "veterinary_care",
+    "lat": 50.8355359,
+    "lon": -0.1689266,
+    "address": "20 Wilbury Avenue, Hove",
+    "rating": 4.8,
+    "side": "north-west"
+  },
+  {
+    "name": "Coastway Vets, Brighton",
+    "type": "veterinary_care",
+    "lat": 50.82157840000001,
+    "lon": -0.1231111,
+    "address": "Freshfield Industrial Estate, Stevenson Road, Brighton",
+    "rating": 4.1,
+    "side": "central-east"
+  },
+  {
+    "name": "Medivet Brighton",
+    "type": "veterinary_care",
+    "lat": 50.824653,
+    "lon": -0.154314,
+    "address": "40 Norfolk Square, Brighton",
+    "rating": 4.5,
+    "side": "central-west"
+  },
+  {
+    "name": "Grove Lodge Vets",
+    "type": "veterinary_care",
+    "lat": 50.8440516,
+    "lon": -0.1427534,
+    "address": "104 Preston Drove, Brighton",
+    "rating": 4.5,
+    "side": "north-central"
+  },
+  {
+    "name": "Alunteri",
+    "type": "veterinary_care",
+    "lat": 50.8287803,
+    "lon": -0.1432796,
+    "address": "United Kingdom",
+    "rating": null,
+    "side": "north-central"
+  },
+  {
+    "name": "Dr Dave Nicol",
+    "type": "veterinary_care",
+    "lat": 50.8271647,
+    "lon": -0.1673941,
+    "address": "32 Church Road, Brighton and Hove, Hove",
+    "rating": null,
+    "side": "north-west"
+  },
+  {
+    "name": "RACHEL PERRY",
+    "type": "veterinary_care",
+    "lat": 50.83549319999999,
+    "lon": -0.1689745,
+    "address": "20 Wilbury Avenue, Hove",
+    "rating": null,
+    "side": "north-west"
+  },
+  {
+    "name": "Independent Vetcare Limited",
+    "type": "veterinary_care",
+    "lat": 50.8460912,
+    "lon": -0.1463472,
+    "address": "35 Harrington Road, Brighton",
+    "rating": null,
+    "side": "north-west"
+  },
+  {
+    "name": "The Grill Bar",
+    "type": "veterinary_care",
+    "lat": 50.8348172,
+    "lon": -0.1712453,
+    "address": "Tisbury Road, Hove",
+    "rating": 5,
+    "side": "north-west"
+  }
+]

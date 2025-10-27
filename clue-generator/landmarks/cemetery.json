@@ -1,0 +1,92 @@
+[
+  {
+    "name": "The Downs Crematorium and Brighton and Preston Cemetery",
+    "type": "cemetery",
+    "lat": 50.8357918,
+    "lon": -0.110693,
+    "address": "Bear Road, Brighton",
+    "rating": 4.9,
+    "side": "north-east"
+  },
+  {
+    "name": "Brighton and Preston Cemetery",
+    "type": "cemetery",
+    "lat": 50.8341041,
+    "lon": -0.1148245,
+    "address": "Bear Road, Brighton and Hove, Brighton",
+    "rating": 4.9,
+    "side": "north-east"
+  },
+  {
+    "name": "Anne Gowey Cemetery",
+    "type": "cemetery",
+    "lat": 50.8229402,
+    "lon": -0.1362672,
+    "address": "Area, Brighton, Ia",
+    "rating": null,
+    "side": "central-central"
+  },
+  {
+    "name": "AJP Graveyard",
+    "type": "cemetery",
+    "lat": 50.8275841,
+    "lon": -0.1395415,
+    "address": "Brighton",
+    "rating": 5,
+    "side": "north-central"
+  },
+  {
+    "name": "Saint Nicholas Church Green Spaces",
+    "type": "cemetery",
+    "lat": 50.8252246,
+    "lon": -0.1445297,
+    "address": "Brighton",
+    "rating": null,
+    "side": "central-central"
+  },
+  {
+    "name": "Florence Place Jewish Cemetery",
+    "type": "cemetery",
+    "lat": 50.83861510000001,
+    "lon": -0.1325973,
+    "address": "Florence Place, Brighton",
+    "rating": 4.8,
+    "side": "north-east"
+  },
+  {
+    "name": "Brighton Borough Cemetery",
+    "type": "cemetery",
+    "lat": 50.8358204,
+    "lon": -0.1167796,
+    "address": "Brighton",
+    "rating": 5,
+    "side": "north-east"
+  },
+  {
+    "name": "Cemetery",
+    "type": "cemetery",
+    "lat": 50.84236689999999,
+    "lon": -0.1493745,
+    "address": "United Kingdom",
+    "rating": null,
+    "side": "north-west"
+  },
+  {
+    "name": "Jewish Cemetery",
+    "type": "cemetery",
+    "lat": 50.8382667,
+    "lon": -0.1083612,
+    "address": "Brighton",
+    "rating": 5,
+    "side": "north-east"
+  },
+  {
+    "name": "Cemetery",
+    "type": "cemetery",
+    "lat": 50.8287585,
+    "lon": -0.1750547,
+    "address": "United Kingdom",
+    "rating": null,
+    "side": "north-west"
+  }
+]

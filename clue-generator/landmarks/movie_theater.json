@@ -1,0 +1,56 @@
+[
+  {
+    "name": "ODEON Brighton",
+    "type": "movie_theater",
+    "lat": 50.821079,
+    "lon": -0.1452933,
+    "address": "Kingswest, West Street, Brighton",
+    "rating": 3.7,
+    "side": "central-west"
+  },
+  {
+    "name": "Dukes at Komedia Picturehouse",
+    "type": "movie_theater",
+    "lat": 50.82488470000001,
+    "lon": -0.1394171,
+    "address": "Gardner House, 44-47 Gardner Street, Brighton and Hove, Brighton",
+    "rating": 4.7,
+    "side": "central-central"
+  },
+  {
+    "name": "Fabrica",
+    "type": "movie_theater",
+    "lat": 50.8227463,
+    "lon": -0.141959,
+    "address": "40 Duke Street, Brighton",
+    "rating": 4.6,
+    "side": "central-central"
+  },
+  {
+    "name": "Duke of York's Picturehouse",
+    "type": "movie_theater",
+    "lat": 50.833907,
+    "lon": -0.1385416,
+    "address": "Preston Road, Brighton",
+    "rating": 4.7,
+    "side": "north-central"
+  },
+  {
+    "name": "Cineworld - Brighton",
+    "type": "movie_theater",
+    "lat": 50.8126643,
+    "lon": -0.1057367,
+    "address": "Marina, Brighton and Hove, Brighton",
+    "rating": 4,
+    "side": "south-east"
+  },
+  {
+    "name": "The Bookshop Screening Room.",
+    "type": "movie_theater",
+    "lat": 50.82353440000001,
+    "lon": -0.1438247,
+    "address": "71-74 North Street, Brighton",
+    "rating": 5,
+    "side": "central-central"
+  }
+]

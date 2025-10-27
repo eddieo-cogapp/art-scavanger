@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Churchill Square Shopping Centre",
+    "type": "shopping_mall",
+    "lat": 50.822788,
+    "lon": -0.1458186,
+    "address": "Russell Place, Brighton and Hove, Brighton",
+    "rating": 4.1,
+    "side": "central-west"
+  },
+  {
+    "name": "Sunglass Hut",
+    "type": "shopping_mall",
+    "lat": 50.8229401,
+    "lon": -0.1450747,
+    "address": "69, Churchill Square, Brighton and Hove, Brighton",
+    "rating": 4.3,
+    "side": "central-west"
+  },
+  {
+    "name": "Imperial Arcade",
+    "type": "shopping_mall",
+    "lat": 50.8238788,
+    "lon": -0.1454108,
+    "address": "UK",
+    "rating": 3.7,
+    "side": "central-west"
+  },
+  {
+    "name": "Marina Square",
+    "type": "shopping_mall",
+    "lat": 50.81326170000001,
+    "lon": -0.1023041,
+    "address": "The Waterfront, Brighton Marina, Brighton",
+    "rating": 4.1,
+    "side": "south-east"
+  }
+]

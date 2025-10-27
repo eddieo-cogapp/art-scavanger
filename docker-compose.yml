@@ -1,0 +1,46 @@
+version: '3.8'
+
+services:
+  kibana:
+    image: docker.elastic.co/kibana/kibana:8.7.0
+    container_name: kibana
+    ports:
+      - "5601:5601"
+    environment:
+      # Connect to your remote Elasticsearch cluster
+      ELASTICSEARCH_HOSTS: '["${ELASTICSEARCH_HOST}"]'
+      
+      # Authentication - Option 1: Username and Password
+      ELASTICSEARCH_SERVICEACCOUNTTOKEN: "${ELASTICSEARCH_SERVICE_TOKEN}"
+
+      # Authentication - Option 2: API Key (comment out username/password if using this)
+      # ELASTICSEARCH_APIKEY: "your-api-key"
+      
+      # SSL/TLS Settings (if your ES cluster uses self-signed certificates)
+      ELASTICSEARCH_SSL_VERIFICATIONMODE: "full"  # Options: full, certificate, none
+      
+      # Optional: If you need to skip SSL verification (not recommended for production)
+      # ELASTICSEARCH_SSL_VERIFICATIONMODE: "none"
+      
+      # Server settings
+      SERVER_NAME: "kibana"
+      SERVER_HOST: "0.0.0.0"
+      
+    volumes:
+      # Optional: Persist Kibana data
+      - kibana_data:/usr/share/kibana/data
+    
+    restart: unless-stopped
+    
+    # Optional: Add network configuration if needed
+    # networks:
+    #   - elastic
+
+volumes:
+  kibana_data:
+    driver: local
+
+# Optional: Define networks
+# networks:
+#   elastic:
+#     driver: bridge

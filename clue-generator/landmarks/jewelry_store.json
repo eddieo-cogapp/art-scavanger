@@ -1,0 +1,542 @@
+[
+  {
+    "name": "Swarovski Brighton",
+    "type": "jewelry_store",
+    "lat": 50.8230556,
+    "lon": -0.1461111,
+    "address": "42, Churchill Square Shopping Centre, Russell Road, Brighton",
+    "rating": 3.9,
+    "side": "central-west"
+  },
+  {
+    "name": "Lighthouse Tattoo & Piercing",
+    "type": "jewelry_store",
+    "lat": 50.8245569,
+    "lon": -0.1431918,
+    "address": "7 Queens Road, Brighton",
+    "rating": 4.7,
+    "side": "central-central"
+  },
+  {
+    "name": "Planet India",
+    "type": "jewelry_store",
+    "lat": 50.8271279,
+    "lon": -0.1336715,
+    "address": "4 Richmond Parade, Brighton",
+    "rating": 4.7,
+    "side": "north-east"
+  },
+  {
+    "name": "The Wishing Well",
+    "type": "jewelry_store",
+    "lat": 50.831643,
+    "lon": -0.1360497,
+    "address": "46 Baker Street, Brighton",
+    "rating": 4,
+    "side": "north-central"
+  },
+  {
+    "name": "Ernest Jones",
+    "type": "jewelry_store",
+    "lat": 50.8232273,
+    "lon": -0.1464948,
+    "address": "Unit 26-27, Churchill Square, Brighton",
+    "rating": 4.4,
+    "side": "central-west"
+  },
+  {
+    "name": "RING Jewellers",
+    "type": "jewelry_store",
+    "lat": 50.8221791,
+    "lon": -0.1408248,
+    "address": "21 Meeting House Lane, Brighton",
+    "rating": 5,
+    "side": "central-central"
+  },
+  {
+    "name": "H. Samuel",
+    "type": "jewelry_store",
+    "lat": 50.82281210000001,
+    "lon": -0.1457158,
+    "address": "44/45, Churchill Square, Brighton",
+    "rating": 4.8,
+    "side": "central-west"
+  },
+  {
+    "name": "Posh Totty Designs",
+    "type": "jewelry_store",
+    "lat": 50.8276809,
+    "lon": -0.1376253,
+    "address": "31 Sydney Street, Brighton",
+    "rating": 4.5,
+    "side": "north-central"
+  },
+  {
+    "name": "The Red Gecko",
+    "type": "jewelry_store",
+    "lat": 50.8203883,
+    "lon": -0.1393015,
+    "address": "13 East Street, Brighton",
+    "rating": 4.7,
+    "side": "south-central"
+  },
+  {
+    "name": "Ocean Jewellers",
+    "type": "jewelry_store",
+    "lat": 50.821976,
+    "lon": -0.140865,
+    "address": "1 Meeting House Lane, Brighton and Hove, Brighton",
+    "rating": 4.9,
+    "side": "central-central"
+  },
+  {
+    "name": "Orelia",
+    "type": "jewelry_store",
+    "lat": 50.8210618,
+    "lon": -0.1408305,
+    "address": "5 Prince Albert Street, Brighton",
+    "rating": 4.3,
+    "side": "central-central"
+  },
+  {
+    "name": "BP Jewellery",
+    "type": "jewelry_store",
+    "lat": 50.8243276,
+    "lon": -0.1433106,
+    "address": "3 Queens Road, Brighton",
+    "rating": 4.6,
+    "side": "central-central"
+  },
+  {
+    "name": "Lambton's Jewellers",
+    "type": "jewelry_store",
+    "lat": 50.8219982,
+    "lon": -0.1408464,
+    "address": "2 Meeting House Lane, Brighton",
+    "rating": 5,
+    "side": "central-central"
+  },
+  {
+    "name": "HPJ Jewellers",
+    "type": "jewelry_store",
+    "lat": 50.8239403,
+    "lon": -0.1480881,
+    "address": "54 Western Road, Brighton",
+    "rating": null,
+    "side": "central-west"
+  },
+  {
+    "name": "Classic Jewellery",
+    "type": "jewelry_store",
+    "lat": 50.8216165,
+    "lon": -0.1402821,
+    "address": "6 Brighton Place, Brighton",
+    "rating": 4.9,
+    "side": "central-central"
+  },
+  {
+    "name": "Jojo",
+    "type": "jewelry_store",
+    "lat": 50.8259837,
+    "lon": -0.1388945,
+    "address": "4A Kensington Gardens, Brighton",
+    "rating": 4,
+    "side": "central-central"
+  },
+  {
+    "name": "Midas Touch",
+    "type": "jewelry_store",
+    "lat": 50.82213120000001,
+    "lon": -0.1407364,
+    "address": "11 Meeting House Lane, Brighton",
+    "rating": 4.9,
+    "side": "central-central"
+  },
+  {
+    "name": "Camelot Jewellery",
+    "type": "jewelry_store",
+    "lat": 50.822077,
+    "lon": -0.1408189,
+    "address": "25 Meeting House Lane, Brighton",
+    "rating": 5,
+    "side": "central-central"
+  },
+  {
+    "name": "Baxter & Hanks Fine Jewellery",
+    "type": "jewelry_store",
+    "lat": 50.82218599999999,
+    "lon": -0.141281,
+    "address": "1 Union Street, Brighton",
+    "rating": 4.9,
+    "side": "central-central"
+  },
+  {
+    "name": "Amanda Doughty Jewellery",
+    "type": "jewelry_store",
+    "lat": 50.82893499999999,
+    "lon": -0.1337317,
+    "address": "Phoenix, Brighton",
+    "rating": 5,
+    "side": "north-east"
+  },
+  {
+    "name": "M&C Stevens ltd",
+    "type": "jewelry_store",
+    "lat": 50.8321827,
+    "lon": -0.1385348,
+    "address": "New England House, New England Street, Brighton",
+    "rating": 5,
+    "side": "north-central"
+  },
+  {
+    "name": "Kodega Ltd.",
+    "type": "jewelry_store",
+    "lat": 50.8321501,
+    "lon": -0.1391235,
+    "address": "New England House, New England Street, Brighton",
+    "rating": 3,
+    "side": "north-central"
+  },
+  {
+    "name": "Posh Totty Designs Head Office",
+    "type": "jewelry_store",
+    "lat": 50.82269549999999,
+    "lon": -0.1396641,
+    "address": "33 New Road, Brighton",
+    "rating": 3.3,
+    "side": "central-central"
+  },
+  {
+    "name": "GA Jewellers, Pawnbrokers & Watchmakers Brighton Lanes",
+    "type": "jewelry_store",
+    "lat": 50.82166309999999,
+    "lon": -0.1401683,
+    "address": "8 Brighton Place, Brighton",
+    "rating": 5,
+    "side": "central-central"
+  },
+  {
+    "name": "Gold Arts Jewellers Brighton Lanes",
+    "type": "jewelry_store",
+    "lat": 50.8216763,
+    "lon": -0.1402335,
+    "address": "7 Brighton Place, Brighton",
+    "rating": 4.9,
+    "side": "central-central"
+  },
+  {
+    "name": "FAIR",
+    "type": "jewelry_store",
+    "lat": 50.82251780000001,
+    "lon": -0.1404785,
+    "address": "5 Hanningtons Lane, Brighton",
+    "rating": 5,
+    "side": "central-central"
+  },
+  {
+    "name": "M&C Jewellery Ltd",
+    "type": "jewelry_store",
+    "lat": 50.8216165,
+    "lon": -0.1402821,
+    "address": "6 Brighton Place, Brighton",
+    "rating": null,
+    "side": "central-central"
+  },
+  {
+    "name": "Venus Diamond",
+    "type": "jewelry_store",
+    "lat": 50.8219614,
+    "lon": -0.1407231,
+    "address": "27 Meeting House Lane, Brighton",
+    "rating": 5,
+    "side": "central-central"
+  },
+  {
+    "name": "Safir Goldsmith",
+    "type": "jewelry_store",
+    "lat": 50.8217539,
+    "lon": -0.140869,
+    "address": "50-52 Meeting House Lane, Brighton",
+    "rating": 4.3,
+    "side": "central-central"
+  },
+  {
+    "name": "DOWSE",
+    "type": "jewelry_store",
+    "lat": 50.8252616,
+    "lon": -0.1391827,
+    "address": "37 Gardner Street, Brighton",
+    "rating": 4.8,
+    "side": "central-central"
+  },
+  {
+    "name": "Guru Piercing",
+    "type": "jewelry_store",
+    "lat": 50.82597070000001,
+    "lon": -0.1388402,
+    "address": "4 Kensington Gardens, Brighton",
+    "rating": 4.9,
+    "side": "central-central"
+  },
+  {
+    "name": "Brighton Silver",
+    "type": "jewelry_store",
+    "lat": 50.82643909999999,
+    "lon": -0.1387071,
+    "address": "9 Kensington Gardens, Brighton",
+    "rating": 4.7,
+    "side": "central-central"
+  },
+  {
+    "name": "Claire's",
+    "type": "jewelry_store",
+    "lat": 50.822623,
+    "lon": -0.1455925,
+    "address": "Churchill Square Shopping Centre, Unit 24 Upper Mall Level, Brighton",
+    "rating": 3.7,
+    "side": "central-west"
+  },
+  {
+    "name": "Lovisa",
+    "type": "jewelry_store",
+    "lat": 50.82277999999999,
+    "lon": -0.1457977,
+    "address": "Churchill Square, Brighton",
+    "rating": 3.3,
+    "side": "central-west"
+  },
+  {
+    "name": "P A Gold",
+    "type": "jewelry_store",
+    "lat": 50.8283575,
+    "lon": -0.141003,
+    "address": "International House, Queens Road, Brighton",
+    "rating": null,
+    "side": "north-central"
+  },
+  {
+    "name": "Cash Converters",
+    "type": "jewelry_store",
+    "lat": 50.8306751,
+    "lon": -0.1362415,
+    "address": "18 London Road, Brighton",
+    "rating": 4.6,
+    "side": "north-central"
+  },
+  {
+    "name": "Missy T Rocks Handmade Jewellery",
+    "type": "jewelry_store",
+    "lat": 50.8283832,
+    "lon": -0.1279694,
+    "address": "77 Islingword Street, Brighton",
+    "rating": 5,
+    "side": "north-east"
+  },
+  {
+    "name": "Watches & Coins",
+    "type": "jewelry_store",
+    "lat": 50.83083310000001,
+    "lon": -0.1349921,
+    "address": "29 Oxford Street, Brighton",
+    "rating": 5,
+    "side": "north-east"
+  },
+  {
+    "name": "Sarah Packington acrylic jewellery",
+    "type": "jewelry_store",
+    "lat": 50.8326861,
+    "lon": -0.1331578,
+    "address": "Rose Hill Workshop, 13A Rose Hill, Brighton",
+    "rating": 5,
+    "side": "north-east"
+  },
+  {
+    "name": "Sarah Burnham Jewellery",
+    "type": "jewelry_store",
+    "lat": 50.8327091,
+    "lon": -0.1332159,
+    "address": "13A Rose Hill, Brighton",
+    "rating": null,
+    "side": "north-east"
+  },
+  {
+    "name": "Naomi James",
+    "type": "jewelry_store",
+    "lat": 50.8327112,
+    "lon": -0.1331936,
+    "address": "Rosehill Workshop, 13A Rose Hill, Brighton",
+    "rating": 5,
+    "side": "north-east"
+  },
+  {
+    "name": "Mainlysilver",
+    "type": "jewelry_store",
+    "lat": 50.83322039999999,
+    "lon": -0.1344624,
+    "address": "Suite 17, Citibase, 95 Ditchling Road, Brighton",
+    "rating": 4.5,
+    "side": "north-east"
+  },
+  {
+    "name": "Stef Warde Jewellery",
+    "type": "jewelry_store",
+    "lat": 50.8362618,
+    "lon": -0.1403475,
+    "address": "79 Beaconsfield Road, Brighton",
+    "rating": 5,
+    "side": "north-central"
+  },
+  {
+    "name": "Alice Eden Jewellery",
+    "type": "jewelry_store",
+    "lat": 50.83637170000001,
+    "lon": -0.1311465,
+    "address": "23 Crescent Road, Brighton",
+    "rating": 5,
+    "side": "north-east"
+  },
+  {
+    "name": "Creative Fabrications, Prop maker, Special effects, Props, model maker, Metalwork and Jeweller",
+    "type": "jewelry_store",
+    "lat": 50.8261869,
+    "lon": -0.1595598,
+    "address": "Lansdowne Mews, Farm Road, Brighton",
+    "rating": 4.9,
+    "side": "central-west"
+  },
+  {
+    "name": "Hove Antiques Gallery",
+    "type": "jewelry_store",
+    "lat": 50.8268005,
+    "lon": -0.1618627,
+    "address": "34 Holland Road, Hove",
+    "rating": 5,
+    "side": "central-west"
+  },
+  {
+    "name": "Claire's",
+    "type": "jewelry_store",
+    "lat": 50.82956970000001,
+    "lon": -0.173598,
+    "address": "Claire's, 279 George Street, Hove",
+    "rating": 4.6,
+    "side": "north-west"
+  },
+  {
+    "name": "Brighton Western Road Sainsbury's (Argos Collection Point)",
+    "type": "jewelry_store",
+    "lat": 50.824879,
+    "lon": -0.150276,
+    "address": "147-148 Western Road, Brighton",
+    "rating": 3.5,
+    "side": "central-west"
+  },
+  {
+    "name": "Gold Arts",
+    "type": "jewelry_store",
+    "lat": 50.828443,
+    "lon": -0.1742178,
+    "address": "102 George Street, Hove",
+    "rating": 4.9,
+    "side": "north-west"
+  },
+  {
+    "name": "Lovethatstuff Fair Trade",
+    "type": "jewelry_store",
+    "lat": 50.8125463,
+    "lon": -0.1021588,
+    "address": "First Floor, Marina, 8 The Waterfront, Brighton",
+    "rating": 4.4,
+    "side": "south-east"
+  },
+  {
+    "name": "Jeremy Hoye Jewellery",
+    "type": "jewelry_store",
+    "lat": 50.8272813,
+    "lon": -0.1405716,
+    "address": "83 Gloucester Road, Brighton",
+    "rating": 5,
+    "side": "north-central"
+  },
+  {
+    "name": "Baroque Bespoke Jewellery",
+    "type": "jewelry_store",
+    "lat": 50.8223013,
+    "lon": -0.1413644,
+    "address": "9-10 Union Street, Brighton",
+    "rating": 5,
+    "side": "central-central"
+  },
+  {
+    "name": "French Connection",
+    "type": "jewelry_store",
+    "lat": 50.8211045,
+    "lon": -0.1389735,
+    "address": "55 East Street, Brighton",
+    "rating": 3.9,
+    "side": "central-central"
+  },
+  {
+    "name": "Fidra Jewellers",
+    "type": "jewelry_store",
+    "lat": 50.82173679999999,
+    "lon": -0.1406584,
+    "address": "47 Meeting House Lane, Brighton",
+    "rating": 4.8,
+    "side": "central-central"
+  },
+  {
+    "name": "Newmans Jewellers",
+    "type": "jewelry_store",
+    "lat": 50.8216447,
+    "lon": -0.1401969,
+    "address": "39/40 Meeting House Lane, Brighton",
+    "rating": 4.6,
+    "side": "central-central"
+  },
+  {
+    "name": "Pandora",
+    "type": "jewelry_store",
+    "lat": 50.82276410000001,
+    "lon": -0.1455196,
+    "address": "63 Churchill Square, Russell Place, Brighton",
+    "rating": 4.3,
+    "side": "central-west"
+  },
+  {
+    "name": "Millar Jewellery",
+    "type": "jewelry_store",
+    "lat": 50.83003,
+    "lon": -0.1762376,
+    "address": "28 Stirling Place, Hove",
+    "rating": null,
+    "side": "north-west"
+  },
+  {
+    "name": "Julian Stephens Goldsmith",
+    "type": "jewelry_store",
+    "lat": 50.8269807,
+    "lon": -0.1396213,
+    "address": "37 Gloucester Road, Brighton",
+    "rating": 4.9,
+    "side": "central-central"
+  },
+  {
+    "name": "Gold Coast Jewellers Ltd",
+    "type": "jewelry_store",
+    "lat": 50.82177429999999,
+    "lon": -0.1405451,
+    "address": "1 Brighton Square, Brighton",
+    "rating": 4.7,
+    "side": "central-central"
+  },
+  {
+    "name": "Blackout",
+    "type": "jewelry_store",
+    "lat": 50.8271408,
+    "lon": -0.1390239,
+    "address": "53 Kensington Place, Brighton",
+    "rating": 4.9,
+    "side": "north-central"
+  }
+]

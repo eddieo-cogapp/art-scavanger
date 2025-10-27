@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Brighton",
+    "type": "train_station",
+    "lat": 50.8288519,
+    "lon": -0.1410151,
+    "address": "Queens Road, Brighton",
+    "rating": 4.2,
+    "side": "north-central"
+  },
+  {
+    "name": "Moulsecoomb",
+    "type": "train_station",
+    "lat": 50.8464825,
+    "lon": -0.1189532,
+    "address": "Queensdown School Road, Brighton",
+    "rating": 4.2,
+    "side": "north-east"
+  },
+  {
+    "name": "London Road",
+    "type": "train_station",
+    "lat": 50.8366977,
+    "lon": -0.1364373,
+    "address": "Shaftesbury Place, Brighton",
+    "rating": 3.7,
+    "side": "north-central"
+  },
+  {
+    "name": "Hove",
+    "type": "train_station",
+    "lat": 50.83509139999999,
+    "lon": -0.1710406,
+    "address": "Goldstone Villas, Hove",
+    "rating": 3.9,
+    "side": "north-west"
+  },
+  {
+    "name": "Preston Park",
+    "type": "train_station",
+    "lat": 50.8459931,
+    "lon": -0.1550507,
+    "address": "United Kingdom",
+    "rating": 3.6,
+    "side": "north-west"
+  }
+]

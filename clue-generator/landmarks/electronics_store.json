@@ -1,0 +1,542 @@
+[
+  {
+    "name": "Halfords - Brighton",
+    "type": "electronics_store",
+    "lat": 50.8408492,
+    "lon": -0.1226744,
+    "address": "The Pavilion Centre, Lewes Road, Brighton",
+    "rating": 4.3,
+    "side": "north-east"
+  },
+  {
+    "name": "Apple Churchill Square",
+    "type": "electronics_store",
+    "lat": 50.822238,
+    "lon": -0.1456064,
+    "address": "Upper Mall, Churchill Square, Brighton",
+    "rating": 3.6,
+    "side": "central-west"
+  },
+  {
+    "name": "CeX",
+    "type": "electronics_store",
+    "lat": 50.8247569,
+    "lon": -0.1505481,
+    "address": "144 Western Road, Brighton",
+    "rating": 4.1,
+    "side": "central-west"
+  },
+  {
+    "name": "Diamond Computers",
+    "type": "electronics_store",
+    "lat": 50.833631,
+    "lon": -0.140917,
+    "address": "36 New England Road, Brighton",
+    "rating": 4.8,
+    "side": "north-central"
+  },
+  {
+    "name": "Clocktower Cameras",
+    "type": "electronics_store",
+    "lat": 50.8248618,
+    "lon": -0.1423101,
+    "address": "32 Church Street, Brighton",
+    "rating": 4.7,
+    "side": "central-central"
+  },
+  {
+    "name": "Richer Sounds, Brighton",
+    "type": "electronics_store",
+    "lat": 50.8324389,
+    "lon": -0.1376895,
+    "address": "54 London Road, Brighton",
+    "rating": 4.7,
+    "side": "north-central"
+  },
+  {
+    "name": "Business Computer Resources Ltd",
+    "type": "electronics_store",
+    "lat": 50.8356437,
+    "lon": -0.1429465,
+    "address": "1B Dyke Road Drive, Brighton",
+    "rating": 5,
+    "side": "north-central"
+  },
+  {
+    "name": "Fixio",
+    "type": "electronics_store",
+    "lat": 50.8274183,
+    "lon": -0.1278545,
+    "address": "46 Quebec Street, Brighton",
+    "rating": 4.9,
+    "side": "north-east"
+  },
+  {
+    "name": "Boots",
+    "type": "electronics_store",
+    "lat": 50.8237937,
+    "lon": -0.143092,
+    "address": "129 North Street, Brighton",
+    "rating": 4.1,
+    "side": "central-central"
+  },
+  {
+    "name": "King of GSM",
+    "type": "electronics_store",
+    "lat": 50.8230885,
+    "lon": -0.1513683,
+    "address": "21 Preston Street, Brighton",
+    "rating": 3.4,
+    "side": "central-west"
+  },
+  {
+    "name": "Extended Play Productions",
+    "type": "electronics_store",
+    "lat": 50.8315916,
+    "lon": -0.1386645,
+    "address": "New England Street, Brighton",
+    "rating": null,
+    "side": "north-central"
+  },
+  {
+    "name": "Coast Networks Ltd - IT Support",
+    "type": "electronics_store",
+    "lat": 50.8175044,
+    "lon": -0.1178918,
+    "address": "72B Saint George's Road, Brighton",
+    "rating": 2,
+    "side": "south-east"
+  },
+  {
+    "name": "Brightscape Solutions Ltd",
+    "type": "electronics_store",
+    "lat": 50.82282790000001,
+    "lon": -0.1442035,
+    "address": "33 West Street, Brighton",
+    "rating": null,
+    "side": "central-central"
+  },
+  {
+    "name": "Brighton I.T.",
+    "type": "electronics_store",
+    "lat": 50.82021890000001,
+    "lon": -0.1364399,
+    "address": "31 Old Steine, Brighton",
+    "rating": null,
+    "side": "south-central"
+  },
+  {
+    "name": "Impact Screen Solutions",
+    "type": "electronics_store",
+    "lat": 50.8268364,
+    "lon": -0.1571731,
+    "address": "29 Cambridge Road, Hove",
+    "rating": 5,
+    "side": "central-west"
+  },
+  {
+    "name": "Paxport Limited",
+    "type": "electronics_store",
+    "lat": 50.8242685,
+    "lon": -0.1372051,
+    "address": "10 Marlborough Place, Brighton",
+    "rating": null,
+    "side": "central-central"
+  },
+  {
+    "name": "USBthingy",
+    "type": "electronics_store",
+    "lat": 50.8295189,
+    "lon": -0.1304773,
+    "address": "55 Hanover Terrace, Brighton",
+    "rating": 5,
+    "side": "north-east"
+  },
+  {
+    "name": "Aniseed Media Design",
+    "type": "electronics_store",
+    "lat": 50.8304564,
+    "lon": -0.1453266,
+    "address": "39 Compton Avenue, Brighton",
+    "rating": null,
+    "side": "north-west"
+  },
+  {
+    "name": "Kineo Open Source",
+    "type": "electronics_store",
+    "lat": 50.8251799,
+    "lon": -0.1396153,
+    "address": "7 Orange Row, Brighton",
+    "rating": null,
+    "side": "central-central"
+  },
+  {
+    "name": "Debugg-IT",
+    "type": "electronics_store",
+    "lat": 50.83595239999999,
+    "lon": -0.1374298,
+    "address": "Ditchling Rise, Brighton",
+    "rating": null,
+    "side": "north-central"
+  },
+  {
+    "name": "Future Information Technology Systems",
+    "type": "electronics_store",
+    "lat": 50.8358005,
+    "lon": -0.1241785,
+    "address": "The Lion Building, Crowhurst Road, Brighton",
+    "rating": null,
+    "side": "north-east"
+  },
+  {
+    "name": "Classicalfakebooks",
+    "type": "electronics_store",
+    "lat": 50.822796,
+    "lon": -0.1395159,
+    "address": "30 New Road, Brighton and Hove, Brighton",
+    "rating": null,
+    "side": "central-central"
+  },
+  {
+    "name": "VIVAT Online",
+    "type": "electronics_store",
+    "lat": 50.821349,
+    "lon": -0.1406255,
+    "address": "Nile House, Nile Street, Brighton",
+    "rating": null,
+    "side": "central-central"
+  },
+  {
+    "name": "Odyssey Devere",
+    "type": "electronics_store",
+    "lat": 50.82190500000001,
+    "lon": -0.1324271,
+    "address": "1 Dorset Place, Brighton",
+    "rating": null,
+    "side": "central-east"
+  },
+  {
+    "name": "QuickFix Repair Centre",
+    "type": "electronics_store",
+    "lat": 50.82074550000001,
+    "lon": -0.1330475,
+    "address": "34 Saint James's Street, Brighton",
+    "rating": 4.7,
+    "side": "south-east"
+  },
+  {
+    "name": "Photomatic",
+    "type": "electronics_store",
+    "lat": 50.825295,
+    "lon": -0.1395106,
+    "address": "22 Gardner Street, Brighton",
+    "rating": 4.9,
+    "side": "central-central"
+  },
+  {
+    "name": "FurnitureBOXX",
+    "type": "electronics_store",
+    "lat": 50.82031269999999,
+    "lon": -0.1324117,
+    "address": "Concorde House, 18 Margaret Street, Brighton",
+    "rating": null,
+    "side": "south-east"
+  },
+  {
+    "name": "i-Repair IT",
+    "type": "electronics_store",
+    "lat": 50.8248089,
+    "lon": -0.1427915,
+    "address": "122 Queens Road, Brighton",
+    "rating": 4.7,
+    "side": "central-central"
+  },
+  {
+    "name": "Hardware Communication Ltd",
+    "type": "electronics_store",
+    "lat": 50.82978000000001,
+    "lon": -0.135645,
+    "address": "141 London Road, Brighton",
+    "rating": 4.7,
+    "side": "north-central"
+  },
+  {
+    "name": "Not Just PCs",
+    "type": "electronics_store",
+    "lat": 50.8287773,
+    "lon": -0.1437633,
+    "address": "18 Guildford Road, Brighton",
+    "rating": 5,
+    "side": "north-central"
+  },
+  {
+    "name": "The Village Geek",
+    "type": "electronics_store",
+    "lat": 50.82458579999999,
+    "lon": -0.1516791,
+    "address": "91 Western Road, Brighton",
+    "rating": null,
+    "side": "central-west"
+  },
+  {
+    "name": "Penguin Media Solutions",
+    "type": "electronics_store",
+    "lat": 50.8320145,
+    "lon": -0.1377053,
+    "address": "35 Providence Place, Brighton",
+    "rating": 5,
+    "side": "north-central"
+  },
+  {
+    "name": "iEiShop",
+    "type": "electronics_store",
+    "lat": 50.8379635,
+    "lon": -0.1274167,
+    "address": "11, Centenary Industrial Estate, Unit 2A Hughes Road, Brighton",
+    "rating": null,
+    "side": "north-east"
+  },
+  {
+    "name": "Deadbeat Design",
+    "type": "electronics_store",
+    "lat": 50.8395608,
+    "lon": -0.1334269,
+    "address": "2 Upper Hollingdean Road, Brighton",
+    "rating": null,
+    "side": "north-east"
+  },
+  {
+    "name": "Audio Note UK Ltd",
+    "type": "electronics_store",
+    "lat": 50.8319055,
+    "lon": -0.1549195,
+    "address": "25 Montefiore Road, Hove",
+    "rating": 4,
+    "side": "north-west"
+  },
+  {
+    "name": "Sussex Event Hire",
+    "type": "electronics_store",
+    "lat": 50.8401351,
+    "lon": -0.1216099,
+    "address": "2-16 Coombe Road, Brighton",
+    "rating": null,
+    "side": "north-east"
+  },
+  {
+    "name": "CGTech",
+    "type": "electronics_store",
+    "lat": 50.8274129,
+    "lon": -0.1703582,
+    "address": "Curtis House, 34 Third Avenue, Hove",
+    "rating": null,
+    "side": "north-west"
+  },
+  {
+    "name": "Brighton Western Road Sainsbury's (Argos Collection Point)",
+    "type": "electronics_store",
+    "lat": 50.824879,
+    "lon": -0.150276,
+    "address": "147-148 Western Road, Brighton",
+    "rating": 3.5,
+    "side": "central-west"
+  },
+  {
+    "name": "3D VR",
+    "type": "electronics_store",
+    "lat": 50.8292838,
+    "lon": -0.1716278,
+    "address": "33 Hova Villas, Hove",
+    "rating": null,
+    "side": "north-west"
+  },
+  {
+    "name": "E-TECH ZONE-Best Mobile,iPhone,iPad PC Laptop Extensive Mac Repair & Data Recovery Solution Brighton",
+    "type": "electronics_store",
+    "lat": 50.82819509999999,
+    "lon": -0.1412227,
+    "address": "Albert House, 82 Queens Road, Brighton",
+    "rating": 4.8,
+    "side": "north-central"
+  },
+  {
+    "name": "CeX",
+    "type": "electronics_store",
+    "lat": 50.8301439,
+    "lon": -0.1734408,
+    "address": "71 George Street, Hove",
+    "rating": 4.2,
+    "side": "north-west"
+  },
+  {
+    "name": "Car Audio Repairs",
+    "type": "electronics_store",
+    "lat": 50.8338225,
+    "lon": -0.1716527,
+    "address": "66 Goldstone Villas, Hove",
+    "rating": 4.4,
+    "side": "north-west"
+  },
+  {
+    "name": "hmv",
+    "type": "electronics_store",
+    "lat": 50.8228634,
+    "lon": -0.145598,
+    "address": "Unit MSU1A, Churchill Square Shopping Centre, Lower Mall, Brighton",
+    "rating": 4.3,
+    "side": "central-west"
+  },
+  {
+    "name": "Laptop Supermarket Brighton",
+    "type": "electronics_store",
+    "lat": 50.8248215,
+    "lon": -0.1427705,
+    "address": "122 Queens Road, Brighton",
+    "rating": 4.5,
+    "side": "central-central"
+  },
+  {
+    "name": "Southern Technology Brighton Laptop Repairs",
+    "type": "electronics_store",
+    "lat": 50.8316291,
+    "lon": -0.1756674,
+    "address": "43 Blatchington Road, Hove",
+    "rating": 4.4,
+    "side": "north-west"
+  },
+  {
+    "name": "Frame Factory",
+    "type": "electronics_store",
+    "lat": 50.827293,
+    "lon": -0.138058,
+    "address": "7 Sydney Street, Brighton",
+    "rating": 4.8,
+    "side": "north-central"
+  },
+  {
+    "name": "King of GSM",
+    "type": "electronics_store",
+    "lat": 50.8209876,
+    "lon": -0.1347804,
+    "address": "15 Saint James's Street, Brighton",
+    "rating": 3.6,
+    "side": "south-east"
+  },
+  {
+    "name": "Cash Generator Brighton | The Buy and Sell Store",
+    "type": "electronics_store",
+    "lat": 50.83275030000001,
+    "lon": -0.1381009,
+    "address": "59 London Road, Brighton",
+    "rating": 3.9,
+    "side": "north-central"
+  },
+  {
+    "name": "CARTERS Domestic Appliances Brighton",
+    "type": "electronics_store",
+    "lat": 50.83417939999999,
+    "lon": -0.1400284,
+    "address": "19-29 Preston Road, Brighton",
+    "rating": 4.3,
+    "side": "north-central"
+  },
+  {
+    "name": "LFX Computer Repair",
+    "type": "electronics_store",
+    "lat": 50.8316695,
+    "lon": -0.1291244,
+    "address": "Business connection, The, 145 Islingword Road, Brighton",
+    "rating": 4.8,
+    "side": "north-east"
+  },
+  {
+    "name": "Dynamique Audio Ltd",
+    "type": "electronics_store",
+    "lat": 50.8315602,
+    "lon": -0.1767039,
+    "address": "16 Blatchington Road, Hove",
+    "rating": null,
+    "side": "north-west"
+  },
+  {
+    "name": "Street Sounds",
+    "type": "electronics_store",
+    "lat": 50.8338109,
+    "lon": -0.1715864,
+    "address": "66 Goldstone Villas, Hove",
+    "rating": 4.4,
+    "side": "north-west"
+  },
+  {
+    "name": "Boots",
+    "type": "electronics_store",
+    "lat": 50.8306414,
+    "lon": -0.1732522,
+    "address": "59-61 George Street, Hove",
+    "rating": 3.6,
+    "side": "north-west"
+  },
+  {
+    "name": "Audio T Brighton",
+    "type": "electronics_store",
+    "lat": 50.83316910000001,
+    "lon": -0.1387522,
+    "address": "69 London Road, Brighton",
+    "rating": 4.9,
+    "side": "north-central"
+  },
+  {
+    "name": "Global Links",
+    "type": "electronics_store",
+    "lat": 50.8245464,
+    "lon": -0.1499603,
+    "address": "154 Western Road, Brighton",
+    "rating": 4.6,
+    "side": "central-west"
+  },
+  {
+    "name": "Print-by-Post",
+    "type": "electronics_store",
+    "lat": 50.827293,
+    "lon": -0.1380582,
+    "address": "7 Sydney Street, Brighton",
+    "rating": null,
+    "side": "north-central"
+  },
+  {
+    "name": "YouAreArt",
+    "type": "electronics_store",
+    "lat": 50.820995,
+    "lon": -0.1396099,
+    "address": "Top Floor, 5 Bartholemews, 5 Bartholomews, Brighton",
+    "rating": 5,
+    "side": "south-central"
+  },
+  {
+    "name": "Brighton Old Steine Sainsbury's (Argos Collection Point)",
+    "type": "electronics_store",
+    "lat": 50.8212,
+    "lon": -0.136422,
+    "address": "13-15 Old Steine, Brighton",
+    "rating": 1.4,
+    "side": "central-central"
+  },
+  {
+    "name": "Get Digital Toolz",
+    "type": "electronics_store",
+    "lat": 50.8214149,
+    "lon": -0.1391543,
+    "address": "36 East Street, Brighton",
+    "rating": null,
+    "side": "central-central"
+  },
+  {
+    "name": "De Vere",
+    "type": "electronics_store",
+    "lat": 50.8216776,
+    "lon": -0.1324192,
+    "address": "123 Saint James's Street, Brighton",
+    "rating": 5,
+    "side": "central-east"
+  }
+]

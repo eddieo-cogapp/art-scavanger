@@ -1,0 +1,542 @@
+[
+  {
+    "name": "Infinity Foods",
+    "type": "bakery",
+    "lat": 50.8256056,
+    "lon": -0.1390912,
+    "address": "25 North Road, Brighton",
+    "rating": 4.6,
+    "side": "central-central"
+  },
+  {
+    "name": "Sainsbury's",
+    "type": "bakery",
+    "lat": 50.8305488,
+    "lon": -0.1381704,
+    "address": "27 New England Street, Brighton",
+    "rating": 4.1,
+    "side": "north-central"
+  },
+  {
+    "name": "Sainsbury's",
+    "type": "bakery",
+    "lat": 50.83708960000001,
+    "lon": -0.1257162,
+    "address": "93 Lewes Road, Brighton",
+    "rating": 4,
+    "side": "north-east"
+  },
+  {
+    "name": "Waitrose & Partners",
+    "type": "bakery",
+    "lat": 50.825028,
+    "lon": -0.1519909,
+    "address": "130-134 Western Road, Brighton",
+    "rating": 4.2,
+    "side": "central-west"
+  },
+  {
+    "name": "Millies Cookie's Brighton Churchill Square Shopping Centre",
+    "type": "bakery",
+    "lat": 50.8234078,
+    "lon": -0.1464361,
+    "address": "45 Russell Place, Brighton",
+    "rating": 4.9,
+    "side": "central-west"
+  },
+  {
+    "name": "Greggs",
+    "type": "bakery",
+    "lat": 50.8232444,
+    "lon": -0.1408097,
+    "address": "150 North Street, Brighton",
+    "rating": 4.1,
+    "side": "central-central"
+  },
+  {
+    "name": "Très – The Artisan Baking Society",
+    "type": "bakery",
+    "lat": 50.8234226,
+    "lon": -0.1401623,
+    "address": "38 Bond Street, Brighton",
+    "rating": null,
+    "side": "central-central"
+  },
+  {
+    "name": "Pret A Manger",
+    "type": "bakery",
+    "lat": 50.8216765,
+    "lon": -0.1389726,
+    "address": "42 East Street, Brighton",
+    "rating": 4.1,
+    "side": "central-central"
+  },
+  {
+    "name": "That Little Tea Shop in the Lanes",
+    "type": "bakery",
+    "lat": 50.8223902,
+    "lon": -0.1405618,
+    "address": "17 Meeting House Lane, Brighton",
+    "rating": 4.4,
+    "side": "central-central"
+  },
+  {
+    "name": "Cornish Pasty Shop",
+    "type": "bakery",
+    "lat": 50.8253802,
+    "lon": -0.1395003,
+    "address": "24 Gardner Street, Brighton",
+    "rating": 4.5,
+    "side": "central-central"
+  },
+  {
+    "name": "Marks & Spencer",
+    "type": "bakery",
+    "lat": 50.8240322,
+    "lon": -0.1457519,
+    "address": "195 Western Road, Brighton",
+    "rating": 4.2,
+    "side": "central-west"
+  },
+  {
+    "name": "Wild Cherry Brighton",
+    "type": "bakery",
+    "lat": 50.8258975,
+    "lon": -0.1274698,
+    "address": "91 Queens Park Road, Brighton and Hove, Brighton",
+    "rating": 4.8,
+    "side": "central-east"
+  },
+  {
+    "name": "Nowhere Man",
+    "type": "bakery",
+    "lat": 50.8254324,
+    "lon": -0.1489144,
+    "address": "53 Upper North Street, Brighton",
+    "rating": 4.4,
+    "side": "central-west"
+  },
+  {
+    "name": "The Artisan Cakery - Coffee Shop",
+    "type": "bakery",
+    "lat": 50.81934009999999,
+    "lon": -0.1241457,
+    "address": "117 Saint George's Road, Brighton",
+    "rating": 4.6,
+    "side": "south-east"
+  },
+  {
+    "name": "Creams Cafe Brighton",
+    "type": "bakery",
+    "lat": 50.8245427,
+    "lon": -0.1510128,
+    "address": "86 Western Road, Brighton",
+    "rating": 4.6,
+    "side": "central-west"
+  },
+  {
+    "name": "The Flour Pot Bakery - Seven Dials",
+    "type": "bakery",
+    "lat": 50.8314979,
+    "lon": -0.1480383,
+    "address": "141 Dyke Road, Hove",
+    "rating": 4.4,
+    "side": "north-west"
+  },
+  {
+    "name": "The Flour Pot Bakery - Elm Grove",
+    "type": "bakery",
+    "lat": 50.83130560000001,
+    "lon": -0.1232493,
+    "address": "124 Elm Grove, Brighton",
+    "rating": 4.4,
+    "side": "north-east"
+  },
+  {
+    "name": "The Flour Pot Bakery - First Avenue",
+    "type": "bakery",
+    "lat": 50.8267831,
+    "lon": -0.1658963,
+    "address": "41 First Avenue, Hove",
+    "rating": 4.4,
+    "side": "central-west"
+  },
+  {
+    "name": "Angel Food Bakery",
+    "type": "bakery",
+    "lat": 50.8336402,
+    "lon": -0.1409743,
+    "address": "59 Argyle Road, Brighton",
+    "rating": 4.2,
+    "side": "north-central"
+  },
+  {
+    "name": "Doughnuts on the Pier",
+    "type": "bakery",
+    "lat": 50.8191877,
+    "lon": -0.1362501,
+    "address": "Madeira Drive, Brighton",
+    "rating": 3.9,
+    "side": "south-central"
+  },
+  {
+    "name": "Truffles",
+    "type": "bakery",
+    "lat": 50.829275,
+    "lon": -0.173489,
+    "address": "21 George Street, Hove",
+    "rating": 4.2,
+    "side": "north-west"
+  },
+  {
+    "name": "Real Patisserie Church Road",
+    "type": "bakery",
+    "lat": 50.8281806,
+    "lon": -0.1737273,
+    "address": "147 Church Road, Hove",
+    "rating": 4.5,
+    "side": "north-west"
+  },
+  {
+    "name": "Iceland Supermarket Hove - Brighton & Hove",
+    "type": "bakery",
+    "lat": 50.83107009999999,
+    "lon": -0.1747362,
+    "address": "54 Blatchington Road, Hove",
+    "rating": 4.2,
+    "side": "north-west"
+  },
+  {
+    "name": "GAIL's Bakery Hove",
+    "type": "bakery",
+    "lat": 50.828298,
+    "lon": -0.17429,
+    "address": "157 Church Road, Hove",
+    "rating": 4.2,
+    "side": "north-west"
+  },
+  {
+    "name": "Mercadinho - Brazilian Butcher & Grocery",
+    "type": "bakery",
+    "lat": 50.8281566,
+    "lon": -0.1751736,
+    "address": "158 Church Road, Hove",
+    "rating": 4.4,
+    "side": "north-west"
+  },
+  {
+    "name": "Open Bakery",
+    "type": "bakery",
+    "lat": 50.8186656,
+    "lon": -0.1214997,
+    "address": "34 Saint George's Road, Brighton",
+    "rating": 4.8,
+    "side": "south-east"
+  },
+  {
+    "name": "Julien Plumart",
+    "type": "bakery",
+    "lat": 50.82698269999999,
+    "lon": -0.1420967,
+    "address": "48 Queens Road, Brighton",
+    "rating": 4.6,
+    "side": "central-central"
+  },
+  {
+    "name": "Real Patisserie Trafalgar Street",
+    "type": "bakery",
+    "lat": 50.8283874,
+    "lon": -0.1399532,
+    "address": "43 Trafalgar Street, Brighton",
+    "rating": 4.4,
+    "side": "north-central"
+  },
+  {
+    "name": "Real Patisserie Western Road",
+    "type": "bakery",
+    "lat": 50.825433,
+    "lon": -0.157717,
+    "address": "25 Western Road, Hove",
+    "rating": 4.4,
+    "side": "central-west"
+  },
+  {
+    "name": "Greggs",
+    "type": "bakery",
+    "lat": 50.8312407,
+    "lon": -0.136131,
+    "address": "112 London Road, Brighton",
+    "rating": 4.1,
+    "side": "north-central"
+  },
+  {
+    "name": "Bagelman",
+    "type": "bakery",
+    "lat": 50.82348789999999,
+    "lon": -0.1403239,
+    "address": "7 Bond Street, Brighton",
+    "rating": 4.5,
+    "side": "central-central"
+  },
+  {
+    "name": "Pret A Manger",
+    "type": "bakery",
+    "lat": 50.8235962,
+    "lon": -0.1440408,
+    "address": "77 North Street, Brighton",
+    "rating": 4.1,
+    "side": "central-central"
+  },
+  {
+    "name": "Kemp Town Chippy",
+    "type": "bakery",
+    "lat": 50.817569,
+    "lon": -0.117993,
+    "address": "73 Saint George's Road, Brighton",
+    "rating": 3.2,
+    "side": "south-east"
+  },
+  {
+    "name": "Greggs",
+    "type": "bakery",
+    "lat": 50.8239949,
+    "lon": -0.1478499,
+    "address": "51 Western Road, Brighton",
+    "rating": 4.1,
+    "side": "central-west"
+  },
+  {
+    "name": "Hisc",
+    "type": "bakery",
+    "lat": 50.8229402,
+    "lon": -0.1362672,
+    "address": "Brighton and Hove, Brighton",
+    "rating": 5,
+    "side": "central-central"
+  },
+  {
+    "name": "Cornish Bake House",
+    "type": "bakery",
+    "lat": 50.8221929,
+    "lon": -0.1389328,
+    "address": "170 North Street, Brighton and Hove, Brighton",
+    "rating": 4.3,
+    "side": "central-central"
+  },
+  {
+    "name": "Vios Café",
+    "type": "bakery",
+    "lat": 50.8218137,
+    "lon": -0.140054,
+    "address": "21 Brighton Square, Brighton",
+    "rating": 4.8,
+    "side": "central-central"
+  },
+  {
+    "name": "Ben & Jerry’s",
+    "type": "bakery",
+    "lat": 50.8233,
+    "lon": -0.1401482,
+    "address": "41 Bond Street, Brighton",
+    "rating": 3.5,
+    "side": "central-central"
+  },
+  {
+    "name": "Puchi Puchi",
+    "type": "bakery",
+    "lat": 50.8218815,
+    "lon": -0.1404794,
+    "address": "4 Brighton Square, Brighton",
+    "rating": 5,
+    "side": "central-central"
+  },
+  {
+    "name": "Flint Owl Bakery",
+    "type": "bakery",
+    "lat": 50.82395,
+    "lon": -0.1398309,
+    "address": "24 Bond Street, Brighton",
+    "rating": 4.4,
+    "side": "central-central"
+  },
+  {
+    "name": "Bagelman",
+    "type": "bakery",
+    "lat": 50.82075709999999,
+    "lon": -0.1342963,
+    "address": "108 Saint James's Street, Brighton",
+    "rating": 4.7,
+    "side": "south-east"
+  },
+  {
+    "name": "Bagel And Coffee",
+    "type": "bakery",
+    "lat": 50.82222900000001,
+    "lon": -0.1421634,
+    "address": "1 Dukes Lane, Brighton and Hove, Brighton",
+    "rating": null,
+    "side": "central-central"
+  },
+  {
+    "name": "GAIL's Bakery Brighton",
+    "type": "bakery",
+    "lat": 50.8256263,
+    "lon": -0.1382286,
+    "address": "93 North Road, Brighton",
+    "rating": 4.3,
+    "side": "central-central"
+  },
+  {
+    "name": "Neeko | Speciality Coffee, Cakes and Matcha",
+    "type": "bakery",
+    "lat": 50.8228501,
+    "lon": -0.1426119,
+    "address": "36 Duke Street, Brighton",
+    "rating": 4.6,
+    "side": "central-central"
+  },
+  {
+    "name": "Garden Cafe Brighton",
+    "type": "bakery",
+    "lat": 50.82562679999999,
+    "lon": -0.1395208,
+    "address": "29 North Road, Brighton",
+    "rating": 4.6,
+    "side": "central-central"
+  },
+  {
+    "name": "Yummy Kũrtõs",
+    "type": "bakery",
+    "lat": 50.8258703,
+    "lon": -0.1398135,
+    "address": "71 North Road, Brighton",
+    "rating": 4.9,
+    "side": "central-central"
+  },
+  {
+    "name": "The Donut Club",
+    "type": "bakery",
+    "lat": 50.82300869999999,
+    "lon": -0.1433406,
+    "address": "27 Duke Street, Brighton",
+    "rating": 4.3,
+    "side": "central-central"
+  },
+  {
+    "name": "Bee May Bakery",
+    "type": "bakery",
+    "lat": 50.8266353,
+    "lon": -0.1371157,
+    "address": "16 Gloucester Road, Brighton",
+    "rating": 5,
+    "side": "central-central"
+  },
+  {
+    "name": "Cloud 9",
+    "type": "bakery",
+    "lat": 50.8266382,
+    "lon": -0.1385434,
+    "address": "15 Kensington Gardens, Brighton",
+    "rating": 4.5,
+    "side": "central-central"
+  },
+  {
+    "name": "The Flour Pot Bakery - Sydney Street",
+    "type": "bakery",
+    "lat": 50.8272085,
+    "lon": -0.1378396,
+    "address": "40 Sydney Street, Brighton",
+    "rating": 4.5,
+    "side": "north-central"
+  },
+  {
+    "name": "Krispy Kreme Brighton",
+    "type": "bakery",
+    "lat": 50.82226179999999,
+    "lon": -0.144993,
+    "address": "East Kiosk, Churchill Square, Brighton",
+    "rating": 4.3,
+    "side": "central-central"
+  },
+  {
+    "name": "Greggs",
+    "type": "bakery",
+    "lat": 50.8270355,
+    "lon": -0.1415869,
+    "address": "96-99 Queens Road, Brighton",
+    "rating": 3.7,
+    "side": "north-central"
+  },
+  {
+    "name": "Cocoa Patisserie",
+    "type": "bakery",
+    "lat": 50.82698490000001,
+    "lon": -0.142106,
+    "address": "48 Queens Road, Brighton",
+    "rating": null,
+    "side": "central-central"
+  },
+  {
+    "name": "Lukas' Sourdough Ltd",
+    "type": "bakery",
+    "lat": 50.8270605,
+    "lon": -0.1420066,
+    "address": "50A Queens Road, Brighton",
+    "rating": null,
+    "side": "north-central"
+  },
+  {
+    "name": "Dough Lover",
+    "type": "bakery",
+    "lat": 50.82798560000001,
+    "lon": -0.1377165,
+    "address": "24 Sydney Street, Brighton",
+    "rating": null,
+    "side": "north-central"
+  },
+  {
+    "name": "Open Bakery",
+    "type": "bakery",
+    "lat": 50.82359999999999,
+    "lon": -0.1281469,
+    "address": "35 West Drive, Brighton",
+    "rating": 4.6,
+    "side": "central-east"
+  },
+  {
+    "name": "Cloud 9",
+    "type": "bakery",
+    "lat": 50.8284148,
+    "lon": -0.1356212,
+    "address": "11 York Place, Brighton",
+    "rating": 4.7,
+    "side": "north-central"
+  },
+  {
+    "name": "Rawlab",
+    "type": "bakery",
+    "lat": 50.82840210000001,
+    "lon": -0.1389677,
+    "address": "73 Trafalgar Street, Brighton",
+    "rating": 4.9,
+    "side": "north-central"
+  },
+  {
+    "name": "WF45+",
+    "type": "bakery",
+    "lat": 50.82827819999999,
+    "lon": -0.1410434,
+    "address": "78 Queens Road, Brighton",
+    "rating": null,
+    "side": "north-central"
+  },
+  {
+    "name": "Basic Bakes & Co",
+    "type": "bakery",
+    "lat": 50.8249265,
+    "lon": -0.1280065,
+    "address": "Queens Park Road, Brighton",
+    "rating": null,
+    "side": "central-east"
+  }
+]

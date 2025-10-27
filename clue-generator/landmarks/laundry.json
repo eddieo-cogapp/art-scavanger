@@ -1,0 +1,542 @@
+[
+  {
+    "name": "Seven Dials Launderette",
+    "type": "laundry",
+    "lat": 50.8311207,
+    "lon": -0.1471993,
+    "address": "43 Prestonville Road, Brighton",
+    "rating": 3.7,
+    "side": "north-west"
+  },
+  {
+    "name": "Soap Box",
+    "type": "laundry",
+    "lat": 50.8273071,
+    "lon": -0.1280012,
+    "address": "43 Montreal Road, Brighton",
+    "rating": 4.5,
+    "side": "north-east"
+  },
+  {
+    "name": "Apple Clean",
+    "type": "laundry",
+    "lat": 50.82622189999999,
+    "lon": -0.156442,
+    "address": "5A Brunswick Road, Hove",
+    "rating": 5,
+    "side": "central-west"
+  },
+  {
+    "name": "Helpful Hands",
+    "type": "laundry",
+    "lat": 50.8268766,
+    "lon": -0.1597532,
+    "address": "82-84 Lansdowne Place, Hove",
+    "rating": 3.6,
+    "side": "central-west"
+  },
+  {
+    "name": "Cleaner Living",
+    "type": "laundry",
+    "lat": 50.8196035,
+    "lon": -0.122079,
+    "address": "12 College Place, Brighton",
+    "rating": null,
+    "side": "south-east"
+  },
+  {
+    "name": "G-wizz cleaning services",
+    "type": "laundry",
+    "lat": 50.834863,
+    "lon": -0.1287359,
+    "address": "49 Saint Mary Magdalene Street, Brighton",
+    "rating": 3.7,
+    "side": "north-east"
+  },
+  {
+    "name": "Brighton Contract Cleaning",
+    "type": "laundry",
+    "lat": 50.8202649,
+    "lon": -0.1324966,
+    "address": "Concorde House, 18 Margaret Street, Brighton",
+    "rating": 5,
+    "side": "south-east"
+  },
+  {
+    "name": "Acies Cleaning & Support Services",
+    "type": "laundry",
+    "lat": 50.8256345,
+    "lon": -0.1415723,
+    "address": "Floor 5 & 6, Tower Point, PLATF9RM, 44 North Road, Brighton",
+    "rating": 4.3,
+    "side": "central-central"
+  },
+  {
+    "name": "Thelaundryandironingshop",
+    "type": "laundry",
+    "lat": 50.8275811,
+    "lon": -0.1437718,
+    "address": "66 Upper Gloucester Road, Brighton",
+    "rating": 3.3,
+    "side": "north-central"
+  },
+  {
+    "name": "Peake Cleaning & Hygiene Services Ltd",
+    "type": "laundry",
+    "lat": 50.8237771,
+    "lon": -0.1494409,
+    "address": "19 Castle Street, Brighton",
+    "rating": null,
+    "side": "central-west"
+  },
+  {
+    "name": "Do You Hate Ironing",
+    "type": "laundry",
+    "lat": 50.81939749999999,
+    "lon": -0.1247721,
+    "address": "8 Bristol Road, Brighton",
+    "rating": 5,
+    "side": "south-east"
+  },
+  {
+    "name": "DZ Cleaning Ltd",
+    "type": "laundry",
+    "lat": 50.8231751,
+    "lon": -0.1507635,
+    "address": "20 Regency Square, Brighton",
+    "rating": 4.7,
+    "side": "central-west"
+  },
+  {
+    "name": "Your Clean Space",
+    "type": "laundry",
+    "lat": 50.8285048,
+    "lon": -0.1493702,
+    "address": "Basement Flat, 38 Clifton Hill, Brighton",
+    "rating": 4.9,
+    "side": "north-west"
+  },
+  {
+    "name": "Benson’s Laundry Services - Highdown laundrette Hove",
+    "type": "laundry",
+    "lat": 50.8328098,
+    "lon": -0.1523392,
+    "address": "56 Highdown Road, Hove",
+    "rating": 3.9,
+    "side": "north-west"
+  },
+  {
+    "name": "Knitting the Map",
+    "type": "laundry",
+    "lat": 50.81730340000001,
+    "lon": -0.1095825,
+    "address": "1A, The Leas, 34 Sussex Square, Brighton",
+    "rating": null,
+    "side": "south-east"
+  },
+  {
+    "name": "Click Clean Clothes",
+    "type": "laundry",
+    "lat": 50.8390665,
+    "lon": -0.1229984,
+    "address": "39-40 Coombe Terrace, Brighton",
+    "rating": 3.6,
+    "side": "north-east"
+  },
+  {
+    "name": "Elm Grove Launderette & Dry",
+    "type": "laundry",
+    "lat": 50.8317979,
+    "lon": -0.1284919,
+    "address": "10 Elm Grove, Brighton",
+    "rating": 3.5,
+    "side": "north-east"
+  },
+  {
+    "name": "Palmeira Dry Cleaners",
+    "type": "laundry",
+    "lat": 50.8265371,
+    "lon": -0.1639127,
+    "address": "73 Western Road, Hove",
+    "rating": 4.3,
+    "side": "central-west"
+  },
+  {
+    "name": "Chemdry Southdowns",
+    "type": "laundry",
+    "lat": 50.8414093,
+    "lon": -0.1535551,
+    "address": "Maria House, 35 Millers Road, Brighton",
+    "rating": null,
+    "side": "north-west"
+  },
+  {
+    "name": "ServiceMaster Clean Brighton/Lewes",
+    "type": "laundry",
+    "lat": 50.8440737,
+    "lon": -0.1428314,
+    "address": "102a Preston Drove, Brighton",
+    "rating": 4.8,
+    "side": "north-central"
+  },
+  {
+    "name": "Finishing Touch",
+    "type": "laundry",
+    "lat": 50.8280896,
+    "lon": -0.1488761,
+    "address": "3 Powis Road, Brighton",
+    "rating": 4.8,
+    "side": "north-west"
+  },
+  {
+    "name": "St. James's Laundry Centre",
+    "type": "laundry",
+    "lat": 50.82046699999999,
+    "lon": -0.130855,
+    "address": "53 Saint James's Street, Brighton",
+    "rating": 4.5,
+    "side": "south-east"
+  },
+  {
+    "name": "Carpet Doctors",
+    "type": "laundry",
+    "lat": 50.8239425,
+    "lon": -0.1495525,
+    "address": "6 Stone Street, Brighton",
+    "rating": 4.9,
+    "side": "central-west"
+  },
+  {
+    "name": "Western Road Launderette & Dry Cleaners",
+    "type": "laundry",
+    "lat": 50.8251809,
+    "lon": -0.1559776,
+    "address": "7 Western Road, Hove",
+    "rating": 3.8,
+    "side": "central-west"
+  },
+  {
+    "name": "Laundromat",
+    "type": "laundry",
+    "lat": 50.8272457,
+    "lon": -0.1493416,
+    "address": "5 Powis Road, Brighton",
+    "rating": 4.6,
+    "side": "north-west"
+  },
+  {
+    "name": "Sure-Chem",
+    "type": "laundry",
+    "lat": 50.8283961,
+    "lon": -0.1787012,
+    "address": "25 Vallance Road, Hove",
+    "rating": 4.9,
+    "side": "north-west"
+  },
+  {
+    "name": "George Street Launderette",
+    "type": "laundry",
+    "lat": 50.82136829999999,
+    "lon": -0.134765,
+    "address": "9 George Street, Brighton",
+    "rating": 4.2,
+    "side": "central-east"
+  },
+  {
+    "name": "Kemptown Dry Cleaners",
+    "type": "laundry",
+    "lat": 50.8193565,
+    "lon": -0.1247868,
+    "address": "8 Bristol Road, Brighton",
+    "rating": 4,
+    "side": "south-east"
+  },
+  {
+    "name": "JCS Cleaning Brighton",
+    "type": "laundry",
+    "lat": 50.8315699,
+    "lon": -0.1766992,
+    "address": "16 Blatchington Road, Hove",
+    "rating": 4,
+    "side": "north-west"
+  },
+  {
+    "name": "Top Stitch",
+    "type": "laundry",
+    "lat": 50.8205465,
+    "lon": -0.132974,
+    "address": "92 Saint James's Street, Brighton",
+    "rating": 4.7,
+    "side": "south-east"
+  },
+  {
+    "name": "Seb-services Ltd",
+    "type": "laundry",
+    "lat": 50.8220621,
+    "lon": -0.1343753,
+    "address": "27 George Street, Brighton",
+    "rating": 4.3,
+    "side": "central-east"
+  },
+  {
+    "name": "Brighton Carpet Cleaning Services",
+    "type": "laundry",
+    "lat": 50.8232471,
+    "lon": -0.142408,
+    "address": "51-52 North Street, Brighton",
+    "rating": 5,
+    "side": "central-central"
+  },
+  {
+    "name": "FloorFab",
+    "type": "laundry",
+    "lat": 50.825635,
+    "lon": -0.141572,
+    "address": "44 North Road, Brighton",
+    "rating": 5,
+    "side": "central-central"
+  },
+  {
+    "name": "Alterations Laundry",
+    "type": "laundry",
+    "lat": 50.82192329999999,
+    "lon": -0.1305783,
+    "address": "133 Edward Street, Brighton",
+    "rating": 4,
+    "side": "central-east"
+  },
+  {
+    "name": "Apple Clean",
+    "type": "laundry",
+    "lat": 50.82237479999999,
+    "lon": -0.1490888,
+    "address": "1 - 7, Sussex Heights, Saint Margaret's Place, Brighton",
+    "rating": 4.9,
+    "side": "central-west"
+  },
+  {
+    "name": "The Brighton Tailor",
+    "type": "laundry",
+    "lat": 50.82423010000001,
+    "lon": -0.1493239,
+    "address": "68 Western Road, Brighton",
+    "rating": 4.8,
+    "side": "central-west"
+  },
+  {
+    "name": "Eco Carpet Cleaning",
+    "type": "laundry",
+    "lat": 50.82589060000001,
+    "lon": -0.1498372,
+    "address": "8 Upper North Street, Brighton",
+    "rating": 5,
+    "side": "central-west"
+  },
+  {
+    "name": "Preston Street Launderette",
+    "type": "laundry",
+    "lat": 50.82290339999999,
+    "lon": -0.1511939,
+    "address": "75 Preston Street, Brighton",
+    "rating": 4.4,
+    "side": "central-west"
+  },
+  {
+    "name": "Nicholson Cleaning Brighton Ltd",
+    "type": "laundry",
+    "lat": 50.822504,
+    "lon": -0.1513428,
+    "address": "85 Preston Street, Brighton",
+    "rating": 5,
+    "side": "central-west"
+  },
+  {
+    "name": "Mo's Cleaning Services",
+    "type": "laundry",
+    "lat": 50.8304726,
+    "lon": -0.1482938,
+    "address": "Flat 14, 33-34 Vernon Terrace, Brighton",
+    "rating": 4.8,
+    "side": "north-west"
+  },
+  {
+    "name": "Direct Carpet Cleaning",
+    "type": "laundry",
+    "lat": 50.8332116,
+    "lon": -0.1393321,
+    "address": "23 Elder Place, Brighton",
+    "rating": null,
+    "side": "north-central"
+  },
+  {
+    "name": "Preston Circus Launderette & Dry",
+    "type": "laundry",
+    "lat": 50.8337009,
+    "lon": -0.1396165,
+    "address": "47 New England Road, Brighton",
+    "rating": 2.9,
+    "side": "north-central"
+  },
+  {
+    "name": "Unique Carpet and upholstery cleaning",
+    "type": "laundry",
+    "lat": 50.83419929999999,
+    "lon": -0.1304557,
+    "address": "133 Upper Lewes Road, Brighton and Hove, Brighton",
+    "rating": 5,
+    "side": "north-east"
+  },
+  {
+    "name": "Mr. Priske",
+    "type": "laundry",
+    "lat": 50.8269714,
+    "lon": -0.1597248,
+    "address": "90 Lansdowne Place, Hove",
+    "rating": null,
+    "side": "central-west"
+  },
+  {
+    "name": "Lewes Road Launderette & Drycleaners",
+    "type": "laundry",
+    "lat": 50.836112,
+    "lon": -0.1255935,
+    "address": "82 Lewes Road, Brighton",
+    "rating": 3.3,
+    "side": "north-east"
+  },
+  {
+    "name": "Steven's Carpet & Upholstery Cleaning",
+    "type": "laundry",
+    "lat": 50.8343319,
+    "lon": -0.1208926,
+    "address": "87 Hartington Road, Brighton",
+    "rating": 5,
+    "side": "north-east"
+  },
+  {
+    "name": "Blue sky alterations Ltd",
+    "type": "laundry",
+    "lat": 50.8263997,
+    "lon": -0.1626043,
+    "address": "70 Western Road, Brighton",
+    "rating": 4.8,
+    "side": "central-west"
+  },
+  {
+    "name": "FoxJet Cleaning Services",
+    "type": "laundry",
+    "lat": 50.82402250000001,
+    "lon": -0.1101788,
+    "address": "98 Maresfield Road, Brighton",
+    "rating": 5,
+    "side": "central-east"
+  },
+  {
+    "name": "The Ironing Shop",
+    "type": "laundry",
+    "lat": 50.82652410000001,
+    "lon": -0.1641107,
+    "address": "74 Western Road, Hove",
+    "rating": 4.3,
+    "side": "central-west"
+  },
+  {
+    "name": "Carpet Cleaning Brighton & Hove",
+    "type": "laundry",
+    "lat": 50.8280214,
+    "lon": -0.1636775,
+    "address": "Salisbury Road, Hove",
+    "rating": 4.6,
+    "side": "north-west"
+  },
+  {
+    "name": "Kaiser Carpet Cleaning",
+    "type": "laundry",
+    "lat": 50.8326977,
+    "lon": -0.1613505,
+    "address": "Palmeira Place, Hove",
+    "rating": 5,
+    "side": "north-west"
+  },
+  {
+    "name": "Blatchington Road Launderette",
+    "type": "laundry",
+    "lat": 50.8313199,
+    "lon": -0.1739755,
+    "address": "89 Blatchington Road, Hove",
+    "rating": 4.5,
+    "side": "north-west"
+  },
+  {
+    "name": "Laundrette",
+    "type": "laundry",
+    "lat": 50.8173371,
+    "lon": -0.1069299,
+    "address": "Brighton",
+    "rating": 4.7,
+    "side": "south-east"
+  },
+  {
+    "name": "LJ Carpet Cleaning",
+    "type": "laundry",
+    "lat": 50.8164229,
+    "lon": -0.1061481,
+    "address": "28 Boundary Road, Brighton",
+    "rating": null,
+    "side": "south-east"
+  },
+  {
+    "name": "Stellar End of Tenancy Cleaning Brighton",
+    "type": "laundry",
+    "lat": 50.83118349999999,
+    "lon": -0.1678302,
+    "address": "Hereford Court, 61 The Drive, Hove",
+    "rating": 5,
+    "side": "north-west"
+  },
+  {
+    "name": "Johnsons The Cleaners",
+    "type": "laundry",
+    "lat": 50.8309136,
+    "lon": -0.1727496,
+    "address": "96 Blatchington Road, East Sussex, Hove",
+    "rating": 3.6,
+    "side": "north-west"
+  },
+  {
+    "name": "Preston Launderette & Dry",
+    "type": "laundry",
+    "lat": 50.8434641,
+    "lon": -0.1516604,
+    "address": "223 Preston Road, Brighton",
+    "rating": 3.5,
+    "side": "north-west"
+  },
+  {
+    "name": "Bubbles Launderette",
+    "type": "laundry",
+    "lat": 50.8281219,
+    "lon": -0.1729488,
+    "address": "137 Church Road, Brighton and Hove, Hove",
+    "rating": 4.3,
+    "side": "north-west"
+  },
+  {
+    "name": "Time2shine",
+    "type": "laundry",
+    "lat": 50.8463059,
+    "lon": -0.1422718,
+    "address": "68 Bates Road, Brighton",
+    "rating": 5,
+    "side": "north-central"
+  },
+  {
+    "name": "Spin-In-Time",
+    "type": "laundry",
+    "lat": 50.8343928,
+    "lon": -0.1713616,
+    "address": "88 Goldstone Villas, Hove",
+    "rating": 1.8,
+    "side": "north-west"
+  }
+]

@@ -1,0 +1,542 @@
+[
+  {
+    "name": "Dorothy Stringer School",
+    "type": "school",
+    "lat": 50.8476756,
+    "lon": -0.1420598,
+    "address": "Loder Road, Brighton",
+    "rating": null,
+    "side": "north-central"
+  },
+  {
+    "name": "St Giles Brighton",
+    "type": "school",
+    "lat": 50.82382630000001,
+    "lon": -0.137373,
+    "address": "1-3 Marlborough Place, Brighton",
+    "rating": 4.2,
+    "side": "central-central"
+  },
+  {
+    "name": "Jill Edwards Comedy Workshops",
+    "type": "school",
+    "lat": 50.82488470000001,
+    "lon": -0.1394171,
+    "address": "Komedia, 44 - 47 Gardner Street, Brighton",
+    "rating": 4.9,
+    "side": "central-central"
+  },
+  {
+    "name": "Brighton College",
+    "type": "school",
+    "lat": 50.8205457,
+    "lon": -0.1220767,
+    "address": "Eastern Road, Brighton",
+    "rating": null,
+    "side": "south-east"
+  },
+  {
+    "name": "Cromwell Road Day Nursery and Preschool",
+    "type": "school",
+    "lat": 50.83273610000001,
+    "lon": -0.1634148,
+    "address": "44 Cromwell Road, Hove",
+    "rating": 3.4,
+    "side": "north-west"
+  },
+  {
+    "name": "Brighton & Hove Montessori School",
+    "type": "school",
+    "lat": 50.8412231,
+    "lon": -0.1375011,
+    "address": "67 Stanford Avenue, Brighton",
+    "rating": null,
+    "side": "north-central"
+  },
+  {
+    "name": "Castle School Of English",
+    "type": "school",
+    "lat": 50.8241988,
+    "lon": -0.1444684,
+    "address": "Castle School Reception, 12 Dyke Road, Brighton",
+    "rating": 4.7,
+    "side": "central-central"
+  },
+  {
+    "name": "The Montessori Place",
+    "type": "school",
+    "lat": 50.83271389999999,
+    "lon": -0.1632646,
+    "address": "45 Cromwell Road, Hove",
+    "rating": null,
+    "side": "north-west"
+  },
+  {
+    "name": "Carlton Hill Primary School",
+    "type": "school",
+    "lat": 50.8243861,
+    "lon": -0.132106,
+    "address": "Sussex Street, Brighton",
+    "rating": null,
+    "side": "central-east"
+  },
+  {
+    "name": "Royal Spa Nursery School",
+    "type": "school",
+    "lat": 50.8233628,
+    "lon": -0.127323,
+    "address": "Park Hill, Brighton",
+    "rating": 4.2,
+    "side": "central-east"
+  },
+  {
+    "name": "Poppy Gonzalez Piano School | Brighton Piano Teacher | Quality Piano Lessons for Children age 4 and up",
+    "type": "school",
+    "lat": 50.8178255,
+    "lon": -0.1245656,
+    "address": "area, BN2, Kemptown, Brighton",
+    "rating": null,
+    "side": "south-east"
+  },
+  {
+    "name": "Sussex Guitar Lessons",
+    "type": "school",
+    "lat": 50.8164607,
+    "lon": -0.1152504,
+    "address": "2-3 Clarendon Terrace, Brighton",
+    "rating": null,
+    "side": "south-east"
+  },
+  {
+    "name": "Puffin Community Nursery",
+    "type": "school",
+    "lat": 50.82449279999999,
+    "lon": -0.1335214,
+    "address": "Milwood Centre, Nelson Row, Carlton Hill, Brighton",
+    "rating": 3.7,
+    "side": "central-east"
+  },
+  {
+    "name": "Amigos",
+    "type": "school",
+    "lat": 50.8267823,
+    "lon": -0.164857,
+    "address": "CornerStone Community Centre, Church Road, Hove",
+    "rating": 5,
+    "side": "central-west"
+  },
+  {
+    "name": "Guitar Lessons Brighton",
+    "type": "school",
+    "lat": 50.8219842,
+    "lon": -0.1382083,
+    "address": "2-3 Pavilion Parade, Brighton",
+    "rating": null,
+    "side": "central-central"
+  },
+  {
+    "name": "New Road Montessori Nursery",
+    "type": "school",
+    "lat": 50.82393399999999,
+    "lon": -0.139478,
+    "address": "Unitarian Church Hall, New Road, Brighton",
+    "rating": null,
+    "side": "central-central"
+  },
+  {
+    "name": "Middle Street Primary School",
+    "type": "school",
+    "lat": 50.8225014,
+    "lon": -0.1428596,
+    "address": "37 Middle Street, Brighton",
+    "rating": null,
+    "side": "central-central"
+  },
+  {
+    "name": "Bright Start Nursery",
+    "type": "school",
+    "lat": 50.82555259999999,
+    "lon": -0.1337044,
+    "address": "Tarner Family Hub, Ivory Place, Brighton",
+    "rating": 4.2,
+    "side": "central-east"
+  },
+  {
+    "name": "Brighton Hove & District Early Childhood Project",
+    "type": "school",
+    "lat": 50.82617200000001,
+    "lon": -0.1339621,
+    "address": "Tarner Family Hub, Brighton",
+    "rating": null,
+    "side": "central-east"
+  },
+  {
+    "name": "Guitarlearn - (Brighton Guitar Lessons)",
+    "type": "school",
+    "lat": 50.8295753,
+    "lon": -0.1402269,
+    "address": "7 Trafalgar Arches, Brighton",
+    "rating": 5,
+    "side": "north-central"
+  },
+  {
+    "name": "Brighton Bass Lessons",
+    "type": "school",
+    "lat": 50.8324313,
+    "lon": -0.1212899,
+    "address": "30 Whippingham Road, Brighton",
+    "rating": null,
+    "side": "north-east"
+  },
+  {
+    "name": "Kings Brighton",
+    "type": "school",
+    "lat": 50.8303787,
+    "lon": -0.134867,
+    "address": "27-33 Ditchling Road, Brighton",
+    "rating": 4.2,
+    "side": "north-east"
+  },
+  {
+    "name": "Eleanor Leavey",
+    "type": "school",
+    "lat": 50.8268014,
+    "lon": -0.148814,
+    "address": "24 Victoria Street, Brighton",
+    "rating": 5,
+    "side": "central-west"
+  },
+  {
+    "name": "House on The Dials Day Nursery",
+    "type": "school",
+    "lat": 50.8288035,
+    "lon": -0.1465483,
+    "address": "52 Dyke Road, Brighton",
+    "rating": null,
+    "side": "north-west"
+  },
+  {
+    "name": "Guitar Lessons with Mal | Your Guitar Academy",
+    "type": "school",
+    "lat": 50.82764460000001,
+    "lon": -0.125773,
+    "address": "34 Toronto Terrace, Brighton",
+    "rating": 5,
+    "side": "north-east"
+  },
+  {
+    "name": "The Nest Day Nursery Hanover",
+    "type": "school",
+    "lat": 50.8286245,
+    "lon": -0.1260598,
+    "address": "89 Islingword Road, Brighton",
+    "rating": null,
+    "side": "north-east"
+  },
+  {
+    "name": "Simon Yapp",
+    "type": "school",
+    "lat": 50.8188505,
+    "lon": -0.1227358,
+    "address": "18a Bloomsbury Place, Brighton",
+    "rating": null,
+    "side": "south-east"
+  },
+  {
+    "name": "Wise Owls Nursery School",
+    "type": "school",
+    "lat": 50.83260550000001,
+    "lon": -0.1298832,
+    "address": "15 Park Crescent Place, Brighton",
+    "rating": 5,
+    "side": "north-east"
+  },
+  {
+    "name": "Little Stars Childcare",
+    "type": "school",
+    "lat": 50.8379142,
+    "lon": -0.1225724,
+    "address": "Bear Road, Brighton",
+    "rating": 5,
+    "side": "north-east"
+  },
+  {
+    "name": "Prime Education",
+    "type": "school",
+    "lat": 50.8246392,
+    "lon": -0.1573532,
+    "address": "The Old Market, Upper Market Street, Hove",
+    "rating": null,
+    "side": "central-west"
+  },
+  {
+    "name": "Oscar Habas Music Lessons",
+    "type": "school",
+    "lat": 50.83102470000001,
+    "lon": -0.1526785,
+    "address": "Warwick Court, 47 Davigdor Road, Hove",
+    "rating": null,
+    "side": "north-west"
+  },
+  {
+    "name": "Alexander Technique Brighton with Gregg Isaacson",
+    "type": "school",
+    "lat": 50.835504,
+    "lon": -0.1355669,
+    "address": "51A Warleigh Road, Brighton",
+    "rating": 5,
+    "side": "north-central"
+  },
+  {
+    "name": "Classical Guitar Lessons",
+    "type": "school",
+    "lat": 50.835504,
+    "lon": -0.1355669,
+    "address": "51A Warleigh Road, Brighton",
+    "rating": 5,
+    "side": "north-central"
+  },
+  {
+    "name": "BHASVIC",
+    "type": "school",
+    "lat": 50.83418080000001,
+    "lon": -0.1513473,
+    "address": "205 Dyke Road, East Sussex, Hove",
+    "rating": null,
+    "side": "north-west"
+  },
+  {
+    "name": "Brighton Vocal Lessons",
+    "type": "school",
+    "lat": 50.8267651,
+    "lon": -0.114584,
+    "address": "49 The Causeway, Brighton",
+    "rating": 5,
+    "side": "central-east"
+  },
+  {
+    "name": "Drum Tuition Brighton",
+    "type": "school",
+    "lat": 50.8274687,
+    "lon": -0.1595299,
+    "address": "108 Lansdowne Place, Hove",
+    "rating": 4,
+    "side": "north-west"
+  },
+  {
+    "name": "Your Guitar Tutor Guitar Lessons Brighton",
+    "type": "school",
+    "lat": 50.82641959999999,
+    "lon": -0.1604072,
+    "address": "73 Lansdowne Place, Hove",
+    "rating": 5,
+    "side": "central-west"
+  },
+  {
+    "name": "Andrew Cuerden",
+    "type": "school",
+    "lat": 50.8261689,
+    "lon": -0.1605809,
+    "address": "63 Lansdowne Place, Hove",
+    "rating": null,
+    "side": "central-west"
+  },
+  {
+    "name": "Your Guitar Lesson",
+    "type": "school",
+    "lat": 50.8394755,
+    "lon": -0.1375822,
+    "address": "22A Grantham Road, Brighton",
+    "rating": null,
+    "side": "north-central"
+  },
+  {
+    "name": "Hilltop Nursery",
+    "type": "school",
+    "lat": 50.8302857,
+    "lon": -0.1148628,
+    "address": "306 Elm Grove, Brighton",
+    "rating": 4.8,
+    "side": "north-east"
+  },
+  {
+    "name": "Dan Travis Tennis",
+    "type": "school",
+    "lat": 50.8414738,
+    "lon": -0.1425192,
+    "address": "67 Beaconsfield Villas, Brighton",
+    "rating": 4.8,
+    "side": "north-central"
+  },
+  {
+    "name": "The Connected Hub",
+    "type": "school",
+    "lat": 50.8391446,
+    "lon": -0.1330255,
+    "address": "Tilbury House, Florence Place, Brighton",
+    "rating": null,
+    "side": "north-east"
+  },
+  {
+    "name": "Enjoy Piano",
+    "type": "school",
+    "lat": 50.8169803,
+    "lon": -0.1097599,
+    "address": "2A, 39-40 Sussex Square, Brighton",
+    "rating": null,
+    "side": "south-east"
+  },
+  {
+    "name": "Brighton and Hove Guitar lessons",
+    "type": "school",
+    "lat": 50.82519010000001,
+    "lon": -0.1657262,
+    "address": "Flat 4, 22 First Avenue, Hove",
+    "rating": 5,
+    "side": "central-west"
+  },
+  {
+    "name": "Your Guitar Academy",
+    "type": "school",
+    "lat": 50.8307566,
+    "lon": -0.1660815,
+    "address": "33 Wilbury Road, Hove",
+    "rating": 5,
+    "side": "north-west"
+  },
+  {
+    "name": "Charley Barley's Nursery",
+    "type": "school",
+    "lat": 50.842786,
+    "lon": -0.134862,
+    "address": "120 Stanford Avenue, Brighton",
+    "rating": 5,
+    "side": "north-east"
+  },
+  {
+    "name": "Guitar Lessons with Alex | Your Guitar Academy",
+    "type": "school",
+    "lat": 50.8336622,
+    "lon": -0.1664378,
+    "address": "31 Cambridge Grove, Hove",
+    "rating": 5,
+    "side": "north-west"
+  },
+  {
+    "name": "Brighton Girls",
+    "type": "school",
+    "lat": 50.8284917,
+    "lon": -0.1511599,
+    "address": "Montpelier Road, Brighton",
+    "rating": null,
+    "side": "north-west"
+  },
+  {
+    "name": "Stephanie Brown",
+    "type": "school",
+    "lat": 50.84111749999999,
+    "lon": -0.1181482,
+    "address": "35 Buller Road, Brighton",
+    "rating": 5,
+    "side": "north-east"
+  },
+  {
+    "name": "SINGING LESSONS IN BRIGHTON",
+    "type": "school",
+    "lat": 50.8269178,
+    "lon": -0.1729439,
+    "address": "34 Albany Villas, Hove",
+    "rating": null,
+    "side": "central-west"
+  },
+  {
+    "name": "Kitchen Academy",
+    "type": "school",
+    "lat": 50.8445084,
+    "lon": -0.1472687,
+    "address": "11 Harrington Villas, Brighton",
+    "rating": 1,
+    "side": "north-west"
+  },
+  {
+    "name": "Cardinal Newman Catholic School and Sixth Form College",
+    "type": "school",
+    "lat": 50.8370688,
+    "lon": -0.1589172,
+    "address": "The Upper Drive, Hove",
+    "rating": null,
+    "side": "north-west"
+  },
+  {
+    "name": "Stories and Drums",
+    "type": "school",
+    "lat": 50.8456738,
+    "lon": -0.1404439,
+    "address": "69A Osborne Road, Brighton",
+    "rating": null,
+    "side": "north-central"
+  },
+  {
+    "name": "Hopscotch Children's Nurseries - Brighton",
+    "type": "school",
+    "lat": 50.844868,
+    "lon": -0.1479649,
+    "address": "14 Bavant Road, Brighton",
+    "rating": 4.6,
+    "side": "north-west"
+  },
+  {
+    "name": "SeeChord",
+    "type": "school",
+    "lat": 50.84253259999999,
+    "lon": -0.1567705,
+    "address": "53 Hampstead Road, Brighton",
+    "rating": 5,
+    "side": "north-west"
+  },
+  {
+    "name": "Little People By The Sea",
+    "type": "school",
+    "lat": 50.8256375,
+    "lon": -0.1739248,
+    "address": "41 Medina Villas, Hove",
+    "rating": null,
+    "side": "central-west"
+  },
+  {
+    "name": "Ski le Gap",
+    "type": "school",
+    "lat": 50.83201940000001,
+    "lon": -0.1718675,
+    "address": "13a Goldstone Villas, Hove",
+    "rating": 4.8,
+    "side": "north-west"
+  },
+  {
+    "name": "Brighton Piano Man - Piano Teacher/Arranger",
+    "type": "school",
+    "lat": 50.8466426,
+    "lon": -0.1341737,
+    "address": "128 Hollingbury Park Avenue, Brighton",
+    "rating": 5,
+    "side": "north-east"
+  },
+  {
+    "name": "kitesurfkings",
+    "type": "school",
+    "lat": 50.83418080000001,
+    "lon": -0.1714167,
+    "address": "80 Goldstone Villas, Hove",
+    "rating": 5,
+    "side": "north-west"
+  },
+  {
+    "name": "Cherry Tree Nursery",
+    "type": "school",
+    "lat": 50.846943,
+    "lon": -0.1267196,
+    "address": "Hollingdean Sure Start Centre, Brentwood Road, Brighton",
+    "rating": 4.3,
+    "side": "north-east"
+  }
+]

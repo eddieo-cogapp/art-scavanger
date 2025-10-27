@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Jubilee Library",
+    "type": "library",
+    "lat": 50.8249162,
+    "lon": -0.1385028,
+    "address": "Jubilee Library, Jubilee Street, Brighton",
+    "rating": 4.3,
+    "side": "central-central"
+  },
+  {
+    "name": "DB Learning Library",
+    "type": "library",
+    "lat": 50.82461660000001,
+    "lon": -0.1426668,
+    "address": "Victoria House, 125 Queens Road, Brighton",
+    "rating": null,
+    "side": "central-central"
+  },
+  {
+    "name": "St Peter's House Library, University of Brighton",
+    "type": "library",
+    "lat": 50.8277967,
+    "lon": -0.1341845,
+    "address": "University of, 16-18 Richmond Place, Brighton",
+    "rating": 4.8,
+    "side": "north-east"
+  },
+  {
+    "name": "Whitehawk Library",
+    "type": "library",
+    "lat": 50.82628639999999,
+    "lon": -0.1073866,
+    "address": "179A Whitehawk Road, Brighton",
+    "rating": 4.4,
+    "side": "central-east"
+  },
+  {
+    "name": "Aldrich Library",
+    "type": "library",
+    "lat": 50.84533359999999,
+    "lon": -0.1177037,
+    "address": "Cockcroft Building, University of, Lewes Road, Brighton",
+    "rating": 4.5,
+    "side": "north-east"
+  },
+  {
+    "name": "Hotel Chocolat Mini Library",
+    "type": "library",
+    "lat": 50.8224786,
+    "lon": -0.139895,
+    "address": "19 North Street, Brighton and Hove, Brighton",
+    "rating": null,
+    "side": "central-central"
+  },
+  {
+    "name": "Hove Library",
+    "type": "library",
+    "lat": 50.8283497,
+    "lon": -0.1772154,
+    "address": "182-186 Church Road, Hove",
+    "rating": 4.6,
+    "side": "north-west"
+  }
+]

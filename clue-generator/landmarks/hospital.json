@@ -1,0 +1,416 @@
+[
+  {
+    "name": "Sussex Community NHS Trust",
+    "type": "hospital",
+    "lat": 50.8312768,
+    "lon": -0.114759,
+    "address": "Elm Grove, Brighton",
+    "rating": 3.5,
+    "side": "north-east"
+  },
+  {
+    "name": "Practice Plus Brighton Station Health Centre",
+    "type": "hospital",
+    "lat": 50.8279159,
+    "lon": -0.1412708,
+    "address": "Aspect House, 84-87 Queens Road, Brighton",
+    "rating": 3.5,
+    "side": "north-central"
+  },
+  {
+    "name": "Royal Sussex County Hospital",
+    "type": "hospital",
+    "lat": 50.81926319999999,
+    "lon": -0.1168915,
+    "address": "Eastern Road, Brighton",
+    "rating": 3.5,
+    "side": "south-east"
+  },
+  {
+    "name": "Ardingly Court Surgery",
+    "type": "hospital",
+    "lat": 50.8212104,
+    "lon": -0.1328162,
+    "address": "1 Ardingly Street, Brighton",
+    "rating": 2.7,
+    "side": "central-east"
+  },
+  {
+    "name": "St. Peter's Health Centre",
+    "type": "hospital",
+    "lat": 50.8307849,
+    "lon": -0.135122,
+    "address": "30-36 Oxford Street, Brighton",
+    "rating": 2.5,
+    "side": "north-central"
+  },
+  {
+    "name": "Regency Surgery",
+    "type": "hospital",
+    "lat": 50.8219245,
+    "lon": -0.1361985,
+    "address": "4 Old Steine, Brighton",
+    "rating": 4,
+    "side": "central-central"
+  },
+  {
+    "name": "netherne management limited",
+    "type": "hospital",
+    "lat": 50.82445930000001,
+    "lon": -0.1390106,
+    "address": "1 Jubilee Street, Brighton",
+    "rating": null,
+    "side": "central-central"
+  },
+  {
+    "name": "The Seven Dials Medical Centre",
+    "type": "hospital",
+    "lat": 50.8295962,
+    "lon": -0.1477733,
+    "address": "24 Montpelier Crescent, Brighton",
+    "rating": 3.7,
+    "side": "north-west"
+  },
+  {
+    "name": "Spire Montefiore Plastic & Cosmetic Surgery Clinic",
+    "type": "hospital",
+    "lat": 50.83141200000001,
+    "lon": -0.155665,
+    "address": "Spire Montefiore Hospital, 2 Montefiore Road, Hove",
+    "rating": null,
+    "side": "north-west"
+  },
+  {
+    "name": "Barbara Bishop Acupuncture",
+    "type": "hospital",
+    "lat": 50.8343194,
+    "lon": -0.1612929,
+    "address": "18 Wilbury Crescent, Hove",
+    "rating": 5,
+    "side": "north-west"
+  },
+  {
+    "name": "Life Line Screening",
+    "type": "hospital",
+    "lat": 50.830198,
+    "lon": -0.1664892,
+    "address": "All Saints Church Hall, Eaton Road, Hove",
+    "rating": null,
+    "side": "north-west"
+  },
+  {
+    "name": "The Hove Practice, Private GP Surgery in Brighton & Hove",
+    "type": "hospital",
+    "lat": 50.8275763,
+    "lon": -0.1707508,
+    "address": "86 Church Road, Hove",
+    "rating": 4.7,
+    "side": "north-west"
+  },
+  {
+    "name": "Sackville Road Surgery",
+    "type": "hospital",
+    "lat": 50.834077,
+    "lon": -0.1709733,
+    "address": "1 Goldstone Villas, Hove",
+    "rating": 2,
+    "side": "north-west"
+  },
+  {
+    "name": "Charter Medical Centre",
+    "type": "hospital",
+    "lat": 50.8314902,
+    "lon": -0.1580703,
+    "address": "88 Davigdor Road, Hove",
+    "rating": 4.6,
+    "side": "north-west"
+  },
+  {
+    "name": "Reach Physiotherapy",
+    "type": "hospital",
+    "lat": 50.829894,
+    "lon": -0.147204,
+    "address": "101 Dyke Road, Brighton",
+    "rating": 4.9,
+    "side": "north-west"
+  },
+  {
+    "name": "The Montefiore Hospital (Spire Healthcare)",
+    "type": "hospital",
+    "lat": 50.8315022,
+    "lon": -0.1556607,
+    "address": "2 Montefiore Road, Hove",
+    "rating": 4,
+    "side": "north-west"
+  },
+  {
+    "name": "Target Health Nutrition",
+    "type": "hospital",
+    "lat": 50.83528829999999,
+    "lon": -0.1396683,
+    "address": "53 Beaconsfield Road, Brighton",
+    "rating": null,
+    "side": "north-central"
+  },
+  {
+    "name": "National Slimming & Cosmetic Clinics",
+    "type": "hospital",
+    "lat": 50.8237476,
+    "lon": -0.1396124,
+    "address": "20 New Road, Brighton",
+    "rating": 1,
+    "side": "central-central"
+  },
+  {
+    "name": "Boots Hearingcare Brighton",
+    "type": "hospital",
+    "lat": 50.82370369999999,
+    "lon": -0.1430828,
+    "address": "Boots, 129 North Street, Brighton",
+    "rating": 4,
+    "side": "central-central"
+  },
+  {
+    "name": "SBE Medical Training",
+    "type": "hospital",
+    "lat": 50.8293954,
+    "lon": -0.1399441,
+    "address": "West Street, Brighton",
+    "rating": null,
+    "side": "north-central"
+  },
+  {
+    "name": "Elton John Centre - Brighton And Sussex Uni Hospitals",
+    "type": "hospital",
+    "lat": 50.81846710000001,
+    "lon": -0.1203367,
+    "address": "1 Abbey Road, Brighton",
+    "rating": 5,
+    "side": "south-east"
+  },
+  {
+    "name": "Veincentre",
+    "type": "hospital",
+    "lat": 50.8266577,
+    "lon": -0.1543777,
+    "address": "14A Montpelier Place, Brighton",
+    "rating": 5,
+    "side": "central-west"
+  },
+  {
+    "name": "Louisa Martindale Building",
+    "type": "hospital",
+    "lat": 50.8190625,
+    "lon": -0.1176484,
+    "address": "Eastern Road, Brighton",
+    "rating": 4.5,
+    "side": "south-east"
+  },
+  {
+    "name": "Royal Alexandra Children's Hospital",
+    "type": "hospital",
+    "lat": 50.81986610000001,
+    "lon": -0.1172846,
+    "address": "North Drive, Brighton",
+    "rating": 4.2,
+    "side": "south-east"
+  },
+  {
+    "name": "Walking With You",
+    "type": "hospital",
+    "lat": 50.8187861,
+    "lon": -0.1173015,
+    "address": "Building Barry, Eastern Road, Brighton",
+    "rating": null,
+    "side": "south-east"
+  },
+  {
+    "name": "Sussex Eye Laser Clinic",
+    "type": "hospital",
+    "lat": 50.8187861,
+    "lon": -0.1173015,
+    "address": "Eastern Road, Brighton",
+    "rating": null,
+    "side": "south-east"
+  },
+  {
+    "name": "Sussex Kidney Unit",
+    "type": "hospital",
+    "lat": 50.8200555,
+    "lon": -0.1166013,
+    "address": "Eastern Road, Brighton",
+    "rating": 3.3,
+    "side": "south-east"
+  },
+  {
+    "name": "Thomas Kemp Tower",
+    "type": "hospital",
+    "lat": 50.81964899999999,
+    "lon": -0.11662,
+    "address": "North Road, Brighton",
+    "rating": 2,
+    "side": "south-east"
+  },
+  {
+    "name": "Millennium Wing, Royal Sussex County Hospital",
+    "type": "hospital",
+    "lat": 50.8199878,
+    "lon": -0.1161936,
+    "address": "Eastern Road, Brighton",
+    "rating": 5,
+    "side": "south-east"
+  },
+  {
+    "name": "Courtyard Building, Brighton Sussex University Hospital",
+    "type": "hospital",
+    "lat": 50.8197653,
+    "lon": -0.1160728,
+    "address": "North Road",
+    "rating": null,
+    "side": "south-east"
+  },
+  {
+    "name": "Nuclear Medicine & Anaesthetic",
+    "type": "hospital",
+    "lat": 50.8189667,
+    "lon": -0.116371,
+    "address": "185A Eastern Road, Brighton",
+    "rating": 1.7,
+    "side": "south-east"
+  },
+  {
+    "name": "Mr F Pakarian, Sussex Gynaecologist",
+    "type": "hospital",
+    "lat": 50.8314678,
+    "lon": -0.1555968,
+    "address": "2 Montefiore Road, Hove",
+    "rating": 1,
+    "side": "north-west"
+  },
+  {
+    "name": "Mr Uday Trivedi",
+    "type": "hospital",
+    "lat": 50.8314678,
+    "lon": -0.1555968,
+    "address": "The Montefiore Hospital, 2 Montefiore Road, Hove",
+    "rating": null,
+    "side": "north-west"
+  },
+  {
+    "name": "Sussex Cardiovascular Clinic",
+    "type": "hospital",
+    "lat": 50.8314678,
+    "lon": -0.1555968,
+    "address": "2 Montefiore Road, Hove",
+    "rating": 2,
+    "side": "north-west"
+  },
+  {
+    "name": "Sussex Spine Solutions",
+    "type": "hospital",
+    "lat": 50.8314678,
+    "lon": -0.1555968,
+    "address": "2 Montefiore Road, Hove",
+    "rating": null,
+    "side": "north-west"
+  },
+  {
+    "name": "Dr Santhosh Narat",
+    "type": "hospital",
+    "lat": 50.8315022,
+    "lon": -0.1556607,
+    "address": "The Montefiore Hospital, 2 Montefiore Road, Brighton and Hove, Hove",
+    "rating": null,
+    "side": "north-west"
+  },
+  {
+    "name": "Dyke Building, Children & Family Clinic",
+    "type": "hospital",
+    "lat": 50.8300023,
+    "lon": -0.1156273,
+    "address": "Dyke, Brighton",
+    "rating": null,
+    "side": "north-east"
+  },
+  {
+    "name": "Brighton General Hospital",
+    "type": "hospital",
+    "lat": 50.8310292,
+    "lon": -0.114328,
+    "address": "Elm Grove, Brighton",
+    "rating": 3.8,
+    "side": "north-east"
+  },
+  {
+    "name": "Preston Park Radiotherapy Centre",
+    "type": "hospital",
+    "lat": 50.8387059,
+    "lon": -0.1482161,
+    "address": "177 Preston Road, Brighton and Hove, Brighton",
+    "rating": 4,
+    "side": "north-west"
+  },
+  {
+    "name": "Goodwood Court Medical Centre",
+    "type": "hospital",
+    "lat": 50.8324146,
+    "lon": -0.1615471,
+    "address": "Goodwood Court, Cromwell Road, Hove",
+    "rating": 1,
+    "side": "north-west"
+  },
+  {
+    "name": "Radio Logy",
+    "type": "hospital",
+    "lat": 50.84050349999999,
+    "lon": -0.1440243,
+    "address": "Preston Park Avenue, Brighton",
+    "rating": null,
+    "side": "north-central"
+  },
+  {
+    "name": "Wellbourne",
+    "type": "hospital",
+    "lat": 50.8183721,
+    "lon": -0.106323,
+    "address": "22 Whitehawk Road, Brighton",
+    "rating": null,
+    "side": "south-east"
+  },
+  {
+    "name": "Vista health",
+    "type": "hospital",
+    "lat": 50.8125523,
+    "lon": -0.1032011,
+    "address": "27 Marina Way, Brighton Marina, Brighton and Hove, Brighton",
+    "rating": null,
+    "side": "south-east"
+  },
+  {
+    "name": "Soreh Levy Acupuncture",
+    "type": "hospital",
+    "lat": 50.8434639,
+    "lon": -0.1563577,
+    "address": "24 Hampstead Road, Brighton",
+    "rating": 5,
+    "side": "north-west"
+  },
+  {
+    "name": "Hove Shockwave",
+    "type": "hospital",
+    "lat": 50.8342344,
+    "lon": -0.1714047,
+    "address": "Chiropractic First, 82 Goldstone Villas, Brighton",
+    "rating": 5,
+    "side": "north-west"
+  },
+  {
+    "name": "Stanford Medical Centre",
+    "type": "hospital",
+    "lat": 50.8454727,
+    "lon": -0.1176243,
+    "address": "Lewes Road, Brighton",
+    "rating": null,
+    "side": "north-east"
+  }
+]

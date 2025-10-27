@@ -1,0 +1,254 @@
+[
+  {
+    "name": "The Florists Workshop",
+    "type": "florist",
+    "lat": 50.8223138,
+    "lon": -0.1344936,
+    "address": "8 Dorset Street, Brighton",
+    "rating": 4.9,
+    "side": "central-east"
+  },
+  {
+    "name": "Hunter Florist - Brighton",
+    "type": "florist",
+    "lat": 50.820424,
+    "lon": -0.131854,
+    "address": "83 Saint James's Street, Brighton",
+    "rating": 5,
+    "side": "south-east"
+  },
+  {
+    "name": "Rooted & Co",
+    "type": "florist",
+    "lat": 50.8314288,
+    "lon": -0.1358994,
+    "address": "Open Market, Rooted & Co The, 4 Marshalls Row, Brighton",
+    "rating": 4.7,
+    "side": "north-central"
+  },
+  {
+    "name": "In Bloom Brighton",
+    "type": "florist",
+    "lat": 50.8266916,
+    "lon": -0.1030544,
+    "address": "15 Sadler Way, Brighton",
+    "rating": 5,
+    "side": "central-east"
+  },
+  {
+    "name": "Bowley & Gallagher",
+    "type": "florist",
+    "lat": 50.8428918,
+    "lon": -0.1515201,
+    "address": "209 Preston Road, Preston, Brighton and Hove, Brighton",
+    "rating": 5,
+    "side": "north-west"
+  },
+  {
+    "name": "Gunns Florist",
+    "type": "florist",
+    "lat": 50.82147089999999,
+    "lon": -0.1382492,
+    "address": "6 Castle Square, Brighton",
+    "rating": 3.9,
+    "side": "central-central"
+  },
+  {
+    "name": "Florian",
+    "type": "florist",
+    "lat": 50.8254609,
+    "lon": -0.158154,
+    "address": "30 Western Road, Hove",
+    "rating": 4.7,
+    "side": "central-west"
+  },
+  {
+    "name": "Miss Mole's Flower Emporium",
+    "type": "florist",
+    "lat": 50.8372661,
+    "lon": -0.1402386,
+    "address": "78 Beaconsfield Road, Brighton",
+    "rating": 5,
+    "side": "north-central"
+  },
+  {
+    "name": "The Brighton Flower Company",
+    "type": "florist",
+    "lat": 50.824863,
+    "lon": -0.15328,
+    "address": "102 Western Road, Brighton",
+    "rating": 4.8,
+    "side": "central-west"
+  },
+  {
+    "name": "Gunns Florist",
+    "type": "florist",
+    "lat": 50.8277763,
+    "lon": -0.1377727,
+    "address": "18, 19 Sydney Street, Brighton",
+    "rating": 4.5,
+    "side": "north-central"
+  },
+  {
+    "name": "Wendy Kelly Flowers Ltd",
+    "type": "florist",
+    "lat": 50.8186627,
+    "lon": -0.1221668,
+    "address": "94 Saint George's Road, Brighton",
+    "rating": 4.2,
+    "side": "south-east"
+  },
+  {
+    "name": "The Flower Stand",
+    "type": "florist",
+    "lat": 50.8268133,
+    "lon": -0.1646659,
+    "address": "St Johns Church, Palmeira Square",
+    "rating": 4.7,
+    "side": "central-west"
+  },
+  {
+    "name": "Ginger Lily Florists",
+    "type": "florist",
+    "lat": 50.8442536,
+    "lon": -0.143952,
+    "address": "93 Preston Drove, Brighton",
+    "rating": 4.7,
+    "side": "north-central"
+  },
+  {
+    "name": "Cappadocia Gift Shop",
+    "type": "florist",
+    "lat": 50.82564980000001,
+    "lon": -0.1396453,
+    "address": "29 North Road, Brighton",
+    "rating": 4.7,
+    "side": "central-central"
+  },
+  {
+    "name": "Patricia Florist",
+    "type": "florist",
+    "lat": 50.8261029,
+    "lon": -0.1427593,
+    "address": "52 North Road, Brighton",
+    "rating": null,
+    "side": "central-central"
+  },
+  {
+    "name": "Lillys Flowers",
+    "type": "florist",
+    "lat": 50.8278553,
+    "lon": -0.1362249,
+    "address": "Trafalgar Street, Brighton",
+    "rating": null,
+    "side": "north-central"
+  },
+  {
+    "name": "Between Two Thorns",
+    "type": "florist",
+    "lat": 50.8282073,
+    "lon": -0.1374196,
+    "address": "91 Trafalgar Street, Brighton",
+    "rating": 5,
+    "side": "north-central"
+  },
+  {
+    "name": "Kate Langdale Florist",
+    "type": "florist",
+    "lat": 50.8303558,
+    "lon": -0.1468453,
+    "address": "Dyke Road, Brighton",
+    "rating": 5,
+    "side": "north-west"
+  },
+  {
+    "name": "JASMINE FLOWERS SEVEN DIALS",
+    "type": "florist",
+    "lat": 50.83112130000001,
+    "lon": -0.147744,
+    "address": "129 Dyke Road, Hove",
+    "rating": 3.7,
+    "side": "north-west"
+  },
+  {
+    "name": "Amaryllis",
+    "type": "florist",
+    "lat": 50.8248738,
+    "lon": -0.1573997,
+    "address": "10 Upper Market Street, Hove",
+    "rating": null,
+    "side": "central-west"
+  },
+  {
+    "name": "Resting Laurels",
+    "type": "florist",
+    "lat": 50.82629279999999,
+    "lon": -0.1625666,
+    "address": "68 Western Road, Brighton and Hove, Hove",
+    "rating": 5,
+    "side": "central-west"
+  },
+  {
+    "name": "Go Botanica",
+    "type": "florist",
+    "lat": 50.8350393,
+    "lon": -0.1709838,
+    "address": "Railway Station, Goldstone Villas, Hove",
+    "rating": 4.6,
+    "side": "north-west"
+  },
+  {
+    "name": "Scentiment Floristry",
+    "type": "florist",
+    "lat": 50.8433575,
+    "lon": -0.1356852,
+    "address": "138 Preston Drove, Brighton",
+    "rating": 5,
+    "side": "north-central"
+  },
+  {
+    "name": "Flowers by Bella",
+    "type": "florist",
+    "lat": 50.83367009999999,
+    "lon": -0.1658806,
+    "address": "20C Cambridge Grove, Hove",
+    "rating": 5,
+    "side": "north-west"
+  },
+  {
+    "name": "Blooms For Funerals",
+    "type": "florist",
+    "lat": 50.8268326,
+    "lon": -0.1032761,
+    "address": "15 Sadler Way, Brighton",
+    "rating": 5,
+    "side": "central-east"
+  },
+  {
+    "name": "Happy Days Flowers Limited",
+    "type": "florist",
+    "lat": 50.84319850000001,
+    "lon": -0.1581824,
+    "address": "10 Matlock Road, Brighton",
+    "rating": null,
+    "side": "north-west"
+  },
+  {
+    "name": "Gaia Hove",
+    "type": "florist",
+    "lat": 50.8250389,
+    "lon": -0.1762655,
+    "address": "14 Victoria Terrace, Hove",
+    "rating": 5,
+    "side": "central-west"
+  },
+  {
+    "name": "Bloomoria",
+    "type": "florist",
+    "lat": 50.8187366,
+    "lon": -0.1286968,
+    "address": "Marine Parade, Brighton",
+    "rating": null,
+    "side": "south-east"
+  }
+]

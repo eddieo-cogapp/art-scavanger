@@ -1,0 +1,470 @@
+[
+  {
+    "name": "The Old Market",
+    "type": "night_club",
+    "lat": 50.8246067,
+    "lon": -0.1573939,
+    "address": "11A Upper Market Street, Brighton, Hove",
+    "rating": 4.6,
+    "side": "central-west"
+  },
+  {
+    "name": "Concorde 2",
+    "type": "night_club",
+    "lat": 50.81727819999999,
+    "lon": -0.1225252,
+    "address": "286A Madeira Drive, Brighton",
+    "rating": 4.5,
+    "side": "south-east"
+  },
+  {
+    "name": "Revenge",
+    "type": "night_club",
+    "lat": 50.8201252,
+    "lon": -0.136443,
+    "address": "32-34 Old Steine, Brighton",
+    "rating": 4,
+    "side": "south-central"
+  },
+  {
+    "name": "Volks Club",
+    "type": "night_club",
+    "lat": 50.8193,
+    "lon": -0.1327786,
+    "address": "3 Madeira Drive, Brighton",
+    "rating": 4.3,
+    "side": "south-east"
+  },
+  {
+    "name": "Latest Music Bar",
+    "type": "night_club",
+    "lat": 50.8204134,
+    "lon": -0.135529,
+    "address": "14-17 Manchester Street, Brighton",
+    "rating": 3.8,
+    "side": "south-central"
+  },
+  {
+    "name": "Ironworks Studios",
+    "type": "night_club",
+    "lat": 50.82933580000001,
+    "lon": -0.138464,
+    "address": "30 Cheapside, Brighton",
+    "rating": 4.8,
+    "side": "north-central"
+  },
+  {
+    "name": "Decadance UK",
+    "type": "night_club",
+    "lat": 50.8222159,
+    "lon": -0.1389022,
+    "address": "Studios, 170 North Street Upper Floor, Brighton",
+    "rating": 5,
+    "side": "central-central"
+  },
+  {
+    "name": "Verdict Jazz Club",
+    "type": "night_club",
+    "lat": 50.82233219999999,
+    "lon": -0.1339118,
+    "address": "159 Edward Street, Brighton",
+    "rating": 4.6,
+    "side": "central-east"
+  },
+  {
+    "name": "Platinum Lace Brighton",
+    "type": "night_club",
+    "lat": 50.81994829999999,
+    "lon": -0.1389533,
+    "address": "76 East Street, Brighton",
+    "rating": 4.5,
+    "side": "south-central"
+  },
+  {
+    "name": "No 32",
+    "type": "night_club",
+    "lat": 50.82290829999999,
+    "lon": -0.1430361,
+    "address": "32 Duke Street, Brighton",
+    "rating": 4.1,
+    "side": "central-central"
+  },
+  {
+    "name": "Smack",
+    "type": "night_club",
+    "lat": 50.8222428,
+    "lon": -0.1438386,
+    "address": "2 Boyce's Street, Brighton",
+    "rating": 5,
+    "side": "central-central"
+  },
+  {
+    "name": "The Arch Brighton",
+    "type": "night_club",
+    "lat": 50.82004939999999,
+    "lon": -0.1427707,
+    "address": "187-193 Kings Road, Brighton",
+    "rating": 3.5,
+    "side": "south-central"
+  },
+  {
+    "name": "PRYZM Brighton",
+    "type": "night_club",
+    "lat": 50.8211986,
+    "lon": -0.1448137,
+    "address": "Kingswest, West Street, Brighton",
+    "rating": 3.4,
+    "side": "central-central"
+  },
+  {
+    "name": "The Gin Tub",
+    "type": "night_club",
+    "lat": 50.8269996,
+    "lon": -0.166413,
+    "address": "16 Church Road, Hove",
+    "rating": 4.3,
+    "side": "central-west"
+  },
+  {
+    "name": "Revolution Brighton",
+    "type": "night_club",
+    "lat": 50.8213563,
+    "lon": -0.1441652,
+    "address": "77 West Street, Brighton",
+    "rating": 4.2,
+    "side": "central-central"
+  },
+  {
+    "name": "Lucky Voice Brighton",
+    "type": "night_club",
+    "lat": 50.82071000000001,
+    "lon": -0.141347,
+    "address": "8 Black Lion Street, Brighton",
+    "rating": 4.5,
+    "side": "south-central"
+  },
+  {
+    "name": "GRACE Adult Entertainment Club: Brighton's best strip club and lap dancing venue",
+    "type": "night_club",
+    "lat": 50.82324699999999,
+    "lon": -0.142408,
+    "address": "51-52 North Street, Brighton",
+    "rating": 4.1,
+    "side": "central-central"
+  },
+  {
+    "name": "Casablanca Club",
+    "type": "night_club",
+    "lat": 50.8208666,
+    "lon": -0.1434772,
+    "address": "5 Middle Street, Brighton",
+    "rating": 4.1,
+    "side": "south-central"
+  },
+  {
+    "name": "Bella Italia - Brighton Market Street",
+    "type": "night_club",
+    "lat": 50.82103499999999,
+    "lon": -0.1401705,
+    "address": "24 Market Street, Brighton",
+    "rating": 4.5,
+    "side": "central-central"
+  },
+  {
+    "name": "Haus Of Cabaret Brighton",
+    "type": "night_club",
+    "lat": 50.8177778,
+    "lon": -0.1188889,
+    "address": "83 Saint George's Road, Brighton",
+    "rating": 4.4,
+    "side": "south-east"
+  },
+  {
+    "name": "OHSO Social",
+    "type": "night_club",
+    "lat": 50.8191358,
+    "lon": -0.1392668,
+    "address": "250a Kings Road, Brighton",
+    "rating": 4,
+    "side": "south-central"
+  },
+  {
+    "name": "The Queens Arms Brighton",
+    "type": "night_club",
+    "lat": 50.82130510000001,
+    "lon": -0.1347621,
+    "address": "7-8 George Street, Brighton",
+    "rating": 4,
+    "side": "central-east"
+  },
+  {
+    "name": "Bali Brasserie Restaurant, Bar & Live Music Venue",
+    "type": "night_club",
+    "lat": 50.82457309999999,
+    "lon": -0.1666415,
+    "address": "Kingsway Court, First Avenue, Hove",
+    "rating": 4.5,
+    "side": "central-west"
+  },
+  {
+    "name": "Shooshh Brighton",
+    "type": "night_club",
+    "lat": 50.8197824,
+    "lon": -0.1409349,
+    "address": "214 Kings Road, Brighton",
+    "rating": 2.9,
+    "side": "south-central"
+  },
+  {
+    "name": "Coppa Club Brighton",
+    "type": "night_club",
+    "lat": 50.8221162,
+    "lon": -0.1403719,
+    "address": "12 16, 12-16 Brighton Square, Brighton",
+    "rating": 4.3,
+    "side": "central-central"
+  },
+  {
+    "name": "Silent Disco Brighton",
+    "type": "night_club",
+    "lat": 50.8246088,
+    "lon": -0.1353716,
+    "address": "50 Grand Parade, Brighton",
+    "rating": null,
+    "side": "central-central"
+  },
+  {
+    "name": "Apocalypse Brighton",
+    "type": "night_club",
+    "lat": 50.820158,
+    "lon": -0.1354979,
+    "address": "8 Marine Parade, Brighton",
+    "rating": 4.4,
+    "side": "south-central"
+  },
+  {
+    "name": "CHALK",
+    "type": "night_club",
+    "lat": 50.8200045,
+    "lon": -0.1384128,
+    "address": "13 Pool Valley, Brighton",
+    "rating": 3.8,
+    "side": "south-central"
+  },
+  {
+    "name": "Fat Poppadaddys",
+    "type": "night_club",
+    "lat": 50.8199903,
+    "lon": -0.1384747,
+    "address": "13 Pool Valley, Brighton",
+    "rating": 5,
+    "side": "south-central"
+  },
+  {
+    "name": "DUST",
+    "type": "night_club",
+    "lat": 50.8198815,
+    "lon": -0.1390292,
+    "address": "77 East Street, Brighton",
+    "rating": 3.5,
+    "side": "south-central"
+  },
+  {
+    "name": "Disco Wonderland",
+    "type": "night_club",
+    "lat": 50.8196472,
+    "lon": -0.1383,
+    "address": "10 Pool Valley Brighton, and, Hove",
+    "rating": null,
+    "side": "south-central"
+  },
+  {
+    "name": "Secret Discotheque",
+    "type": "night_club",
+    "lat": 50.8196472,
+    "lon": -0.1383,
+    "address": "10 Pool Valley, Brighton",
+    "rating": null,
+    "side": "south-central"
+  },
+  {
+    "name": "The Zone Bar",
+    "type": "night_club",
+    "lat": 50.82081959999999,
+    "lon": -0.1332021,
+    "address": "33 Saint James's Street, Brighton",
+    "rating": 4.4,
+    "side": "south-east"
+  },
+  {
+    "name": "Showlesque and Gamestars",
+    "type": "night_club",
+    "lat": 50.8211036,
+    "lon": -0.1421995,
+    "address": "The Walrus, 10 Ship Street, Brighton",
+    "rating": 5,
+    "side": "central-central"
+  },
+  {
+    "name": "Horizon Nightclub",
+    "type": "night_club",
+    "lat": 50.81977429999999,
+    "lon": -0.1409029,
+    "address": "214 Kings Road, Brighton",
+    "rating": 3.8,
+    "side": "south-central"
+  },
+  {
+    "name": "Tide Beachclub-Nightclub",
+    "type": "night_club",
+    "lat": 50.8198377,
+    "lon": -0.1412267,
+    "address": "211, Kings Road Arches, Brighton",
+    "rating": 3.6,
+    "side": "south-central"
+  },
+  {
+    "name": "Quarters",
+    "type": "night_club",
+    "lat": 50.8200006,
+    "lon": -0.1417559,
+    "address": "187-193 Kings Road, 1NB",
+    "rating": 3.7,
+    "side": "south-central"
+  },
+  {
+    "name": "Zap Club",
+    "type": "night_club",
+    "lat": 50.8200058,
+    "lon": -0.141786,
+    "address": "189-192 Kings Road, Brighton",
+    "rating": null,
+    "side": "south-central"
+  },
+  {
+    "name": "The IGLU Brighton",
+    "type": "night_club",
+    "lat": 50.81998180000001,
+    "lon": -0.1417947,
+    "address": "Suite 214, Kings Road Arches, Brighton",
+    "rating": 3,
+    "side": "south-central"
+  },
+  {
+    "name": "Runway Fridays",
+    "type": "night_club",
+    "lat": 50.81998180000001,
+    "lon": -0.1417947,
+    "address": "214 Kings Road, Brighton",
+    "rating": 5,
+    "side": "south-central"
+  },
+  {
+    "name": "Soul Lounge Brighton",
+    "type": "night_club",
+    "lat": 50.82325549999999,
+    "lon": -0.1434962,
+    "address": "48 West Street, Brighton",
+    "rating": 4.4,
+    "side": "central-central"
+  },
+  {
+    "name": "The original",
+    "type": "night_club",
+    "lat": 50.8213353,
+    "lon": -0.1442847,
+    "address": "Avalon Apartments, West Street, Brighton and Hove, Brighton",
+    "rating": null,
+    "side": "central-central"
+  },
+  {
+    "name": "Walkabout - Brighton",
+    "type": "night_club",
+    "lat": 50.8209661,
+    "lon": -0.1442851,
+    "address": "79 West Street, Brighton",
+    "rating": 4,
+    "side": "south-central"
+  },
+  {
+    "name": "The Victoria Bar & Restaurant",
+    "type": "night_club",
+    "lat": 50.8215643,
+    "lon": -0.1474702,
+    "address": "97-99 Kings Road, Brighton",
+    "rating": 4.4,
+    "side": "central-west"
+  },
+  {
+    "name": "SiZE",
+    "type": "night_club",
+    "lat": 50.8219156,
+    "lon": -0.1531331,
+    "address": "Kings Road Arches, Brighton",
+    "rating": 5,
+    "side": "central-west"
+  },
+  {
+    "name": "Afrobeat Brighton Party",
+    "type": "night_club",
+    "lat": 50.8235857,
+    "lon": -0.1559177,
+    "address": "10 Western Street, Brighton",
+    "rating": null,
+    "side": "central-west"
+  },
+  {
+    "name": "SubLab",
+    "type": "night_club",
+    "lat": 50.835164,
+    "lon": -0.12546,
+    "address": "9 Fairlight Place, Brighton",
+    "rating": 5,
+    "side": "north-east"
+  },
+  {
+    "name": "Third Avenue",
+    "type": "night_club",
+    "lat": 50.8274446,
+    "lon": -0.1698406,
+    "address": "70-72 Church Road, Hove",
+    "rating": 4.3,
+    "side": "north-west"
+  },
+  {
+    "name": "Paris Wine Bar",
+    "type": "night_club",
+    "lat": 50.82798039999999,
+    "lon": -0.1719595,
+    "address": "119 Church Road, Hove",
+    "rating": 4.4,
+    "side": "north-west"
+  },
+  {
+    "name": "Panalo",
+    "type": "night_club",
+    "lat": 50.82785380000001,
+    "lon": -0.1727218,
+    "address": "116 Church Road, Brighton and Hove, Brighton",
+    "rating": 4.9,
+    "side": "north-west"
+  },
+  {
+    "name": "Cafe Havana Lounge-Shisha in Brighton",
+    "type": "night_club",
+    "lat": 50.81225629999999,
+    "lon": -0.1033371,
+    "address": "2a The Waterfront, Brighton and Hove, Brighton",
+    "rating": 3.5,
+    "side": "south-east"
+  },
+  {
+    "name": "Robusto Coffee Roasters. Your Local Coffee House",
+    "type": "night_club",
+    "lat": 50.8294009,
+    "lon": -0.1734319,
+    "address": "24 George Street, Hove",
+    "rating": 4.5,
+    "side": "north-west"
+  }
+]

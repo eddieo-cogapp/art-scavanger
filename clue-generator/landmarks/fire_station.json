@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Preston Circus Community Fire Station",
+    "type": "fire_station",
+    "lat": 50.83365879999999,
+    "lon": -0.1384019,
+    "address": "London Road, Brighton",
+    "rating": 5,
+    "side": "north-central"
+  },
+  {
+    "name": "Roedean Community Fire Station",
+    "type": "fire_station",
+    "lat": 50.8166127,
+    "lon": -0.1032486,
+    "address": "Roedean Road, Brighton and Hove, Brighton",
+    "rating": 5,
+    "side": "south-east"
+  }
+]

@@ -1,0 +1,542 @@
+[
+  {
+    "name": "Victoria Gardens",
+    "type": "tourist_attraction",
+    "lat": 50.8242594,
+    "lon": -0.1362747,
+    "address": "12a Marlborough Place, Brighton",
+    "rating": 4.4,
+    "side": "central-central"
+  },
+  {
+    "name": "Brighton Museum & Art Gallery",
+    "type": "tourist_attraction",
+    "lat": 50.823183,
+    "lon": -0.1378733,
+    "address": "Royal Pavilion Gardens, Brighton",
+    "rating": 4.4,
+    "side": "central-central"
+  },
+  {
+    "name": "St Peter's Church",
+    "type": "tourist_attraction",
+    "lat": 50.8284154,
+    "lon": -0.1349834,
+    "address": "York Place, Brighton",
+    "rating": 4.5,
+    "side": "north-east"
+  },
+  {
+    "name": "Queen's Park Brighton & Hove",
+    "type": "tourist_attraction",
+    "lat": 50.824765,
+    "lon": -0.1254101,
+    "address": "1 West Drive, Brighton",
+    "rating": 4.5,
+    "side": "central-east"
+  },
+  {
+    "name": "Royal Pavilion",
+    "type": "tourist_attraction",
+    "lat": 50.8223517,
+    "lon": -0.1376855,
+    "address": "4/5 Pavilion Buildings, Brighton",
+    "rating": 4.5,
+    "side": "central-central"
+  },
+  {
+    "name": "Brighton West Pier",
+    "type": "tourist_attraction",
+    "lat": 50.8190545,
+    "lon": -0.1519598,
+    "address": "Kings Road, Brighton",
+    "rating": 4.5,
+    "side": "south-west"
+  },
+  {
+    "name": "Saint Paul’s Parish Church",
+    "type": "tourist_attraction",
+    "lat": 50.82189460000001,
+    "lon": -0.1443932,
+    "address": "St Paul's Church, West Street, Brighton and Hove, Brighton",
+    "rating": 4.7,
+    "side": "central-central"
+  },
+  {
+    "name": "Brighton Bike Tours",
+    "type": "tourist_attraction",
+    "lat": 50.8239014,
+    "lon": -0.1392775,
+    "address": "Meet in front of the Unitarian Church, New Road, Brighton",
+    "rating": 4.8,
+    "side": "central-central"
+  },
+  {
+    "name": "Brighton Hippodrome",
+    "type": "tourist_attraction",
+    "lat": 50.8217957,
+    "lon": -0.1426493,
+    "address": "52 Middle Street, Brighton",
+    "rating": 4.5,
+    "side": "central-central"
+  },
+  {
+    "name": "AIDS Memorial",
+    "type": "tourist_attraction",
+    "lat": 50.8203334,
+    "lon": -0.131618,
+    "address": "New Steine, Saint James's Street, Brighton",
+    "rating": 4.5,
+    "side": "south-east"
+  },
+  {
+    "name": "St Nicholas' Church",
+    "type": "tourist_attraction",
+    "lat": 50.8253019,
+    "lon": -0.1446972,
+    "address": "Church Street, Brighton",
+    "rating": 4.6,
+    "side": "central-central"
+  },
+  {
+    "name": "Phoenix Art Space",
+    "type": "tourist_attraction",
+    "lat": 50.8288536,
+    "lon": -0.1337418,
+    "address": "10-14 Waterloo Place, Brighton",
+    "rating": 4.6,
+    "side": "north-east"
+  },
+  {
+    "name": "Anna's Museum",
+    "type": "tourist_attraction",
+    "lat": 50.825271,
+    "lon": -0.148039,
+    "address": "44 Upper North Street, Brighton",
+    "rating": 4.9,
+    "side": "central-west"
+  },
+  {
+    "name": "Regency Square, Brighton",
+    "type": "tourist_attraction",
+    "lat": 50.82244300000001,
+    "lon": -0.1504749,
+    "address": "Regency Square, Brighton",
+    "rating": 4.3,
+    "side": "central-west"
+  },
+  {
+    "name": "Saint Andrew's Church",
+    "type": "tourist_attraction",
+    "lat": 50.8232891,
+    "lon": -0.1566608,
+    "address": "11 Chapel Mews, Hove",
+    "rating": 4.4,
+    "side": "central-west"
+  },
+  {
+    "name": "Brighton Mosque & Muslim Community Centre",
+    "type": "tourist_attraction",
+    "lat": 50.8346528,
+    "lon": -0.1508377,
+    "address": "150 Dyke Road, Brighton",
+    "rating": 4.8,
+    "side": "north-west"
+  },
+  {
+    "name": "Bewilder Box Escape Room Brighton",
+    "type": "tourist_attraction",
+    "lat": 50.8243046,
+    "lon": -0.1623747,
+    "address": "The Brunswick, 1 Holland Road, Hove",
+    "rating": 5,
+    "side": "central-west"
+  },
+  {
+    "name": "Preston Park Brighton & Hove",
+    "type": "tourist_attraction",
+    "lat": 50.8398169,
+    "lon": -0.1460002,
+    "address": "Preston Road",
+    "rating": 4.5,
+    "side": "north-west"
+  },
+  {
+    "name": "All Saints Hove",
+    "type": "tourist_attraction",
+    "lat": 50.83036829999999,
+    "lon": -0.1673619,
+    "address": "The Drive, Hove",
+    "rating": 4.6,
+    "side": "north-west"
+  },
+  {
+    "name": "Brighton Glassblowing",
+    "type": "tourist_attraction",
+    "lat": 50.8437003,
+    "lon": -0.1550213,
+    "address": "42a Robertson Road, Brighton",
+    "rating": 5,
+    "side": "north-west"
+  },
+  {
+    "name": "Booth Museum of Natural History",
+    "type": "tourist_attraction",
+    "lat": 50.8371019,
+    "lon": -0.153043,
+    "address": "194 Dyke Road, Brighton",
+    "rating": 4.5,
+    "side": "north-west"
+  },
+  {
+    "name": "Brighton Buddhist Centre",
+    "type": "tourist_attraction",
+    "lat": 50.8250245,
+    "lon": -0.1399401,
+    "address": "17 Tichborne Street, Brighton",
+    "rating": 4.9,
+    "side": "central-central"
+  },
+  {
+    "name": "Church of St. Bartholomew, Ann Street",
+    "type": "tourist_attraction",
+    "lat": 50.8308815,
+    "lon": -0.1370692,
+    "address": "Ann Street, Brighton",
+    "rating": 4.6,
+    "side": "north-central"
+  },
+  {
+    "name": "Brighton Fishing Museum",
+    "type": "tourist_attraction",
+    "lat": 50.8199806,
+    "lon": -0.1421278,
+    "address": "201, Kings Road Arches, 202 Seafront, Brighton",
+    "rating": 4.2,
+    "side": "south-central"
+  },
+  {
+    "name": "St. George’s Church",
+    "type": "tourist_attraction",
+    "lat": 50.8182767,
+    "lon": -0.119658,
+    "address": "Saint George's Road, Brighton",
+    "rating": 4.6,
+    "side": "south-east"
+  },
+  {
+    "name": "Preston Manor",
+    "type": "tourist_attraction",
+    "lat": 50.8424785,
+    "lon": -0.150042,
+    "address": "Preston Drove, Brighton",
+    "rating": 4.6,
+    "side": "north-west"
+  },
+  {
+    "name": "The Level",
+    "type": "tourist_attraction",
+    "lat": 50.83107759999999,
+    "lon": -0.1332521,
+    "address": "Union Road, Brighton",
+    "rating": 4.1,
+    "side": "north-east"
+  },
+  {
+    "name": "Art 5 Gallery",
+    "type": "tourist_attraction",
+    "lat": 50.8210618,
+    "lon": -0.1408305,
+    "address": "5 Prince Albert Street, Brighton",
+    "rating": 4.7,
+    "side": "central-central"
+  },
+  {
+    "name": "LaserZone",
+    "type": "tourist_attraction",
+    "lat": 50.8215294,
+    "lon": -0.1440568,
+    "address": "76 West Street, Brighton",
+    "rating": 4.5,
+    "side": "central-central"
+  },
+  {
+    "name": "The Regency Town House",
+    "type": "tourist_attraction",
+    "lat": 50.8242663,
+    "lon": -0.1583544,
+    "address": "13 Brunswick Square, Hove",
+    "rating": 4.6,
+    "side": "central-west"
+  },
+  {
+    "name": "Pepper Pot, Brighton",
+    "type": "tourist_attraction",
+    "lat": 50.8272776,
+    "lon": -0.1247878,
+    "address": "11 Tower Road, Brighton",
+    "rating": 4,
+    "side": "north-east"
+  },
+  {
+    "name": "Only in Brighton! Tours",
+    "type": "tourist_attraction",
+    "lat": 50.82200599999999,
+    "lon": -0.1382926,
+    "address": "Meet outside Al Duomo restuarant, Brighton",
+    "rating": 4.9,
+    "side": "central-central"
+  },
+  {
+    "name": "The Chapel Royal Brighton",
+    "type": "tourist_attraction",
+    "lat": 50.82250870000001,
+    "lon": -0.1393596,
+    "address": "164 North Street, Brighton",
+    "rating": 4.5,
+    "side": "central-central"
+  },
+  {
+    "name": "Ghost Walk Of The Lanes",
+    "type": "tourist_attraction",
+    "lat": 50.8216763,
+    "lon": -0.1398456,
+    "address": "9 Brighton Place, Brighton",
+    "rating": 4.7,
+    "side": "central-central"
+  },
+  {
+    "name": "Mazda Fountain",
+    "type": "tourist_attraction",
+    "lat": 50.8248511,
+    "lon": -0.1361134,
+    "address": "Grand Parade, Brighton",
+    "rating": 4.1,
+    "side": "central-central"
+  },
+  {
+    "name": "Old Police Cells Museum",
+    "type": "tourist_attraction",
+    "lat": 50.8205985,
+    "lon": -0.1399328,
+    "address": "Town Hall, Brighton",
+    "rating": 4.3,
+    "side": "south-central"
+  },
+  {
+    "name": "DRAG BUS",
+    "type": "tourist_attraction",
+    "lat": 50.81997460000001,
+    "lon": -0.1382077,
+    "address": "Pool Valley, Brighton",
+    "rating": 4.7,
+    "side": "south-central"
+  },
+  {
+    "name": "Long Egg",
+    "type": "tourist_attraction",
+    "lat": 50.82553919999999,
+    "lon": -0.1391838,
+    "address": "32 Gardner Street, Brighton and Hove, Brighton",
+    "rating": 4.9,
+    "side": "central-central"
+  },
+  {
+    "name": "Brighton Seafront",
+    "type": "tourist_attraction",
+    "lat": 50.8189554,
+    "lon": -0.1379113,
+    "address": "Brighton",
+    "rating": 4.6,
+    "side": "south-central"
+  },
+  {
+    "name": "Brighton Sea Beach",
+    "type": "tourist_attraction",
+    "lat": 50.8184893,
+    "lon": -0.135131,
+    "address": "Brighton",
+    "rating": 4.8,
+    "side": "south-central"
+  },
+  {
+    "name": "Brighton Wallrun",
+    "type": "tourist_attraction",
+    "lat": 50.81911909999999,
+    "lon": -0.1315305,
+    "address": "28 Madeira Drive, Brighton and Hove, Brighton",
+    "rating": 5,
+    "side": "south-east"
+  },
+  {
+    "name": "Mosaic",
+    "type": "tourist_attraction",
+    "lat": 50.8284669,
+    "lon": -0.1392744,
+    "address": "70 Trafalgar Street, Brighton",
+    "rating": 5,
+    "side": "north-central"
+  },
+  {
+    "name": "The Prince Albert Music Legends Mural",
+    "type": "tourist_attraction",
+    "lat": 50.8283913,
+    "lon": -0.1407439,
+    "address": "Trafalgar Street, Brighton and Hove, Brighton",
+    "rating": null,
+    "side": "north-central"
+  },
+  {
+    "name": "Banksy ‘Kissing Coppers’",
+    "type": "tourist_attraction",
+    "lat": 50.8284201,
+    "lon": -0.1407503,
+    "address": "28 Frederick Place, Brighton",
+    "rating": 4.7,
+    "side": "north-central"
+  },
+  {
+    "name": "Brighton Flint Grotto",
+    "type": "tourist_attraction",
+    "lat": 50.8179352,
+    "lon": -0.1282944,
+    "address": "Marine Parade, Brighton",
+    "rating": 4.6,
+    "side": "south-east"
+  },
+  {
+    "name": "Denkmal",
+    "type": "tourist_attraction",
+    "lat": 50.8209244,
+    "lon": -0.1485661,
+    "address": "Brighton Beach, Brighton",
+    "rating": 2,
+    "side": "south-west"
+  },
+  {
+    "name": "Turbo Coaster",
+    "type": "tourist_attraction",
+    "lat": 50.81510700000001,
+    "lon": -0.137545,
+    "address": "Madeira Drive, Brighton",
+    "rating": 3.3,
+    "side": "south-central"
+  },
+  {
+    "name": "Brighton Beach, a pary",
+    "type": "tourist_attraction",
+    "lat": 50.8204793,
+    "lon": -0.1486755,
+    "address": "112, Kings Road Arches, Brighton and Hove, Brighton",
+    "rating": null,
+    "side": "south-west"
+  },
+  {
+    "name": "Brighton Beach Snail",
+    "type": "tourist_attraction",
+    "lat": 50.8210745,
+    "lon": -0.1496351,
+    "address": "Kings Road Arches 91-96, Brighton",
+    "rating": 3,
+    "side": "central-west"
+  },
+  {
+    "name": "Brighton Beach Performance Area",
+    "type": "tourist_attraction",
+    "lat": 50.82120099999999,
+    "lon": -0.1500203,
+    "address": "52 Kings Road, Brighton",
+    "rating": null,
+    "side": "central-west"
+  },
+  {
+    "name": "Rampion Visitor Centre",
+    "type": "tourist_attraction",
+    "lat": 50.8213113,
+    "lon": -0.1501032,
+    "address": "76, Kings Road Arches, Brighton",
+    "rating": 4.7,
+    "side": "central-west"
+  },
+  {
+    "name": "Brighton i360",
+    "type": "tourist_attraction",
+    "lat": 50.8213731,
+    "lon": -0.1509064,
+    "address": "Lower Kings Road, Brighton",
+    "rating": 4.5,
+    "side": "central-west"
+  },
+  {
+    "name": "Brighton City Open Market",
+    "type": "tourist_attraction",
+    "lat": 50.831425,
+    "lon": -0.1355028,
+    "address": "Marshalls Row, Brighton",
+    "rating": 4.3,
+    "side": "north-central"
+  },
+  {
+    "name": "Brighton Seafront Gallery",
+    "type": "tourist_attraction",
+    "lat": 50.82144529999999,
+    "lon": -0.1516787,
+    "address": "54 Kings Road, Brighton",
+    "rating": 4.8,
+    "side": "central-west"
+  },
+  {
+    "name": "Phenix Art Space's - (Community Art Murial)",
+    "type": "tourist_attraction",
+    "lat": 50.8318004,
+    "lon": -0.1389207,
+    "address": "New England Street, Brighton and Hove, Brighton",
+    "rating": null,
+    "side": "north-central"
+  },
+  {
+    "name": "Upside Down House - Brighton",
+    "type": "tourist_attraction",
+    "lat": 50.8215416,
+    "lon": -0.1521386,
+    "address": "42-43, Kings Road Arches, Brighton",
+    "rating": 4.4,
+    "side": "central-west"
+  },
+  {
+    "name": "I360 Event Space",
+    "type": "tourist_attraction",
+    "lat": 50.8221791,
+    "lon": -0.1534763,
+    "address": "Lower, Kings Road, Brighton",
+    "rating": 4.6,
+    "side": "central-west"
+  },
+  {
+    "name": "Brighton Beach Bandstand",
+    "type": "tourist_attraction",
+    "lat": 50.8220684,
+    "lon": -0.1548381,
+    "address": "Kings Road, Brighton",
+    "rating": 4.6,
+    "side": "central-west"
+  },
+  {
+    "name": "The Lorax",
+    "type": "tourist_attraction",
+    "lat": 50.82464270000001,
+    "lon": -0.1548395,
+    "address": "Norfolk Square, Brighton and Hove, Brighton",
+    "rating": 4.7,
+    "side": "central-west"
+  },
+  {
+    "name": "Listed Historic Railing",
+    "type": "tourist_attraction",
+    "lat": 50.8222115,
+    "lon": -0.1569251,
+    "address": "Kings Road, High Street, Brighton",
+    "rating": 5,
+    "side": "central-west"
+  }
+]

@@ -1,0 +1,542 @@
+[
+  {
+    "name": "Tesco Express",
+    "type": "supermarket",
+    "lat": 50.824529,
+    "lon": -0.138976,
+    "address": "Tesco Xpress, 5 Jubilee Street, Brighton",
+    "rating": 3.3,
+    "side": "central-central"
+  },
+  {
+    "name": "ALDI",
+    "type": "supermarket",
+    "lat": 50.8296384,
+    "lon": -0.1362335,
+    "address": "1-4 London Road, Brighton",
+    "rating": 4.3,
+    "side": "north-central"
+  },
+  {
+    "name": "Sainsbury's Local",
+    "type": "supermarket",
+    "lat": 50.8237014,
+    "lon": -0.1424414,
+    "address": "134 North Street, Brighton",
+    "rating": 3,
+    "side": "central-central"
+  },
+  {
+    "name": "Sainsbury's Local",
+    "type": "supermarket",
+    "lat": 50.8259251,
+    "lon": -0.161221,
+    "address": "55-56 Western Road, Hove",
+    "rating": 3.7,
+    "side": "central-west"
+  },
+  {
+    "name": "Infinity Foods",
+    "type": "supermarket",
+    "lat": 50.8256056,
+    "lon": -0.1390912,
+    "address": "25 North Road, Brighton",
+    "rating": 4.6,
+    "side": "central-central"
+  },
+  {
+    "name": "Sainsbury's",
+    "type": "supermarket",
+    "lat": 50.8305488,
+    "lon": -0.1381704,
+    "address": "27 New England Street, Brighton",
+    "rating": 4.1,
+    "side": "north-central"
+  },
+  {
+    "name": "Sainsbury's Local",
+    "type": "supermarket",
+    "lat": 50.82468,
+    "lon": -0.15037,
+    "address": "147-148 Western Road, Brighton",
+    "rating": 3.6,
+    "side": "central-west"
+  },
+  {
+    "name": "Sainsbury's",
+    "type": "supermarket",
+    "lat": 50.83708960000001,
+    "lon": -0.1257162,
+    "address": "93 Lewes Road, Brighton",
+    "rating": 4,
+    "side": "north-east"
+  },
+  {
+    "name": "Morrisons",
+    "type": "supermarket",
+    "lat": 50.82178099999999,
+    "lon": -0.134819,
+    "address": "5-8 Saint James's Street, Brighton",
+    "rating": 4,
+    "side": "central-east"
+  },
+  {
+    "name": "Waitrose & Partners",
+    "type": "supermarket",
+    "lat": 50.825028,
+    "lon": -0.1519909,
+    "address": "130-134 Western Road, Brighton",
+    "rating": 4.2,
+    "side": "central-west"
+  },
+  {
+    "name": "Londis",
+    "type": "supermarket",
+    "lat": 50.82706939999999,
+    "lon": -0.1663114,
+    "address": "14 Church Road, Hove",
+    "rating": 3.8,
+    "side": "north-west"
+  },
+  {
+    "name": "Londis",
+    "type": "supermarket",
+    "lat": 50.8287618,
+    "lon": -0.1232367,
+    "address": "231 Queens Park Road, Brighton",
+    "rating": 3.1,
+    "side": "north-east"
+  },
+  {
+    "name": "Nine Supermarket",
+    "type": "supermarket",
+    "lat": 50.8257724,
+    "lon": -0.1426718,
+    "address": "26 Queens Road, Brighton",
+    "rating": 3.8,
+    "side": "central-central"
+  },
+  {
+    "name": "AfrikMark Brighton",
+    "type": "supermarket",
+    "lat": 50.8339784,
+    "lon": -0.1392364,
+    "address": "4 Preston Road, Brighton",
+    "rating": 4,
+    "side": "north-central"
+  },
+  {
+    "name": "Sainsbury's Local",
+    "type": "supermarket",
+    "lat": 50.8212475,
+    "lon": -0.1362859,
+    "address": "13-15 Old Steine, Brighton",
+    "rating": 3.4,
+    "side": "central-central"
+  },
+  {
+    "name": "Sainsbury's Local",
+    "type": "supermarket",
+    "lat": 50.826836,
+    "lon": -0.1422296,
+    "address": "43 - 46 Queens Road, Brighton",
+    "rating": 3.7,
+    "side": "central-central"
+  },
+  {
+    "name": "Marks & Spencer",
+    "type": "supermarket",
+    "lat": 50.8240322,
+    "lon": -0.1457519,
+    "address": "195 Western Road, Brighton",
+    "rating": 4.2,
+    "side": "central-west"
+  },
+  {
+    "name": "M&S Simply Food",
+    "type": "supermarket",
+    "lat": 50.82890390000001,
+    "lon": -0.1415149,
+    "address": "Main Concourse, Terminus Road, Brighton",
+    "rating": 3.5,
+    "side": "north-central"
+  },
+  {
+    "name": "bp",
+    "type": "supermarket",
+    "lat": 50.8372877,
+    "lon": -0.1249371,
+    "address": "100 Lewes Road, Brighton",
+    "rating": 2.8,
+    "side": "north-east"
+  },
+  {
+    "name": "Lidl",
+    "type": "supermarket",
+    "lat": 50.81690450000001,
+    "lon": -0.1071348,
+    "address": "45 Arundel Road, Brighton",
+    "rating": 4.2,
+    "side": "south-east"
+  },
+  {
+    "name": "Sainsbury's Local",
+    "type": "supermarket",
+    "lat": 50.8437725,
+    "lon": -0.1519167,
+    "address": "227-233 Preston Road, Brighton",
+    "rating": 3.4,
+    "side": "north-west"
+  },
+  {
+    "name": "Iceland Supermarket Hove - Brighton & Hove",
+    "type": "supermarket",
+    "lat": 50.83107009999999,
+    "lon": -0.1747362,
+    "address": "54 Blatchington Road, Hove",
+    "rating": 4.2,
+    "side": "north-west"
+  },
+  {
+    "name": "Mercadinho - Brazilian Butcher & Grocery",
+    "type": "supermarket",
+    "lat": 50.8281566,
+    "lon": -0.1751736,
+    "address": "158 Church Road, Hove",
+    "rating": 4.4,
+    "side": "north-west"
+  },
+  {
+    "name": "Poundland",
+    "type": "supermarket",
+    "lat": 50.8244153,
+    "lon": -0.1486476,
+    "address": "166-168 Western Road, Brighton",
+    "rating": 4.2,
+    "side": "central-west"
+  },
+  {
+    "name": "Taj the Grocer",
+    "type": "supermarket",
+    "lat": 50.8247152,
+    "lon": -0.1524802,
+    "address": "98-99 Western Road, Brighton",
+    "rating": 4.3,
+    "side": "central-west"
+  },
+  {
+    "name": "Kantenya",
+    "type": "supermarket",
+    "lat": 50.8302545,
+    "lon": -0.1382115,
+    "address": "5 Fenchurch Walk, Brighton",
+    "rating": 4.9,
+    "side": "north-central"
+  },
+  {
+    "name": "Tesco Esso Express",
+    "type": "supermarket",
+    "lat": 50.83817149999999,
+    "lon": -0.1549579,
+    "address": "239 Dyke Road, Hove",
+    "rating": 3.3,
+    "side": "north-west"
+  },
+  {
+    "name": "Yum Yum Oriental Market",
+    "type": "supermarket",
+    "lat": 50.8279246,
+    "lon": -0.1377385,
+    "address": "22-23 Sydney Street, Brighton",
+    "rating": 4.6,
+    "side": "north-central"
+  },
+  {
+    "name": "M&S Simply Food",
+    "type": "supermarket",
+    "lat": 50.83746490000001,
+    "lon": -0.1247705,
+    "address": "100 Lewes Road, Brighton",
+    "rating": 3.2,
+    "side": "north-east"
+  },
+  {
+    "name": "Tesco Express",
+    "type": "supermarket",
+    "lat": 50.8263906,
+    "lon": -0.1615951,
+    "address": "82 Western Road, Hove",
+    "rating": 3.5,
+    "side": "central-west"
+  },
+  {
+    "name": "Poundland",
+    "type": "supermarket",
+    "lat": 50.83116649999999,
+    "lon": -0.1365773,
+    "address": "27-31 London Road, Brighton",
+    "rating": 4.1,
+    "side": "north-central"
+  },
+  {
+    "name": "Tesco Superstore",
+    "type": "supermarket",
+    "lat": 50.82887689999999,
+    "lon": -0.176018,
+    "address": "Church Road, EAST SUSSEX, Hove",
+    "rating": 3.9,
+    "side": "north-west"
+  },
+  {
+    "name": "Seven Stars Oriental Supermarket 七星超市 Chinese Shop 中国超市，亚洲行",
+    "type": "supermarket",
+    "lat": 50.8218024,
+    "lon": -0.134316,
+    "address": "44A George Street, Brighton",
+    "rating": 4.1,
+    "side": "central-east"
+  },
+  {
+    "name": "Tesco Express",
+    "type": "supermarket",
+    "lat": 50.8265924,
+    "lon": -0.1417454,
+    "address": "104 Queens Road, Brighton",
+    "rating": 3.3,
+    "side": "central-central"
+  },
+  {
+    "name": "Fortune Supermarket Brighton",
+    "type": "supermarket",
+    "lat": 50.8238959,
+    "lon": -0.1510028,
+    "address": "38-40 Preston Street, Brighton",
+    "rating": 4.2,
+    "side": "central-west"
+  },
+  {
+    "name": "Budgens",
+    "type": "supermarket",
+    "lat": 50.8284044,
+    "lon": -0.141051,
+    "address": "Queens Road, Brighton",
+    "rating": 2.2,
+    "side": "north-central"
+  },
+  {
+    "name": "Argos OLD STEINE SAINSBURYS LOCAL COLLECT",
+    "type": "supermarket",
+    "lat": 50.8213646,
+    "lon": -0.1362943,
+    "address": "12-15, Old Steine Sainsburys, 12 Old Steine, Kemptown, Brighton",
+    "rating": 5,
+    "side": "central-central"
+  },
+  {
+    "name": "Mellat Supermarket",
+    "type": "supermarket",
+    "lat": 50.8209846,
+    "lon": -0.1345522,
+    "address": "17-19 Saint James's Street, Brighton",
+    "rating": 4.4,
+    "side": "south-east"
+  },
+  {
+    "name": "Corner Shop/Grocers",
+    "type": "supermarket",
+    "lat": 50.8206835,
+    "lon": -0.1326238,
+    "address": "38b Saint James's Street, Brighton",
+    "rating": 4.4,
+    "side": "south-east"
+  },
+  {
+    "name": "Trinity Supermarket",
+    "type": "supermarket",
+    "lat": 50.8256874,
+    "lon": -0.1398574,
+    "address": "31 North Road, Brighton",
+    "rating": 5,
+    "side": "central-central"
+  },
+  {
+    "name": "Churchill's Supermarket",
+    "type": "supermarket",
+    "lat": 50.82403499999999,
+    "lon": -0.143894,
+    "address": "1a Air Street, Brighton",
+    "rating": 3.7,
+    "side": "central-central"
+  },
+  {
+    "name": "Budgens",
+    "type": "supermarket",
+    "lat": 50.82684090000001,
+    "lon": -0.1342886,
+    "address": "1-6 Grand Parade, Brighton",
+    "rating": 2.6,
+    "side": "central-east"
+  },
+  {
+    "name": "Tesco Express",
+    "type": "supermarket",
+    "lat": 50.8239741,
+    "lon": -0.1460215,
+    "address": "194 Western Road, Brighton",
+    "rating": 2.8,
+    "side": "central-west"
+  },
+  {
+    "name": "Panda supermarket",
+    "type": "supermarket",
+    "lat": 50.8275724,
+    "lon": -0.1418535,
+    "address": "57 Queens Road, Brighton",
+    "rating": 4.7,
+    "side": "north-central"
+  },
+  {
+    "name": "Upper local store",
+    "type": "supermarket",
+    "lat": 50.8274541,
+    "lon": -0.1430483,
+    "address": "59 Upper Gloucester Road, Brighton",
+    "rating": 5,
+    "side": "north-central"
+  },
+  {
+    "name": "Budgens",
+    "type": "supermarket",
+    "lat": 50.81935899999999,
+    "lon": -0.1271965,
+    "address": "32 Upper St James's Street, Brighton",
+    "rating": 4.1,
+    "side": "south-east"
+  },
+  {
+    "name": "Co-op Food - Brighton - London Road",
+    "type": "supermarket",
+    "lat": 50.8307009,
+    "lon": -0.1358854,
+    "address": "119 London Road, Brighton",
+    "rating": 2.9,
+    "side": "north-central"
+  },
+  {
+    "name": "Yun Feng Foods 中国超市",
+    "type": "supermarket",
+    "lat": 50.8309884,
+    "lon": -0.1364336,
+    "address": "25 London Road, Brighton",
+    "rating": 4.1,
+    "side": "north-central"
+  },
+  {
+    "name": "Premier",
+    "type": "supermarket",
+    "lat": 50.8246315,
+    "lon": -0.151729,
+    "address": "92 Western Road, Brighton",
+    "rating": 3,
+    "side": "central-west"
+  },
+  {
+    "name": "Budgens",
+    "type": "supermarket",
+    "lat": 50.8243266,
+    "lon": -0.1201277,
+    "address": "34 Sutherland Road, Brighton",
+    "rating": 3.8,
+    "side": "central-east"
+  },
+  {
+    "name": "Premier",
+    "type": "supermarket",
+    "lat": 50.83236119999999,
+    "lon": -0.1291797,
+    "address": "192-193 Lewes Road, Brighton",
+    "rating": 3.2,
+    "side": "north-east"
+  },
+  {
+    "name": "PAMIR GROCERY",
+    "type": "supermarket",
+    "lat": 50.83391319999999,
+    "lon": -0.1391168,
+    "address": "2A Preston Road, Brighton",
+    "rating": 4.5,
+    "side": "north-central"
+  },
+  {
+    "name": "M&S Food To Go",
+    "type": "supermarket",
+    "lat": 50.81926319999999,
+    "lon": -0.1169988,
+    "address": "Hospital, Eastern Road, Brighton and Hove, Royal Sussex",
+    "rating": 3,
+    "side": "south-east"
+  },
+  {
+    "name": "Ideal Market",
+    "type": "supermarket",
+    "lat": 50.8175505,
+    "lon": -0.11787,
+    "address": "71 Saint George's Road, Brighton",
+    "rating": 4.6,
+    "side": "south-east"
+  },
+  {
+    "name": "Daratic World Mart",
+    "type": "supermarket",
+    "lat": 50.836341,
+    "lon": -0.1250223,
+    "address": "126 Lewes Road, Brighton",
+    "rating": 4.5,
+    "side": "north-east"
+  },
+  {
+    "name": "Dragon",
+    "type": "supermarket",
+    "lat": 50.8363848,
+    "lon": -0.1249936,
+    "address": "125 Lewes Road, Brighton",
+    "rating": 4.9,
+    "side": "north-east"
+  },
+  {
+    "name": "Budgens",
+    "type": "supermarket",
+    "lat": 50.82704409999999,
+    "lon": -0.1664961,
+    "address": "18 Church Road, Hove",
+    "rating": 3.7,
+    "side": "north-west"
+  },
+  {
+    "name": "ALDI",
+    "type": "supermarket",
+    "lat": 50.8405865,
+    "lon": -0.1231051,
+    "address": "Unit 1, Rp, The Pavilion Centre, Lewes Road, Brighton",
+    "rating": 4.3,
+    "side": "north-east"
+  },
+  {
+    "name": "Premier",
+    "type": "supermarket",
+    "lat": 50.81962919999999,
+    "lon": -0.1051227,
+    "address": "8 The Broadway, Brighton",
+    "rating": 4,
+    "side": "south-east"
+  },
+  {
+    "name": "Premier",
+    "type": "supermarket",
+    "lat": 50.8274688,
+    "lon": -0.1052754,
+    "address": "27 Whitehawk Way, Brighton",
+    "rating": 5,
+    "side": "north-east"
+  }
+]

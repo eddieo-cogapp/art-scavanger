@@ -1,0 +1,164 @@
+[
+  {
+    "name": "Hove Railway Station",
+    "type": "bus_station",
+    "lat": 50.83474,
+    "lon": -0.171076,
+    "address": "United Kingdom",
+    "rating": 3.3,
+    "side": "north-west"
+  },
+  {
+    "name": "Clock Tower (Stop T1)",
+    "type": "bus_station",
+    "lat": 50.8240393,
+    "lon": -0.1433807,
+    "address": "Queens Road, Brighton",
+    "rating": 4.3,
+    "side": "central-central"
+  },
+  {
+    "name": "Imperial Arcade (Stop C7)",
+    "type": "bus_station",
+    "lat": 50.82404570000001,
+    "lon": -0.1447568,
+    "address": "Brighton",
+    "rating": 4,
+    "side": "central-central"
+  },
+  {
+    "name": "Churchill Square (Stop C5)",
+    "type": "bus_station",
+    "lat": 50.823776,
+    "lon": -0.146046,
+    "address": "United Kingdom",
+    "rating": 4.8,
+    "side": "central-west"
+  },
+  {
+    "name": "Brighton Station (Stop B4)",
+    "type": "bus_station",
+    "lat": 50.82798880000001,
+    "lon": -0.141395,
+    "address": "Queens Road, Brighton",
+    "rating": 5,
+    "side": "north-central"
+  },
+  {
+    "name": "Brighton Station (Stop B3)",
+    "type": "bus_station",
+    "lat": 50.8284647,
+    "lon": -0.1415294,
+    "address": "Junction Road, Brighton",
+    "rating": 4.7,
+    "side": "north-central"
+  },
+  {
+    "name": "Brighton Station (Stop B2)",
+    "type": "bus_station",
+    "lat": 50.8285362,
+    "lon": -0.1415307,
+    "address": "Junction Road, Brighton",
+    "rating": 4,
+    "side": "north-central"
+  },
+  {
+    "name": "Brighton Station (Stop B1)",
+    "type": "bus_station",
+    "lat": 50.82860599999999,
+    "lon": -0.141509,
+    "address": "Junction Road, Brighton",
+    "rating": 3,
+    "side": "north-central"
+  },
+  {
+    "name": "Palmeira Square",
+    "type": "bus_station",
+    "lat": 50.826764,
+    "lon": -0.1626007,
+    "address": "United Kingdom",
+    "rating": null,
+    "side": "central-west"
+  },
+  {
+    "name": "Freehold Terrace",
+    "type": "bus_station",
+    "lat": 50.83835599999999,
+    "lon": -0.128183,
+    "address": "United Kingdom",
+    "rating": null,
+    "side": "north-east"
+  },
+  {
+    "name": "Palmeira Square",
+    "type": "bus_station",
+    "lat": 50.8265,
+    "lon": -0.163503,
+    "address": "United Kingdom",
+    "rating": 5,
+    "side": "central-west"
+  },
+  {
+    "name": "Coombe Road",
+    "type": "bus_station",
+    "lat": 50.8410989,
+    "lon": -0.1216786,
+    "address": "United Kingdom",
+    "rating": 3.3,
+    "side": "north-east"
+  },
+  {
+    "name": "Fire Station",
+    "type": "bus_station",
+    "lat": 50.816643,
+    "lon": -0.102831,
+    "address": "United Kingdom",
+    "rating": null,
+    "side": "south-east"
+  },
+  {
+    "name": "Fire Station",
+    "type": "bus_station",
+    "lat": 50.81675000000001,
+    "lon": -0.102684,
+    "address": "United Kingdom",
+    "rating": null,
+    "side": "south-east"
+  },
+  {
+    "name": "Town Hall (Stop D)",
+    "type": "bus_station",
+    "lat": 50.82780100000001,
+    "lon": -0.172028,
+    "address": "United Kingdom",
+    "rating": 5,
+    "side": "north-west"
+  },
+  {
+    "name": "Hove Railway Station",
+    "type": "bus_station",
+    "lat": 50.834637,
+    "lon": -0.170909,
+    "address": "United Kingdom",
+    "rating": 2.8,
+    "side": "north-west"
+  },
+  {
+    "name": "George Street (Stop F)",
+    "type": "bus_station",
+    "lat": 50.83113179999999,
+    "lon": -0.173832,
+    "address": "United Kingdom",
+    "rating": 5,
+    "side": "north-west"
+  },
+  {
+    "name": "Harrington Road",
+    "type": "bus_station",
+    "lat": 50.84587,
+    "lon": -0.151412,
+    "address": "United Kingdom",
+    "rating": 4.5,
+    "side": "north-west"
+  }
+]

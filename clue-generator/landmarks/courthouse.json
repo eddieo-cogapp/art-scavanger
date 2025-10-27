@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Witness Service Within Brighton & Hove Magistrates' Court",
+    "type": "courthouse",
+    "lat": 50.82281,
+    "lon": -0.1345154,
+    "address": "Edward Ave, Saltdean, Brighton",
+    "rating": null,
+    "side": "central-east"
+  },
+  {
+    "name": "Brighton Tribunal Hearing Centre",
+    "type": "courthouse",
+    "lat": 50.8323628,
+    "lon": -0.149281,
+    "address": "185 Dyke Road, Hove",
+    "rating": null,
+    "side": "north-west"
+  },
+  {
+    "name": "Brighton County Court",
+    "type": "courthouse",
+    "lat": 50.8230106,
+    "lon": -0.1350198,
+    "address": "William Street, Brighton",
+    "rating": 1.6,
+    "side": "central-central"
+  },
+  {
+    "name": "Crown Prosecution Service",
+    "type": "courthouse",
+    "lat": 50.83241020000001,
+    "lon": -0.1496355,
+    "address": "Police Station, John Street, Brighton",
+    "rating": 3,
+    "side": "north-west"
+  },
+  {
+    "name": "Law Courts",
+    "type": "courthouse",
+    "lat": 50.8228151,
+    "lon": -0.1345156,
+    "address": "The Law Courts, Edward Street, Brighton",
+    "rating": 1.8,
+    "side": "central-east"
+  },
+  {
+    "name": "Hove Crown Court",
+    "type": "courthouse",
+    "lat": 50.82859620000001,
+    "lon": -0.1614904,
+    "address": "Lansdowne Road, Hove",
+    "rating": 3.5,
+    "side": "north-west"
+  }
+]

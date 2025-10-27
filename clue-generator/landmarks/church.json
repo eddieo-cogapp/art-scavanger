@@ -1,0 +1,542 @@
+[
+  {
+    "name": "Church of Saint Michael, Victoria Road",
+    "type": "church",
+    "lat": 50.82742769999999,
+    "lon": -0.1499877,
+    "address": "8A Powis Road, Brighton",
+    "rating": 4.6,
+    "side": "north-west"
+  },
+  {
+    "name": "St Peter's Church",
+    "type": "church",
+    "lat": 50.8284154,
+    "lon": -0.1349834,
+    "address": "York Place, Brighton",
+    "rating": 4.5,
+    "side": "north-east"
+  },
+  {
+    "name": "Brighton Unitarian Church",
+    "type": "church",
+    "lat": 50.8239489,
+    "lon": -0.1394588,
+    "address": "New Road, Brighton",
+    "rating": 4.3,
+    "side": "central-central"
+  },
+  {
+    "name": "Church of Scientology of Brighton",
+    "type": "church",
+    "lat": 50.8235221,
+    "lon": -0.1442744,
+    "address": "Floor, 79, Third, 83 North Street, East Sussex, Brighton",
+    "rating": 2.8,
+    "side": "central-central"
+  },
+  {
+    "name": "Park Hill Evangelical Church",
+    "type": "church",
+    "lat": 50.8231943,
+    "lon": -0.1279182,
+    "address": "Park Hill, Brighton and Hove, Brighton",
+    "rating": 4.5,
+    "side": "central-east"
+  },
+  {
+    "name": "Saint Paul’s Parish Church",
+    "type": "church",
+    "lat": 50.82189460000001,
+    "lon": -0.1443932,
+    "address": "St Paul's Church, West Street, Brighton and Hove, Brighton",
+    "rating": 4.7,
+    "side": "central-central"
+  },
+  {
+    "name": "VitaChurch",
+    "type": "church",
+    "lat": 50.8268763,
+    "lon": -0.1619048,
+    "address": "VitaChurch Offices, 38 Holland Road, Hove",
+    "rating": 5,
+    "side": "central-west"
+  },
+  {
+    "name": "First Church of Christ, Scientist",
+    "type": "church",
+    "lat": 50.8255325,
+    "lon": -0.1522383,
+    "address": "97 Montpelier Road, Brighton",
+    "rating": 5,
+    "side": "central-west"
+  },
+  {
+    "name": "One Church Brighton",
+    "type": "church",
+    "lat": 50.837992,
+    "lon": -0.1355316,
+    "address": "Florence Road, Brighton",
+    "rating": 4.5,
+    "side": "north-central"
+  },
+  {
+    "name": "St John the Baptist's Church, Hove",
+    "type": "church",
+    "lat": 50.82685679999999,
+    "lon": -0.164661,
+    "address": "Church Road, Hove",
+    "rating": 4.8,
+    "side": "central-west"
+  },
+  {
+    "name": "United Reformed Church",
+    "type": "church",
+    "lat": 50.8256726,
+    "lon": -0.1415208,
+    "address": "44 North Road, Brighton",
+    "rating": null,
+    "side": "central-central"
+  },
+  {
+    "name": "St Mary's Roman Catholic Church",
+    "type": "church",
+    "lat": 50.84464539999999,
+    "lon": -0.1458319,
+    "address": "St Mary's Church, 5 Surrenden Road, Preston, Brighton and Hove, Brighton",
+    "rating": 4.7,
+    "side": "north-west"
+  },
+  {
+    "name": "Lewes Road United Reformed Church",
+    "type": "church",
+    "lat": 50.8398972,
+    "lon": -0.1232772,
+    "address": "Saunders Park Rise, Brighton",
+    "rating": 4.7,
+    "side": "north-east"
+  },
+  {
+    "name": "The Village MCC - Worship service Sunday 6pm",
+    "type": "church",
+    "lat": 50.8212147,
+    "lon": -0.1339401,
+    "address": "Dorset Gardens Methodist Church, Brighton",
+    "rating": 4.2,
+    "side": "central-east"
+  },
+  {
+    "name": "Quakers Religious Society of Friends",
+    "type": "church",
+    "lat": 50.82199170000001,
+    "lon": -0.1417099,
+    "address": "Meeting House Cottage, Ship Street, Brighton",
+    "rating": null,
+    "side": "central-central"
+  },
+  {
+    "name": "Brighton National Spiritualist Church",
+    "type": "church",
+    "lat": 50.8222963,
+    "lon": -0.1313831,
+    "address": "62 Edward Street, Brighton",
+    "rating": 4.5,
+    "side": "central-east"
+  },
+  {
+    "name": "One Church Brighton",
+    "type": "church",
+    "lat": 50.82634350000001,
+    "lon": -0.1360188,
+    "address": "20-22, 20-22 Gloucester Place, Brighton and Hove, Brighton",
+    "rating": 4.7,
+    "side": "central-central"
+  },
+  {
+    "name": "City Gate Church",
+    "type": "church",
+    "lat": 50.82579209999999,
+    "lon": -0.1415452,
+    "address": "Brighthelm Community Centre, North Road, Brighton",
+    "rating": null,
+    "side": "central-central"
+  },
+  {
+    "name": "Brighthelm URC Church",
+    "type": "church",
+    "lat": 50.82591859999999,
+    "lon": -0.1418876,
+    "address": "59 North Road, Brighton",
+    "rating": 4.1,
+    "side": "central-central"
+  },
+  {
+    "name": "St Nicholas' Church",
+    "type": "church",
+    "lat": 50.8253019,
+    "lon": -0.1446972,
+    "address": "Church Street, Brighton",
+    "rating": 4.6,
+    "side": "central-central"
+  },
+  {
+    "name": "Chapel in the Inn",
+    "type": "church",
+    "lat": 50.8229098,
+    "lon": -0.1488626,
+    "address": "The Regency Tavern, 32-34 Russell Square, Brighton and Hove, Brighton",
+    "rating": 5,
+    "side": "central-west"
+  },
+  {
+    "name": "International Zen Association UK",
+    "type": "church",
+    "lat": 50.82981710000001,
+    "lon": -0.1351022,
+    "address": "i, 3 Queen's Place, Brighton",
+    "rating": null,
+    "side": "north-central"
+  },
+  {
+    "name": "West Hill Baptist Chapel",
+    "type": "church",
+    "lat": 50.82924389999999,
+    "lon": -0.1451459,
+    "address": "West Hill Road, Brighton",
+    "rating": 5,
+    "side": "north-west"
+  },
+  {
+    "name": "St Luke's Church, Brighton",
+    "type": "church",
+    "lat": 50.8276662,
+    "lon": -0.1242305,
+    "address": "Queens Park Road, Brighton",
+    "rating": 4.5,
+    "side": "north-east"
+  },
+  {
+    "name": "Railway Mission",
+    "type": "church",
+    "lat": 50.8335448,
+    "lon": -0.1379712,
+    "address": "72 Viaduct Road, Brighton",
+    "rating": 5,
+    "side": "north-central"
+  },
+  {
+    "name": "Saint Andrew's Church",
+    "type": "church",
+    "lat": 50.8232891,
+    "lon": -0.1566608,
+    "address": "11 Chapel Mews, Hove",
+    "rating": 4.4,
+    "side": "central-west"
+  },
+  {
+    "name": "Thumbprint Foundation and The Well",
+    "type": "church",
+    "lat": 50.8360953,
+    "lon": -0.1250996,
+    "address": "Fresh Start Community Centre, 131 Lewes Road, Brighton",
+    "rating": 3.7,
+    "side": "north-east"
+  },
+  {
+    "name": "St Cuthmans Church",
+    "type": "church",
+    "lat": 50.82823870000001,
+    "lon": -0.1051743,
+    "address": "Whitehawk Way, Whitehawk, Sussex",
+    "rating": 4.8,
+    "side": "north-east"
+  },
+  {
+    "name": "St Peter's Church, Preston Village, Brighton",
+    "type": "church",
+    "lat": 50.8423247,
+    "lon": -0.1493736,
+    "address": "Preston Drove Brighton, and, Hove",
+    "rating": 4.7,
+    "side": "north-west"
+  },
+  {
+    "name": "All Saints Hove",
+    "type": "church",
+    "lat": 50.83036829999999,
+    "lon": -0.1673619,
+    "address": "The Drive, Hove",
+    "rating": 4.6,
+    "side": "north-west"
+  },
+  {
+    "name": "THERAPEUTIC PILATES",
+    "type": "church",
+    "lat": 50.8415629,
+    "lon": -0.1577444,
+    "address": "Church Hall, 272 Dyke Road, Brighton",
+    "rating": null,
+    "side": "north-west"
+  },
+  {
+    "name": "St Matthias Church",
+    "type": "church",
+    "lat": 50.8458313,
+    "lon": -0.1348168,
+    "address": "360c Ditchling Road, Brighton and Hove, Brighton",
+    "rating": 4.7,
+    "side": "north-east"
+  },
+  {
+    "name": "Central United Reformed Church",
+    "type": "church",
+    "lat": 50.8307652,
+    "lon": -0.1722879,
+    "address": "Blatchington Road, Hove",
+    "rating": 4.1,
+    "side": "north-west"
+  },
+  {
+    "name": "Logos Church Written Word Ministries",
+    "type": "church",
+    "lat": 50.8283742,
+    "lon": -0.1739079,
+    "address": "1 George Street, Hove",
+    "rating": 5,
+    "side": "north-west"
+  },
+  {
+    "name": "St Mary Magdalen's Church, Brighton",
+    "type": "church",
+    "lat": 50.8255341,
+    "lon": -0.1496096,
+    "address": "55 Upper North Street, Brighton",
+    "rating": 4.8,
+    "side": "central-west"
+  },
+  {
+    "name": "St Joseph's - East Brighton Catholic Parish",
+    "type": "church",
+    "lat": 50.8320576,
+    "lon": -0.1282158,
+    "address": "6 Wellington Road, Brighton",
+    "rating": 4.6,
+    "side": "north-east"
+  },
+  {
+    "name": "Church of St. Bartholomew, Ann Street",
+    "type": "church",
+    "lat": 50.8308815,
+    "lon": -0.1370692,
+    "address": "Ann Street, Brighton",
+    "rating": 4.6,
+    "side": "north-central"
+  },
+  {
+    "name": "Friends Meeting House",
+    "type": "church",
+    "lat": 50.82178889999999,
+    "lon": -0.1412169,
+    "address": "Ship Street, Brighton",
+    "rating": 4.5,
+    "side": "central-central"
+  },
+  {
+    "name": "St. George’s Church",
+    "type": "church",
+    "lat": 50.8182767,
+    "lon": -0.119658,
+    "address": "Saint George's Road, Brighton",
+    "rating": 4.6,
+    "side": "south-east"
+  },
+  {
+    "name": "St John the Baptist's Church, Brighton",
+    "type": "church",
+    "lat": 50.8193596,
+    "lon": -0.1261177,
+    "address": "2 Bristol Road, Brighton",
+    "rating": 4.7,
+    "side": "south-east"
+  },
+  {
+    "name": "St. Mary's Church Kemp Town Brighton",
+    "type": "church",
+    "lat": 50.82035889999999,
+    "lon": -0.1297072,
+    "address": "61 Saint James's Street, Brighton",
+    "rating": 4.7,
+    "side": "south-east"
+  },
+  {
+    "name": "Holland Road Baptist Church",
+    "type": "church",
+    "lat": 50.82683509999999,
+    "lon": -0.1614785,
+    "address": "65-71 Holland Road, Hove",
+    "rating": 4.6,
+    "side": "central-west"
+  },
+  {
+    "name": "The Brighton Oratory",
+    "type": "church",
+    "lat": 50.8329167,
+    "lon": -0.1170578,
+    "address": "114 Hartington Road, Brighton",
+    "rating": 5,
+    "side": "north-east"
+  },
+  {
+    "name": "Church of the Good Shepherd",
+    "type": "church",
+    "lat": 50.8415227,
+    "lon": -0.1577845,
+    "address": "272 Dyke Road, Brighton",
+    "rating": 4.4,
+    "side": "north-west"
+  },
+  {
+    "name": "Emmanuel",
+    "type": "church",
+    "lat": 50.8322745,
+    "lon": -0.1395867,
+    "address": "Clarendon Centre, 47 New England Street, Brighton",
+    "rating": 4.6,
+    "side": "north-central"
+  },
+  {
+    "name": "Dorset Gardens Methodist Church",
+    "type": "church",
+    "lat": 50.8212147,
+    "lon": -0.1339401,
+    "address": "Dorset Gardens, Brighton",
+    "rating": 4.6,
+    "side": "central-east"
+  },
+  {
+    "name": "St Luke’s Prestonville",
+    "type": "church",
+    "lat": 50.83356999999999,
+    "lon": -0.1476314,
+    "address": "64 Old Shoreham Road, Brighton",
+    "rating": 4.3,
+    "side": "north-west"
+  },
+  {
+    "name": "The Salvation Army",
+    "type": "church",
+    "lat": 50.83229009999999,
+    "lon": -0.133235,
+    "address": "1-6, 1-6 Park Crescent Terrace, Brighton",
+    "rating": 4.3,
+    "side": "north-east"
+  },
+  {
+    "name": "St Martin's Church, Brighton",
+    "type": "church",
+    "lat": 50.8331145,
+    "lon": -0.1289019,
+    "address": "25 Lewes Road, Brighton",
+    "rating": 4.6,
+    "side": "north-east"
+  },
+  {
+    "name": "Sacred Heart Catholic Church, Hove",
+    "type": "church",
+    "lat": 50.82976619999999,
+    "lon": -0.170739,
+    "address": "39 Norton Road, Hove",
+    "rating": 4.7,
+    "side": "north-west"
+  },
+  {
+    "name": "Calvary Church Brighton",
+    "type": "church",
+    "lat": 50.8335538,
+    "lon": -0.1380295,
+    "address": "72 Viaduct Road, Brighton",
+    "rating": 4.5,
+    "side": "north-central"
+  },
+  {
+    "name": "The Chapel Royal Brighton",
+    "type": "church",
+    "lat": 50.82250870000001,
+    "lon": -0.1393596,
+    "address": "164 North Street, Brighton",
+    "rating": 4.5,
+    "side": "central-central"
+  },
+  {
+    "name": "REDEEMED CHRISTIAN CHURCH OF GOD, LOVE CHAPEL",
+    "type": "church",
+    "lat": 50.824073,
+    "lon": -0.1392553,
+    "address": "Oba, 2 Church Street, Brighton",
+    "rating": null,
+    "side": "central-central"
+  },
+  {
+    "name": "Brotherhood Gate Spiritualist Centre - SNU",
+    "type": "church",
+    "lat": 50.8209517,
+    "lon": -0.1343495,
+    "address": "21C Saint James's Street, Brighton",
+    "rating": 5,
+    "side": "south-east"
+  },
+  {
+    "name": "Seventh Day Church Of God (Reformed) Inc Roadside Assembly",
+    "type": "church",
+    "lat": 50.820376,
+    "lon": -0.1391473,
+    "address": "Brighton Street, Coventry",
+    "rating": null,
+    "side": "south-central"
+  },
+  {
+    "name": "Church (formerly known as Trinity Chapel",
+    "type": "church",
+    "lat": 50.8227771,
+    "lon": -0.1420254,
+    "address": "40 Duke Street, Brighton",
+    "rating": 4,
+    "side": "central-central"
+  },
+  {
+    "name": "Christ embassy church brighton central",
+    "type": "church",
+    "lat": 50.826004,
+    "lon": -0.1381921,
+    "address": "Lighthouse event centre, Brighton",
+    "rating": null,
+    "side": "central-central"
+  },
+  {
+    "name": "Greek Orthodox Church of the Holy Trinity, Brighton",
+    "type": "church",
+    "lat": 50.8238239,
+    "lon": -0.131511,
+    "address": "Carlton Hill, Brighton",
+    "rating": 4.6,
+    "side": "central-east"
+  },
+  {
+    "name": "Grace Church Brighton",
+    "type": "church",
+    "lat": 50.8267359,
+    "lon": -0.1334239,
+    "address": "Richmond Parade, Brighton",
+    "rating": 5,
+    "side": "central-east"
+  },
+  {
+    "name": "Brighton and Hove SDA Church",
+    "type": "church",
+    "lat": 50.8267304,
+    "lon": -0.1333576,
+    "address": "Richmond Parade, Brighton and Hove, Brighton",
+    "rating": 4,
+    "side": "central-east"
+  }
+]

@@ -1,0 +1,542 @@
+[
+  {
+    "name": "Brighton Museum & Art Gallery",
+    "type": "art_gallery",
+    "lat": 50.823183,
+    "lon": -0.1378733,
+    "address": "Royal Pavilion Gardens, Brighton",
+    "rating": 4.4,
+    "side": "central-central"
+  },
+  {
+    "name": "Enter Gallery",
+    "type": "art_gallery",
+    "lat": 50.8213056,
+    "lon": -0.1405529,
+    "address": "Nile House, Nile Street, Brighton",
+    "rating": 4.5,
+    "side": "central-central"
+  },
+  {
+    "name": "Lighthouse",
+    "type": "art_gallery",
+    "lat": 50.826004,
+    "lon": -0.1381921,
+    "address": "Unit 3, 28 Kensington Street, Brighton",
+    "rating": 4.6,
+    "side": "central-central"
+  },
+  {
+    "name": "The Red Gecko",
+    "type": "art_gallery",
+    "lat": 50.8203883,
+    "lon": -0.1393015,
+    "address": "13 East Street, Brighton",
+    "rating": 4.7,
+    "side": "south-central"
+  },
+  {
+    "name": "The Alexander Gallery",
+    "type": "art_gallery",
+    "lat": 50.8201183,
+    "lon": -0.1386838,
+    "address": "7 East Street, Brighton",
+    "rating": null,
+    "side": "south-central"
+  },
+  {
+    "name": "Two Kats and a Cow",
+    "type": "art_gallery",
+    "lat": 50.8202917,
+    "lon": -0.143898,
+    "address": "167, Kings Road Arches, Brighton",
+    "rating": 4.9,
+    "side": "south-central"
+  },
+  {
+    "name": "Zorian Artworks",
+    "type": "art_gallery",
+    "lat": 50.81936349999999,
+    "lon": -0.1394607,
+    "address": "246 Kings Road, Brighton",
+    "rating": 4.6,
+    "side": "south-central"
+  },
+  {
+    "name": "Daemon Or Doppelganger",
+    "type": "art_gallery",
+    "lat": 50.8281396,
+    "lon": -0.1342819,
+    "address": "10 Richmond Place, Brighton",
+    "rating": 5,
+    "side": "north-east"
+  },
+  {
+    "name": "The Open Studios",
+    "type": "art_gallery",
+    "lat": 50.820276,
+    "lon": -0.1438105,
+    "address": "168 Kings Road, Brighton",
+    "rating": 4.8,
+    "side": "south-central"
+  },
+  {
+    "name": "Prescription Art",
+    "type": "art_gallery",
+    "lat": 50.832805,
+    "lon": -0.13766,
+    "address": "83 London Road, Brighton",
+    "rating": 4.5,
+    "side": "north-central"
+  },
+  {
+    "name": "Castle Fine Art, Brighton",
+    "type": "art_gallery",
+    "lat": 50.8211318,
+    "lon": -0.1388953,
+    "address": "55-56 East Street, Brighton",
+    "rating": 4.6,
+    "side": "central-central"
+  },
+  {
+    "name": "Cloud Gallery Fine Art - Brighton",
+    "type": "art_gallery",
+    "lat": 50.82098500000001,
+    "lon": -0.1397248,
+    "address": "3 Bartholomews, Brighton",
+    "rating": 4.9,
+    "side": "south-central"
+  },
+  {
+    "name": "Kellie Miller Arts Gallery",
+    "type": "art_gallery",
+    "lat": 50.82413400000001,
+    "lon": -0.139547,
+    "address": "3 Church Street, Brighton",
+    "rating": 4.9,
+    "side": "central-central"
+  },
+  {
+    "name": "DOWSE",
+    "type": "art_gallery",
+    "lat": 50.8252616,
+    "lon": -0.1391827,
+    "address": "37 Gardner Street, Brighton",
+    "rating": 4.8,
+    "side": "central-central"
+  },
+  {
+    "name": "The Artch",
+    "type": "art_gallery",
+    "lat": 50.8196198,
+    "lon": -0.1401414,
+    "address": "243 Kings Road, Brighton",
+    "rating": 2,
+    "side": "south-central"
+  },
+  {
+    "name": "Rare Art Lab - Brighton",
+    "type": "art_gallery",
+    "lat": 50.8193332,
+    "lon": -0.1395826,
+    "address": "245 Kings Road Arches, Brighton",
+    "rating": 5,
+    "side": "south-central"
+  },
+  {
+    "name": "35 North Contemporary Fine Art",
+    "type": "art_gallery",
+    "lat": 50.8257783,
+    "lon": -0.1401998,
+    "address": "35 North Road, Brighton",
+    "rating": 4.4,
+    "side": "central-central"
+  },
+  {
+    "name": "MADE Brighton",
+    "type": "art_gallery",
+    "lat": 50.82592710000001,
+    "lon": -0.1402536,
+    "address": "66 North Road, Brighton",
+    "rating": 4.8,
+    "side": "central-central"
+  },
+  {
+    "name": "Dynamite Gallery",
+    "type": "art_gallery",
+    "lat": 50.82801559999999,
+    "lon": -0.1370996,
+    "address": "13 Trafalgar Street, Brighton",
+    "rating": 4.7,
+    "side": "north-central"
+  },
+  {
+    "name": "Phoenix Art Space",
+    "type": "art_gallery",
+    "lat": 50.8288536,
+    "lon": -0.1337418,
+    "address": "10-14 Waterloo Place, Brighton",
+    "rating": 4.6,
+    "side": "north-east"
+  },
+  {
+    "name": "Brighton Tattoo Museum & Studio",
+    "type": "art_gallery",
+    "lat": 50.8194041,
+    "lon": -0.1274774,
+    "address": "34 Upper St James's Street, Kemptown, Brighton",
+    "rating": 4.7,
+    "side": "south-east"
+  },
+  {
+    "name": "The Vintage Workshop",
+    "type": "art_gallery",
+    "lat": 50.8190987,
+    "lon": -0.1227783,
+    "address": "17 Saint George's Road, Brighton",
+    "rating": 5,
+    "side": "south-east"
+  },
+  {
+    "name": "Isis Gallery",
+    "type": "art_gallery",
+    "lat": 50.8254295,
+    "lon": -0.1544429,
+    "address": "49 Norfolk Road, Brighton",
+    "rating": null,
+    "side": "central-west"
+  },
+  {
+    "name": "Brush",
+    "type": "art_gallery",
+    "lat": 50.8173719,
+    "lon": -0.1202611,
+    "address": "139 Marine Parade, Brighton",
+    "rating": 4.7,
+    "side": "south-east"
+  },
+  {
+    "name": "Robert Douglas Art",
+    "type": "art_gallery",
+    "lat": 50.8332928,
+    "lon": -0.1452723,
+    "address": "York House Studios, 22 Old Shoreham Road, Brighton",
+    "rating": 5,
+    "side": "north-west"
+  },
+  {
+    "name": "Adrian Walker Arts",
+    "type": "art_gallery",
+    "lat": 50.826229,
+    "lon": -0.159344,
+    "address": "16 Lansdowne Mews, Hove",
+    "rating": 5,
+    "side": "central-west"
+  },
+  {
+    "name": "Whistleblower Gallery",
+    "type": "art_gallery",
+    "lat": 50.82542050000001,
+    "lon": -0.1653201,
+    "address": "14 Saint John's Road, Hove",
+    "rating": 4.7,
+    "side": "central-west"
+  },
+  {
+    "name": "Kate Jenkins",
+    "type": "art_gallery",
+    "lat": 50.8162344,
+    "lon": -0.1088264,
+    "address": "5, Arundel Mews, 13-18 Arundel Place, Brighton",
+    "rating": 5,
+    "side": "south-east"
+  },
+  {
+    "name": "Cameron Contemporary Art",
+    "type": "art_gallery",
+    "lat": 50.8266873,
+    "lon": -0.1660195,
+    "address": "9b Queen's Place, Brighton and Hove, Hove",
+    "rating": 4.9,
+    "side": "central-west"
+  },
+  {
+    "name": "Flamingo House & Studio",
+    "type": "art_gallery",
+    "lat": 50.82832299999999,
+    "lon": -0.1661874,
+    "address": "Flamingo Studio, 14a Wilbury Road, Hove",
+    "rating": 4.8,
+    "side": "north-west"
+  },
+  {
+    "name": "Albert Mews Studio",
+    "type": "art_gallery",
+    "lat": 50.8273917,
+    "lon": -0.1698805,
+    "address": "11 Albert Mews, Hove",
+    "rating": null,
+    "side": "north-west"
+  },
+  {
+    "name": "M13 Mike's tattoo",
+    "type": "art_gallery",
+    "lat": 50.83120960000001,
+    "lon": -0.173084,
+    "address": "109 Blatchington Road, Hove",
+    "rating": 4.6,
+    "side": "north-west"
+  },
+  {
+    "name": "LeoFrames",
+    "type": "art_gallery",
+    "lat": 50.8258296,
+    "lon": -0.139892,
+    "address": "70 North Road, Brighton",
+    "rating": 4.9,
+    "side": "central-central"
+  },
+  {
+    "name": "Art 5 Gallery",
+    "type": "art_gallery",
+    "lat": 50.8210618,
+    "lon": -0.1408305,
+    "address": "5 Prince Albert Street, Brighton",
+    "rating": 4.7,
+    "side": "central-central"
+  },
+  {
+    "name": "University of Brighton Gallery",
+    "type": "art_gallery",
+    "lat": 50.82417909999999,
+    "lon": -0.1354673,
+    "address": "58-67 Grand Parade, Brighton",
+    "rating": 5,
+    "side": "central-central"
+  },
+  {
+    "name": "io gallery - brighton designers and makers ltd.",
+    "type": "art_gallery",
+    "lat": 50.8272884,
+    "lon": -0.1376557,
+    "address": "39 Sydney Street, Brighton and Hove, Brighton",
+    "rating": 4.8,
+    "side": "north-central"
+  },
+  {
+    "name": "The Book Nook",
+    "type": "art_gallery",
+    "lat": 50.8266393,
+    "lon": -0.165417,
+    "address": "First Avenue, Hove",
+    "rating": 4.8,
+    "side": "central-west"
+  },
+  {
+    "name": "Barrie J Davies",
+    "type": "art_gallery",
+    "lat": 50.82412589999999,
+    "lon": -0.1402023,
+    "address": "Studio Greenhouse, 18 Bond Street, Brighton",
+    "rating": 4.8,
+    "side": "central-central"
+  },
+  {
+    "name": "Daniel Laurence Artworks",
+    "type": "art_gallery",
+    "lat": 50.81953420000001,
+    "lon": -0.140193,
+    "address": "226, Kings Road Arches, Brighton",
+    "rating": 4.8,
+    "side": "south-central"
+  },
+  {
+    "name": "Gallery 19a",
+    "type": "art_gallery",
+    "lat": 50.84066659999999,
+    "lon": -0.1316767,
+    "address": "19a Hollingdean Terrace, Brighton",
+    "rating": 4.7,
+    "side": "north-east"
+  },
+  {
+    "name": "YouAreArt",
+    "type": "art_gallery",
+    "lat": 50.820995,
+    "lon": -0.1396099,
+    "address": "Top Floor, 5 Bartholemews, 5 Bartholomews, Brighton",
+    "rating": 5,
+    "side": "south-central"
+  },
+  {
+    "name": "Labyrinth Gallery",
+    "type": "art_gallery",
+    "lat": 50.8217653,
+    "lon": -0.1391774,
+    "address": "56 Market Street, Brighton",
+    "rating": 5,
+    "side": "central-central"
+  },
+  {
+    "name": "Stanley Road Department Store",
+    "type": "art_gallery",
+    "lat": 50.8217733,
+    "lon": -0.139385,
+    "address": "54-55 Market Street, Brighton",
+    "rating": 4.7,
+    "side": "central-central"
+  },
+  {
+    "name": "Clarendon Fine Art Brighton",
+    "type": "art_gallery",
+    "lat": 50.8211318,
+    "lon": -0.1388953,
+    "address": "53/54 East Street, Brighton",
+    "rating": 4.8,
+    "side": "central-central"
+  },
+  {
+    "name": "Jules Emporium",
+    "type": "art_gallery",
+    "lat": 50.82304300000001,
+    "lon": -0.1398204,
+    "address": "5 New Road, Brighton",
+    "rating": 5,
+    "side": "central-central"
+  },
+  {
+    "name": "BouSham Gallery",
+    "type": "art_gallery",
+    "lat": 50.8219417,
+    "lon": -0.1399977,
+    "address": "14 Hanningtons Lane, Brighton",
+    "rating": 4.9,
+    "side": "central-central"
+  },
+  {
+    "name": "Paxton+Glew Contemporary Art Gallery",
+    "type": "art_gallery",
+    "lat": 50.8220721,
+    "lon": -0.1400745,
+    "address": "12 Hanningtons Lane, Brighton",
+    "rating": 5,
+    "side": "central-central"
+  },
+  {
+    "name": "The Secret Comedy Club",
+    "type": "art_gallery",
+    "lat": 50.8220855,
+    "lon": -0.1401876,
+    "address": "42 Brighton Square, Brighton",
+    "rating": 4.5,
+    "side": "central-central"
+  },
+  {
+    "name": "Artista Cafe and Gallery",
+    "type": "art_gallery",
+    "lat": 50.82207299999999,
+    "lon": -0.1402094,
+    "address": "42 Brighton Square, Brighton",
+    "rating": 4.5,
+    "side": "central-central"
+  },
+  {
+    "name": "Brighton CCA",
+    "type": "art_gallery",
+    "lat": 50.82417909999999,
+    "lon": -0.1354673,
+    "address": "58-67 Grand Parade, Brighton",
+    "rating": 4.8,
+    "side": "central-central"
+  },
+  {
+    "name": "Alternative Film Posters",
+    "type": "art_gallery",
+    "lat": 50.82211590000001,
+    "lon": -0.1404492,
+    "address": "23 Brighton Square, Brighton",
+    "rating": null,
+    "side": "central-central"
+  },
+  {
+    "name": "Valeria Berney Artist",
+    "type": "art_gallery",
+    "lat": 50.8220545,
+    "lon": -0.1405056,
+    "address": "23 Brighton Square, Brighton",
+    "rating": 5,
+    "side": "central-central"
+  },
+  {
+    "name": "NEON ART by Ash",
+    "type": "art_gallery",
+    "lat": 50.8213093,
+    "lon": -0.1400486,
+    "address": "19 Market Street, Brighton",
+    "rating": 5,
+    "side": "central-central"
+  },
+  {
+    "name": "Liberation Art Gallery",
+    "type": "art_gallery",
+    "lat": 50.82170869999999,
+    "lon": -0.1403865,
+    "address": "38 Meeting House Lane, Brighton",
+    "rating": 4.9,
+    "side": "central-central"
+  },
+  {
+    "name": "SOHO Fine Art",
+    "type": "art_gallery",
+    "lat": 50.82143319999999,
+    "lon": -0.1402196,
+    "address": "44 Market Street, Brighton",
+    "rating": 4.9,
+    "side": "central-central"
+  },
+  {
+    "name": "BitsOnWalls",
+    "type": "art_gallery",
+    "lat": 50.8246088,
+    "lon": -0.1353716,
+    "address": "50 Grand Parade, Brighton",
+    "rating": 5,
+    "side": "central-central"
+  },
+  {
+    "name": "Guy Allen’s Studio",
+    "type": "art_gallery",
+    "lat": 50.8239092,
+    "lon": -0.1403306,
+    "address": "13 Bond Street, Brighton",
+    "rating": null,
+    "side": "central-central"
+  },
+  {
+    "name": "Tiffany lynch artist",
+    "type": "art_gallery",
+    "lat": 50.8241003,
+    "lon": -0.1401523,
+    "address": "Studio Green house, 18 Jew Street, Brighton",
+    "rating": 5,
+    "side": "central-central"
+  },
+  {
+    "name": "Indelible Fine Art",
+    "type": "art_gallery",
+    "lat": 50.8240792,
+    "lon": -0.1405129,
+    "address": "9-10 Jew Street, Brighton",
+    "rating": 5,
+    "side": "central-central"
+  },
+  {
+    "name": "The Ledward Centre",
+    "type": "art_gallery",
+    "lat": 50.8252105,
+    "lon": -0.1384379,
+    "address": "14a Jubilee Street, Brighton",
+    "rating": 4.7,
+    "side": "central-central"
+  }
+]

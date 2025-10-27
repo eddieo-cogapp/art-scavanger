@@ -1,0 +1,542 @@
+[
+  {
+    "name": "Holiday Inn Brighton - Seafront by IHG",
+    "type": "bar",
+    "lat": 50.8223978,
+    "lon": -0.152454,
+    "address": "137 Kings Road, Brighton",
+    "rating": 3.8,
+    "side": "central-west"
+  },
+  {
+    "name": "Legends Hotel",
+    "type": "bar",
+    "lat": 50.81967220000001,
+    "lon": -0.1328906,
+    "address": "31-34 Marine Parade, Brighton",
+    "rating": 4.2,
+    "side": "south-east"
+  },
+  {
+    "name": "Hotel Pelirocco",
+    "type": "bar",
+    "lat": 50.8226263,
+    "lon": -0.1510072,
+    "address": "Hotel Pelirocco, 10 Regency Square, Brighton",
+    "rating": 4.8,
+    "side": "central-west"
+  },
+  {
+    "name": "The Amsterdam Hotel - Brighton UK",
+    "type": "bar",
+    "lat": 50.8201409,
+    "lon": -0.1348637,
+    "address": "11-12 Marine Parade, Brighton",
+    "rating": 3.9,
+    "side": "south-east"
+  },
+  {
+    "name": "Artist Residence Brighton",
+    "type": "bar",
+    "lat": 50.8232066,
+    "lon": -0.1499676,
+    "address": "33 Regency Square, Brighton",
+    "rating": 4.6,
+    "side": "central-west"
+  },
+  {
+    "name": "The Old Ship Hotel",
+    "type": "bar",
+    "lat": 50.8203579,
+    "lon": -0.1420294,
+    "address": "The Old Ship Hotel, 32-38 Kings Road, Brighton",
+    "rating": 4,
+    "side": "south-central"
+  },
+  {
+    "name": "Hotel du Vin Brighton",
+    "type": "bar",
+    "lat": 50.8206472,
+    "lon": -0.1424615,
+    "address": "2 Ship Street, Brighton",
+    "rating": 4.2,
+    "side": "south-central"
+  },
+  {
+    "name": "Drakes Hotel | A Curious Group of Hotels",
+    "type": "bar",
+    "lat": 50.8194329,
+    "lon": -0.1313231,
+    "address": "Marine Parade, Brighton",
+    "rating": 4.6,
+    "side": "south-east"
+  },
+  {
+    "name": "Malmaison Brighton",
+    "type": "bar",
+    "lat": 50.81253919999999,
+    "lon": -0.1022332,
+    "address": "The Waterfront, Brighton",
+    "rating": 4.3,
+    "side": "south-east"
+  },
+  {
+    "name": "The Kings Arms",
+    "type": "bar",
+    "lat": 50.82118610000001,
+    "lon": -0.1346058,
+    "address": "56 George Street, Brighton",
+    "rating": 3.5,
+    "side": "central-east"
+  },
+  {
+    "name": "The Evening Star",
+    "type": "bar",
+    "lat": 50.8276577,
+    "lon": -0.1420324,
+    "address": "55-56 Surrey Street, Brighton",
+    "rating": 4.6,
+    "side": "north-central"
+  },
+  {
+    "name": "The Southern Belle",
+    "type": "bar",
+    "lat": 50.823497,
+    "lon": -0.1573075,
+    "address": "The Southern Belle, 3 Waterloo Street, Hove",
+    "rating": 4.5,
+    "side": "central-west"
+  },
+  {
+    "name": "The Pipeline",
+    "type": "bar",
+    "lat": 50.8202071,
+    "lon": -0.1396543,
+    "address": "6 Little East Street, Brighton",
+    "rating": 4.4,
+    "side": "south-central"
+  },
+  {
+    "name": "Brighton Palace Pier",
+    "type": "bar",
+    "lat": 50.8168555,
+    "lon": -0.136738,
+    "address": "Madeira Drive, Brighton",
+    "rating": 4.4,
+    "side": "south-central"
+  },
+  {
+    "name": "The Station Hotel Pub and Kitchen",
+    "type": "bar",
+    "lat": 50.8447636,
+    "lon": -0.1553955,
+    "address": "1 Hampstead Road, Brighton",
+    "rating": 4.6,
+    "side": "north-west"
+  },
+  {
+    "name": "The Old Market",
+    "type": "bar",
+    "lat": 50.8246067,
+    "lon": -0.1573939,
+    "address": "11A Upper Market Street, Brighton, Hove",
+    "rating": 4.6,
+    "side": "central-west"
+  },
+  {
+    "name": "The Quadrant",
+    "type": "bar",
+    "lat": 50.824069,
+    "lon": -0.1434157,
+    "address": "12-13 North Street, Brighton",
+    "rating": 4.3,
+    "side": "central-central"
+  },
+  {
+    "name": "The Eagle (Thai food)",
+    "type": "bar",
+    "lat": 50.8267746,
+    "lon": -0.1368664,
+    "address": "125 Gloucester Road, Brighton",
+    "rating": 4.4,
+    "side": "central-central"
+  },
+  {
+    "name": "East Street Tap",
+    "type": "bar",
+    "lat": 50.82005909999999,
+    "lon": -0.1390635,
+    "address": "74 East Street, Brighton",
+    "rating": 4.2,
+    "side": "south-central"
+  },
+  {
+    "name": "The Actors",
+    "type": "bar",
+    "lat": 50.8222621,
+    "lon": -0.135953,
+    "address": "4 Prince's Street, Brighton",
+    "rating": 4.5,
+    "side": "central-central"
+  },
+  {
+    "name": "R-Bar",
+    "type": "bar",
+    "lat": 50.8200303,
+    "lon": -0.1359997,
+    "address": "5-7 Marine Parade, Brighton",
+    "rating": 4,
+    "side": "south-central"
+  },
+  {
+    "name": "Southover Wines",
+    "type": "bar",
+    "lat": 50.8279404,
+    "lon": -0.1285223,
+    "address": "80-81 Southover Street, Brighton and Hove, Brighton",
+    "rating": 4.5,
+    "side": "north-east"
+  },
+  {
+    "name": "The Cleveland Arms",
+    "type": "bar",
+    "lat": 50.84230179999999,
+    "lon": -0.1384746,
+    "address": "Cleveland Arms Cleveland Road 27A, Brighton and Hove, Brighton",
+    "rating": 4.6,
+    "side": "north-central"
+  },
+  {
+    "name": "Las Iguanas - Brighton",
+    "type": "bar",
+    "lat": 50.8249965,
+    "lon": -0.1388499,
+    "address": "7-8 Jubilee Street, Brighton",
+    "rating": 4.8,
+    "side": "central-central"
+  },
+  {
+    "name": "Black Lion",
+    "type": "bar",
+    "lat": 50.82116629999999,
+    "lon": -0.141145,
+    "address": "14 Black Lion Street, Brighton",
+    "rating": 4.2,
+    "side": "central-central"
+  },
+  {
+    "name": "The Lion & Lobster",
+    "type": "bar",
+    "lat": 50.823761,
+    "lon": -0.1541388,
+    "address": "24 Sillwood Street, Brighton",
+    "rating": 4.4,
+    "side": "central-west"
+  },
+  {
+    "name": "The Basketmakers Arms",
+    "type": "bar",
+    "lat": 50.8265863,
+    "lon": -0.1368099,
+    "address": "12 Gloucester Road, Brighton",
+    "rating": 4.6,
+    "side": "central-central"
+  },
+  {
+    "name": "The Wellington",
+    "type": "bar",
+    "lat": 50.8318816,
+    "lon": -0.125803,
+    "address": "53 Elm Grove, Brighton",
+    "rating": 4.1,
+    "side": "north-east"
+  },
+  {
+    "name": "The Lanes Hotel",
+    "type": "bar",
+    "lat": 50.8187751,
+    "lon": -0.1279057,
+    "address": "70-72 Marine Parade, Brighton",
+    "rating": 4.3,
+    "side": "south-east"
+  },
+  {
+    "name": "Côte Brighton",
+    "type": "bar",
+    "lat": 50.82407680000001,
+    "lon": -0.1383339,
+    "address": "Stage Door, 115-116, Church Street, Brighton",
+    "rating": 4.3,
+    "side": "central-central"
+  },
+  {
+    "name": "North Laine Brewhouse",
+    "type": "bar",
+    "lat": 50.82681900000001,
+    "lon": -0.135655,
+    "address": "27 Gloucester Place, Brighton",
+    "rating": 4.1,
+    "side": "central-central"
+  },
+  {
+    "name": "Revenge",
+    "type": "bar",
+    "lat": 50.8201252,
+    "lon": -0.136443,
+    "address": "32-34 Old Steine, Brighton",
+    "rating": 4,
+    "side": "south-central"
+  },
+  {
+    "name": "The Brunswick",
+    "type": "bar",
+    "lat": 50.8243046,
+    "lon": -0.1623747,
+    "address": "1 Holland Road, Hove",
+    "rating": 4.3,
+    "side": "central-west"
+  },
+  {
+    "name": "The Prince Albert",
+    "type": "bar",
+    "lat": 50.8284764,
+    "lon": -0.1406654,
+    "address": "Prince Albert, 48 Trafalgar Street, Brighton",
+    "rating": 4.5,
+    "side": "north-central"
+  },
+  {
+    "name": "Ye Olde King & Queen Brighton",
+    "type": "bar",
+    "lat": 50.8246014,
+    "lon": -0.1370072,
+    "address": "13-17 Marlborough Place, Brighton and Hove, Brighton",
+    "rating": 4.3,
+    "side": "central-central"
+  },
+  {
+    "name": "The West Hill Tavern",
+    "type": "bar",
+    "lat": 50.8307686,
+    "lon": -0.142726,
+    "address": "67 Buckingham Place, Brighton",
+    "rating": 4.5,
+    "side": "north-central"
+  },
+  {
+    "name": "Volks Club",
+    "type": "bar",
+    "lat": 50.8193,
+    "lon": -0.1327786,
+    "address": "3 Madeira Drive, Brighton",
+    "rating": 4.3,
+    "side": "south-east"
+  },
+  {
+    "name": "The Bow Street Runner",
+    "type": "bar",
+    "lat": 50.8254309,
+    "lon": -0.1600477,
+    "address": "62 Brunswick Street West, Hove",
+    "rating": 4.7,
+    "side": "central-west"
+  },
+  {
+    "name": "Sussex",
+    "type": "bar",
+    "lat": 50.8213221,
+    "lon": -0.1393886,
+    "address": "33-34 East Street, Brighton",
+    "rating": 4.3,
+    "side": "central-central"
+  },
+  {
+    "name": "Plateau",
+    "type": "bar",
+    "lat": 50.82103029999999,
+    "lon": -0.1399509,
+    "address": "1 Bartholomews, Brighton",
+    "rating": 4.5,
+    "side": "central-central"
+  },
+  {
+    "name": "Saint James Tavern in brighton",
+    "type": "bar",
+    "lat": 50.8207155,
+    "lon": -0.1339402,
+    "address": "16 Madeira Place, Brighton",
+    "rating": 4.3,
+    "side": "south-east"
+  },
+  {
+    "name": "Bath Arms",
+    "type": "bar",
+    "lat": 50.8221041,
+    "lon": -0.1409761,
+    "address": "3-4 Meeting House Lane, Brighton",
+    "rating": 4.3,
+    "side": "central-central"
+  },
+  {
+    "name": "The Prince of Wales",
+    "type": "bar",
+    "lat": 50.8236769,
+    "lon": -0.1465091,
+    "address": "47 Clarence Square, Brighton",
+    "rating": 4.3,
+    "side": "central-west"
+  },
+  {
+    "name": "Freemasons",
+    "type": "bar",
+    "lat": 50.82568149999999,
+    "lon": -0.1597066,
+    "address": "39 Western Road, Hove",
+    "rating": 4.2,
+    "side": "central-west"
+  },
+  {
+    "name": "The Post & Telegraph - JD Wetherspoon",
+    "type": "bar",
+    "lat": 50.82305909999999,
+    "lon": -0.1403284,
+    "address": "155-158 North Street, Brighton",
+    "rating": 4,
+    "side": "central-central"
+  },
+  {
+    "name": "Open House",
+    "type": "bar",
+    "lat": 50.8372563,
+    "lon": -0.1362133,
+    "address": "146 Springfield Road, Brighton",
+    "rating": 4.4,
+    "side": "north-central"
+  },
+  {
+    "name": "Riddle & Finns The Lanes",
+    "type": "bar",
+    "lat": 50.822593,
+    "lon": -0.140406,
+    "address": "12b Meeting House Lane, Brighton",
+    "rating": 4.6,
+    "side": "central-central"
+  },
+  {
+    "name": "Earth & Stars",
+    "type": "bar",
+    "lat": 50.82483060000001,
+    "lon": -0.1421861,
+    "address": "46 Windsor Street, Brighton",
+    "rating": 4.5,
+    "side": "central-central"
+  },
+  {
+    "name": "The Cricketers",
+    "type": "bar",
+    "lat": 50.821268,
+    "lon": -0.1411115,
+    "address": "15 Black Lion Street, Brighton",
+    "rating": 4.4,
+    "side": "central-central"
+  },
+  {
+    "name": "The Greys Freehouse",
+    "type": "bar",
+    "lat": 50.82920850000001,
+    "lon": -0.1305265,
+    "address": "105 Southover Street, Brighton",
+    "rating": 4.5,
+    "side": "north-east"
+  },
+  {
+    "name": "Northern Lights",
+    "type": "bar",
+    "lat": 50.8202071,
+    "lon": -0.1396543,
+    "address": "6 Little East Street, Brighton",
+    "rating": 4.6,
+    "side": "south-central"
+  },
+  {
+    "name": "Bohemia Brighton",
+    "type": "bar",
+    "lat": 50.82163069999999,
+    "lon": -0.1409473,
+    "address": "54-55 Meeting House Lane, Brighton",
+    "rating": 4.4,
+    "side": "central-central"
+  },
+  {
+    "name": "Brighton Rocks",
+    "type": "bar",
+    "lat": 50.820021,
+    "lon": -0.1309658,
+    "address": "6 Rock Place, Brighton",
+    "rating": 4.6,
+    "side": "south-east"
+  },
+  {
+    "name": "Black Dove",
+    "type": "bar",
+    "lat": 50.8201747,
+    "lon": -0.1304339,
+    "address": "74 Saint James's Street, Brighton",
+    "rating": 4.6,
+    "side": "south-east"
+  },
+  {
+    "name": "The Park View",
+    "type": "bar",
+    "lat": 50.8443028,
+    "lon": -0.1450139,
+    "address": "71 Preston Drove, Brighton",
+    "rating": 4.3,
+    "side": "north-west"
+  },
+  {
+    "name": "The Sussex Yeoman Brighton",
+    "type": "bar",
+    "lat": 50.8287272,
+    "lon": -0.1426512,
+    "address": "City Centre, 7 Guildford Road, Brighton",
+    "rating": 4.5,
+    "side": "north-central"
+  },
+  {
+    "name": "Ten Green Bottles Brighton Wine Bar and Shop",
+    "type": "bar",
+    "lat": 50.825191,
+    "lon": -0.1386746,
+    "address": "9 Jubilee Street, Brighton",
+    "rating": 4.5,
+    "side": "central-central"
+  },
+  {
+    "name": "Tempest",
+    "type": "bar",
+    "lat": 50.8203541,
+    "lon": -0.1444091,
+    "address": "159 Kings Road, Brighton",
+    "rating": 4.3,
+    "side": "south-central"
+  },
+  {
+    "name": "The Chimney House",
+    "type": "bar",
+    "lat": 50.8352847,
+    "lon": -0.1487357,
+    "address": "28 Upper Hamilton Road, Brighton",
+    "rating": 4.4,
+    "side": "north-west"
+  },
+  {
+    "name": "The Villa Restaurant (Turkish Villa)",
+    "type": "bar",
+    "lat": 50.8201875,
+    "lon": -0.1385005,
+    "address": "9-10 Pool Valley, Brighton",
+    "rating": 4.3,
+    "side": "south-central"
+  }
+]

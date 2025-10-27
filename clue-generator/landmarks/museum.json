@@ -1,0 +1,146 @@
+[
+  {
+    "name": "Brighton Museum & Art Gallery",
+    "type": "museum",
+    "lat": 50.823183,
+    "lon": -0.1378733,
+    "address": "Royal Pavilion Gardens, Brighton",
+    "rating": 4.4,
+    "side": "central-central"
+  },
+  {
+    "name": "Royal Pavilion",
+    "type": "museum",
+    "lat": 50.8223517,
+    "lon": -0.1376855,
+    "address": "4/5 Pavilion Buildings, Brighton",
+    "rating": 4.5,
+    "side": "central-central"
+  },
+  {
+    "name": "Brighton Toy and Model Museum",
+    "type": "museum",
+    "lat": 50.8286934,
+    "lon": -0.140752,
+    "address": "52-55 Trafalgar Street, Brighton",
+    "rating": 4.6,
+    "side": "north-central"
+  },
+  {
+    "name": "Brighton Tattoo Museum & Studio",
+    "type": "museum",
+    "lat": 50.8194041,
+    "lon": -0.1274774,
+    "address": "34 Upper St James's Street, Kemptown, Brighton",
+    "rating": 4.7,
+    "side": "south-east"
+  },
+  {
+    "name": "Anna's Museum",
+    "type": "museum",
+    "lat": 50.825271,
+    "lon": -0.148039,
+    "address": "44 Upper North Street, Brighton",
+    "rating": 4.9,
+    "side": "central-west"
+  },
+  {
+    "name": "Booth Museum of Natural History",
+    "type": "museum",
+    "lat": 50.8371019,
+    "lon": -0.153043,
+    "address": "194 Dyke Road, Brighton",
+    "rating": 4.5,
+    "side": "north-west"
+  },
+  {
+    "name": "Brighton Fishing Museum",
+    "type": "museum",
+    "lat": 50.8199806,
+    "lon": -0.1421278,
+    "address": "201, Kings Road Arches, 202 Seafront, Brighton",
+    "rating": 4.2,
+    "side": "south-central"
+  },
+  {
+    "name": "Preston Manor",
+    "type": "museum",
+    "lat": 50.8424785,
+    "lon": -0.150042,
+    "address": "Preston Drove, Brighton",
+    "rating": 4.6,
+    "side": "north-west"
+  },
+  {
+    "name": "The Regency Town House",
+    "type": "museum",
+    "lat": 50.8242663,
+    "lon": -0.1583544,
+    "address": "13 Brunswick Square, Hove",
+    "rating": 4.6,
+    "side": "central-west"
+  },
+  {
+    "name": "Old Police Cells Museum",
+    "type": "museum",
+    "lat": 50.8205985,
+    "lon": -0.1399328,
+    "address": "Town Hall, Brighton",
+    "rating": 4.3,
+    "side": "south-central"
+  },
+  {
+    "name": "The Skylark",
+    "type": "museum",
+    "lat": 50.8200068,
+    "lon": -0.1421898,
+    "address": "201, Kings Road Arches, 202 Seafront, Brighton",
+    "rating": 5,
+    "side": "south-central"
+  },
+  {
+    "name": "Volk's Electric Railway",
+    "type": "museum",
+    "lat": 50.81896589999999,
+    "lon": -0.1329276,
+    "address": "285 Madeira Drive, Brighton",
+    "rating": 4.6,
+    "side": "south-east"
+  },
+  {
+    "name": "West Pier Centre",
+    "type": "museum",
+    "lat": 50.82118730000001,
+    "lon": -0.1489312,
+    "address": "103-105 Kings Road, Brighton and Hove, Brighton",
+    "rating": null,
+    "side": "central-west"
+  },
+  {
+    "name": "Koop Projects",
+    "type": "museum",
+    "lat": 50.81866659999999,
+    "lon": -0.1221467,
+    "address": "93 Saint George's Road, Brighton",
+    "rating": 5,
+    "side": "south-east"
+  },
+  {
+    "name": "Take Shelter at Downs Junior School",
+    "type": "museum",
+    "lat": 50.8391093,
+    "lon": -0.1347373,
+    "address": "Downs Junior School, Rugby Road, Brighton",
+    "rating": 5,
+    "side": "north-east"
+  },
+  {
+    "name": "Collectibulldogs",
+    "type": "museum",
+    "lat": 50.836681,
+    "lon": -0.122892,
+    "address": "38A Gladstone Place, Brighton",
+    "rating": 5,
+    "side": "north-east"
+  }
+]
