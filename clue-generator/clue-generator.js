@@ -702,8 +702,15 @@ async function generateClues(artwork) {
   let enhancedClue3 = baseClue3;
   
   if (CONFIG.useAI) {
+    // Add delays between AI calls to respect rate limit (5 requests per minute = 12 seconds between calls)
     enhancedClue1 = await generateCrypticClue(artwork, nearby);
+    console.log(`    ⏳ Waiting 13 seconds before next AI call...`);
+    await new Promise(resolve => setTimeout(resolve, 13000));
+    
     enhancedClue2 = await generateMediumClue(artwork, nearby);
+    console.log(`    ⏳ Waiting 13 seconds before next AI call...`);
+    await new Promise(resolve => setTimeout(resolve, 13000));
+    
     enhancedClue3 = await generateDirectionalClue(artwork, nearby);
   }
   
@@ -748,7 +755,7 @@ async function generateClues(artwork) {
  */
 async function queryArtworks() {
   const query = {
-    size: 50,
+    size: CONFIG.maxArtworks,
     query: {
       "geo_bounding_box": {
       "geolocation": {
@@ -857,10 +864,10 @@ async function main() {
       console.log(`  ✓ Level 2: ${clue2.substring(0, 100)}${clue2.length > 100 ? '...' : ''}`);
       console.log(`  ✓ Level 3: ${clue3.substring(0, 100)}${clue3.length > 100 ? '...' : ''}`);
       
-      // RATE LIMITING: Wait 3 seconds between artworks to avoid API limits
+      // RATE LIMITING: Wait 1 second between artworks (AI calls already have built-in delays)
       if (i < limitedArtworks.length - 1) {
-        console.log(`  ⏳ Waiting 3 seconds before next artwork...`);
-        await new Promise(resolve => setTimeout(resolve, 3000));
+        console.log(`  ⏳ Waiting 1 second before next artwork...`);
+        await new Promise(resolve => setTimeout(resolve, 1000));
       }
     }
     

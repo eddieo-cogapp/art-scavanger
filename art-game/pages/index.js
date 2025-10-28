@@ -131,6 +131,15 @@ export default function Home() {
     return shuffled.slice(0, count)
   }
 
+
+  const handleChange = (e) => {
+    const val = e.target.value
+    // Allow only digits, empty string, or remove leading zeros
+    if (/^\d*$/.test(val)) {
+      setCount(val.replace(/^0+/, '')) // optional: strip leading zeros
+    }
+  }
+
   const startGame = async (e) => {
     e.preventDefault()
     setLocationError(null)
@@ -250,16 +259,18 @@ export default function Home() {
             min="1" 
             max="20" 
             value={count} 
-            onChange={e => setCount(Number(e.target.value))} 
+            onChange={handleChange} 
           />
         </label>
 
         <label>
-          General location
+          Location
           <input 
+            readOnly="true"
             type="text" 
             value={location} 
             onChange={e => setLocation(e.target.value)} 
+            style={{ backgroundColor: '#f0f0f0' }} 
           />
         </label>
 
