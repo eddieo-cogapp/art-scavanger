@@ -5,6 +5,10 @@ import MapGuess from '../components/MapGuess'
 import ScoreScreen from '../components/ScoreScreen'
 import artworksData from '../data/artworks.json'
 import { computeScore, haversineDistance } from '../utils/scoring'
+import dynamic from 'next/dynamic';
+
+// const MapGuess = dynamic(() => import('../components/MapGuess'), { ssr: false });
+
 
 export default function GamePage() {
   const router = useRouter()
